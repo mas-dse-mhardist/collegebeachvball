@@ -1,0 +1,764 @@
+,Position,TeamAPlayer1,TeamAPlayer2,TeamBPlayer1,TeamBPlayer2,Winner,Loser,Compid,Event Date
+1,2,Darby Dunn,Sammee Thomas,Paula Hoffman,Kaitlyn Sibson,Stetson,Eckerd ,799,20180223
+6,2,Lydia Dimke,Katie Smith,Ashley McGinn,Allie Elson,South Carolina,Georgia State,800,20180223
+11,2,Brooke Kuhlman,Vanessa Freire,Carly Scarborough,Brittany Pellitteri,Florida State,FAU,801,20180223
+16,2,Ashley McGinn,Allie Elson,Sammee Thomas,Darby Dunn,Stetson,Georgia State,802,20180223
+21,2,Vanessa Freire,Brooke Kuhlman,Carly Schneider,Katie Smith,South Carolina,Florida State,803,20180223
+29,2,Kelly Hunter,Annika Albrecht,Caitlan Sammons,Sydney Nelson,Nebraska,Benedictine,805,20180223
+33,2,Mandi Orellana,Haleigh Nelson,Sam Manley,Emily Sonny,Cal Poly SLO,LSU,816,20180223
+38,2,Haleigh Nelson,Hunter Domanski,Hannah Towne,Jessica Stansfield,Grand Canyon,LSU,817,20180223
+43,2,Sam Manley,Emily Sonny,Corinne Quiggle,Deahna Kraft,Cal Poly SLO,Pepperdine,818,20180223
+48,2,Annika Van Gunst,Brooke Weiner,Madison  Whiting,Arielle Erillo,Georgia State,Eckerd ,821,20180224
+52,2,Carly Schneider,Katie Smith,Darby Dunn,Sammee Thomas,Stetson,South Carolina,823,20180224
+57,2,Vanessa Freire,Brooke Kuhlman,Annika Van Gunst,Brooke Weiner,Florida State,Georgia State,824,20180224
+62,2,Brook Bauer,Madalyn Roh,Haleigh Nelson,Hunter Domanski,Pepperdine,LSU,825,20180224
+67,2,Haleigh Nelson,Hunter Domanski,Jazz Sweat,Kenzie Maloney,LSU,Nebraska,826,20180224
+72,2,Jaelyn Greene,Jillian Bergeson,Madison Brabham,Macy Berg,TCU,Texas A&M; Kingsville,827,20180224
+76,2,Carly Schneider,Katie Smith,Carly Scarborough,Brittany Pellitteri,South Carolina,FAU,828,20180224
+81,2,Brook Bauer,Madalyn Roh,Hannah Towne,Jessica Stansfield,Pepperdine,Grand Canyon,829,20180224
+86,2,Jaelyn Greene,Jillian Bergeson,Kayla Armer,Tori Hinojosa,Houston Baptist,TCU,830,20180224
+91,2,Vanessa Freire,Brooke Kuhlman,Carly Perales,Sunniva Helland-Hansen,Stetson,Florida State,831,20180224
+96,2,Sarah Sponcil ,Lily Justine,Morgan Hentz,Amelia Smith,UCLA,Stanford,832,20180224
+100,2,Brittany Pase,Courtney Miller,Hannah Tannone,Amber Lake,UNF,Webber,833,20180224
+105,2,Courtney Miller,Brittany Pase,Nicole Dominguez,Katie McKiel,UNF,Tampa,834,20180224
+109,2,Lindsey Knudsen,Emily Bible,Bryce Bark,Madison Dueck,Saint Mary's,Cal,835,20180224
+114,2,Bryce Bark,Madison Dueck,Roni Long,Skylar Wine,Cal,Pacific,836,20180224
+119,2,Ka'iwi Schucht,Emily Maglio,Morgan Hentz,Amelia Smith,Hawaii,Stanford,837,20180224
+124,2,Anabela Sataric,Dorina Klinger,Grace Convey,Kayla Gallant,FIU,ULM,838,20180224
+129,2,Sam Manley,Emily Sonny,Kelly Hunter,Annika Albrecht,Cal Poly SLO,Nebraska,839,20180224
+134,2,Haley Hallgren,Sammy Slater,Jessica Stansfield,Hannah Towne,USC,Grand Canyon,840,20180224
+139,2,Kayla Armer,Tori Hinojosa,Grace Convey,Kayla Gallant,Houston Baptist,ULM,841,20180224
+144,2,Elli Gibson,Jessica Johnson,Bria Rochelle,Alexis Creasman,Mercer,Huntingdon,842,20180224
+149,2,Haley Hallgren,Sammy Slater,Halle Parker,Kara  Woodard,USC,ASU,843,20180224
+154,2,Emily Maglio,Ka'iwi Schucht,Lily Justine,Sarah Sponcil ,Hawaii,UCLA,844,20180224
+159,2,Caitlan Sammons,Sydney Nelson,Brooke Riley,Lauren Walker,Abilene Christian,Benedictine,845,20180224
+161,2,Olivia Hallaran,Kacey Nady,Caitlan Sammons,Sydney Nelson,Arizona,Benedictine,846,20180224
+166,2,Ciara Reistad,Julia Golbeck,Brooke Riley,Lauren Walker,San Jose State University,Abilene Christian,847,20180224
+171,2,Ciara Reistad,Julia Golbeck,Lauren Walker,Brooke Riley,San Jose State University,Abilene Christian,848,20180224
+176,2,Morgan Hughes,Payton Rund,Taylor Poncetta,Hanne De Schrijver,Saint Mary's,Pacific,851,20180224
+181,2,Anabela Sataric,Dorina Klinger,Hannah Rogers,Molly Scheel,FIU,TCU,854,20180225
+186,2,Kacey Nady,Olivia Hallaran,Brooke Riley,Lauren Walker,Arizona,Abilene Christian,855,20180225
+191,2,Ciara Reistad,Julia Golbeck,Caitlan Sammons,Sydney Nelson,San Jose State University,Benedictine,856,20180225
+196,2,Sammy Slater,Haley Hallgren,Kenzie Maloney,Annika Albrecht,USC,Nebraska,857,20180225
+201,2,Sydney Palmer,Kara  Woodard,Kenzie Maloney,Annika Albrecht,Nebraska,ASU,858,20180225
+206,2,Molly Scheel,Hannah Rogers,Maile Sellers,Kayla Gallant,TCU,ULM,859,20180225
+211,2,Lily Justine,Sarah Sponcil ,Amelia Smith,Morgan Hentz,UCLA,Stanford,860,20180225
+216,2,Haley Hallgren,Sammy Slater,Sam Manley,Emily Sonny,Cal Poly SLO,USC,861,20180225
+221,2,Emily Sonny,Sam Manley,Natalie Braun,Frances Giedraitis,Cal Poly SLO,ASU,862,20180225
+226,2,Kayla Gallant,Maile Sellers,Macy Berg,Madison Brabham,ULM,Texas A&M; Kingsville,863,20180225
+231,2,Anabela Sataric,Dorina Klinger,Madison Brabham,Macy Berg,FIU,Texas A&M; Kingsville,864,20180225
+236,2,Kacey Nady,Olivia Hallaran,Ciara Reistad,Julia Golbeck,Arizona,San Jose State University,865,20180225
+240,2,Courtney Miller,Brittany Pase,Keniah Rivera Santiago,Kelsey Morton,UNF,Southeastern,866,20180225
+245,2,Sarah Sponcil ,Lily Justine,Ka'iwi Schucht,Emily Maglio,Hawaii,UCLA,868,20180225
+250,2,Ka'iwi Schucht,Emily Maglio,Amelia Smith,Morgan Hentz,Hawaii,Stanford,869,20180225
+255,2,Emily Sonny,Sam Manley,Hannah Towne,Jessica Stansfield,Cal Poly SLO,Grand Canyon,870,20180223
+260,2,Veronica Nederend,Maddie  Leiphardt ,Mattison Degarmo,Emily Lopes,LMU,Cal State Bakersfield,871,20180224
+265,2,Veronica Nederend,Maddie  Leiphardt ,Kelli Dowell,Hannah Holder,LMU,Vanguard,872,20180224
+270,2,Emily Lopes,Mattison Degarmo,Hannah Holder,Kelli Dowell,Cal State Bakersfield,Vanguard,873,20180224
+275,2,Anabela Sataric,Dorina Klinger,Carly Scarborough,Brittany Pellitteri,FAU,FIU,875,20180227
+280,2,Sarah Sponcil ,Lily Justine,Madalyn Roh,Brook Bauer,UCLA,Pepperdine,876,20180228
+285,2,Lily Justine,Sarah Sponcil ,Brook Bauer,Madalyn Roh,UCLA,Pepperdine,877,20180228
+290,2,Lily Justine,Sarah Sponcil ,Joy Dennis,Brianna Sizemore,UCLA,USC,878,20180228
+295,2,Corinne Quiggle,Deahna Kraft,Brianna Sizemore,Joy Dennis,Pepperdine,USC,879,20180228
+300,2,Kristey Markle,Nickeisha Williams,Hannah Holder,Kelli Dowell,Cal State Northridge,Vanguard,881,20180228
+305,2,Mima Mirkovic,Alexia Inman,Hailey Lindberg,Gretchen Reinert,Cal,Santa Clara,882,20180301
+310,2,Mckala Rhodes,Devon Rachel,Anabela Sataric,Dorina Klinger,College of Charleston,FIU,885,20180302
+315,2,Darby Dunn,Sammee Thomas,Mckala Rhodes,Devon Rachel,Stetson,College of Charleston,886,20180302
+320,2,Kacey Nady,Olivia Hallaran,Yasmin Tan,Chloe Crappell,Arizona,New Mexico,887,20180302
+325,2,Destiny Julye,Courtney Schwan,Veronica Nederend,Maddie  Leiphardt ,Washington,LMU,888,20180302
+330,2,Annika Albrecht,Kenzie Maloney,Aubrey Cheffey,Julia Hanson,Nebraska,Missouri State,889,20180302
+335,2,Veronica Nederend,Maddie  Leiphardt ,Yasmin Tan,Chloe Crappell,LMU,New Mexico,890,20180302
+340,2,Kacey Nady,Olivia Hallaran,Destiny Julye,Courtney Schwan,Washington,Arizona,891,20180302
+345,2,Julia Topor,Anna Dalla Vecchia,Hailey Lindberg,Gretchen Reinert,USF,Santa Clara,892,20180302
+350,2,Julia Topor,Anna Dalla Vecchia,Gretchen Reinert,Hailey Lindberg,USF,Santa Clara,893,20180302
+355,2,Morgan Hentz,Amelia Smith,Emily Bible,Lindsey Knudsen,Stanford,Saint Mary's,894,20180302
+360,2,Roni Long,Taylor Poncetta,Sarah Davis,Mikaela Nocetti,Pacific,"Cal State University, Sacramento",895,20180302
+365,2,Amelia Smith,Morgan Hentz,Anna Dalla Vecchia,Julia Topor,Stanford,USF,896,20180302
+370,2,Roni Long,Taylor Poncetta,Hailey Lindberg,Gretchen Reinert,Pacific,Santa Clara,897,20180302
+375,2,Payton Rund,Morgan Hughes,Sarah Davis,Mikaela Nocetti,Saint Mary's,"Cal State University, Sacramento",898,20180302
+380,2,Mima Mirkovic,Alexia Inman,Ciara Reistad,Julia Golbeck,Cal,San Jose State University,902,20180302
+385,2,Jenna Panning,Haley Turner,Victoria Corcoran,Veronica Corcoran,New Orleans,Austin Peay State ,903,20180302
+393,2,Maile Sellers,Kayla Gallant,Jenna Panning,Haley Turner,ULM,Austin Peay State ,910,20180302
+398,2,Kayla Armer,Tori Hinojosa,Devon May,Tressa Buckland,Houston Baptist,UAB,912,20180302
+405,2,Emily Sonny,Sam Manley,Kara  Woodard,Halle Parker,Cal Poly SLO,ASU,918,20180303
+410,2,Vanessa Freire,Brooke Kuhlman,Mckala Rhodes,Devon Rachel,Florida State,College of Charleston,919,20180303
+415,2,Lina Bernier,Dorina Klinger,Darby Dunn,Sammee Thomas,FIU,Stetson,920,20180303
+420,2,Carly Scarborough,Brittany Pellitteri,Taryn Griffey,Chaney Howard,UNF,FAU,921,20180303
+425,2,Tarin Mergener,Ashley Delgado,Jillian Bergeson,Jaelyn Greene,TCU,Tulane,922,20180303
+430,2,Tarin Mergener,Ashley Delgado,Frances Giedraitis,Natalie Braun,Tulane,ASU,923,20180303
+435,2,Deahna Kraft,Corinne Quiggle,Terese Cannon,Sammy Slater,Pepperdine,USC,924,20180303
+440,2,Brianna Sizemore,Sammy Slater,Lily Justine,Sarah Sponcil ,UCLA,USC,925,20180303
+445,2,Haleigh Nelson,Hunter Domanski,Taryn Griffey,Chaney Howard,UNF,LSU,926,20180303
+450,2,Destiny Julye,Courtney Schwan,Yasmin Tan,Chloe Crappell,Washington,New Mexico,927,20180303
+455,2,Sara Kovac,Jessie Prichard,Kacey Nady,Olivia Hallaran,LMU,Arizona,928,20180303
+460,2,Deahna Kraft,Corinne Quiggle,Lily Justine,Sarah Sponcil ,Pepperdine,UCLA,929,20180303
+465,2,Deahna Kraft,Corinne Quiggle,Terese Cannon,Sammy Slater,Pepperdine,USC,930,20180303
+470,2,Brooke Kuhlman,Vanessa Freire,Sunniva Helland-Hansen,Carly Perales,Stetson,Florida State,931,20180303
+475,2,Emily Sonny,Sam Manley,Jillian Bergeson,Jaelyn Greene,Cal Poly SLO,TCU,932,20180303
+480,2,Morgan Hentz,Amelia Smith,Sarah Davis,Mikaela Nocetti,Stanford,"Cal State University, Sacramento",933,20180303
+485,2,Morgan Hentz,Amelia Smith,Roni Long,Taylor Poncetta,Stanford,Pacific,934,20180303
+490,2,Annika Van Gunst,Brooke Weiner,Madison Green,Rachel Young,Georgia State,Texas A&M; Corpus Christi,935,20180303
+495,2,Annika Van Gunst,Brooke Weiner,Haleigh Nelson,Hunter Domanski,Georgia State,LSU,936,20180303
+500,2,Cadie Bates,Katie Smith,JM Lewandowski,Halle Hunt,South Carolina,UNC Wilmington,937,20180303
+505,2,Cadie Bates,Katie Smith,Brittany Pellitteri,Carly Scarborough,South Carolina,FAU,938,20180303
+510,2,Jenna Panning,Haley Turner,Hannah Kirk,Sadie Anderson,Austin Peay State ,Jacksonville State,939,20180303
+515,2,Tressa Buckland,Avei Logoleo,Julie Vujnovich,Payton Gidney,UAB,Spring Hill College,940,20180303
+521,2,Kayla Armer,Tori Hinojosa,Jenna Panning,Haley Turner,Houston Baptist,Austin Peay State ,943,20180303
+526,2,Annika Van Gunst,Brooke Weiner,Madison Green,Rachel Young,Georgia State,Texas A&M; Corpus Christi,945,20180302
+531,2,Hailey Lindberg,Gretchen Reinert,Mikaela Nocetti,Sarah Davis,"Cal State University, Sacramento",Santa Clara,946,20180303
+536,2,Lindsey Knudsen,Emily Bible,Julia Topor,Anna Dalla Vecchia,Saint Mary's,USF,947,20180303
+541,2,Taylor Poncetta,Roni Long,Anna Dalla Vecchia,Julia Topor,Pacific,USF,948,20180303
+546,2,Payton Rund,Morgan Hughes,Hailey Lindberg,Gretchen Reinert,Saint Mary's,Santa Clara,949,20180303
+551,2,Devon May,Tressa Buckland,Hannah Kirk,Sadie Anderson,UAB,Jacksonville State,950,20180302
+556,2,Gabbi Moreno,Haley Jared,Veronica Corcoran,Victoria Corcoran,New Orleans,UAB,956,20180303
+561,2,Veronica Corcoran,Victoria Corcoran,Tori Hinojosa,Kayla Armer,Houston Baptist,New Orleans,957,20180303
+566,2,Emily Sonny,Sam Manley,Tarin Mergener,Ashley Delgado,Cal Poly SLO,Tulane,966,20180304
+571,2,Natalie Braun,Frances Giedraitis,Jillian Bergeson,Jaelyn Greene,TCU,ASU,967,20180304
+576,2,Annika Van Gunst,Brooke Weiner,Halle Hunt,JM Lewandowski,Georgia State,UNC Wilmington,968,20180304
+581,2,Cadie Bates,Katie Smith,Annika Van Gunst,Brooke Weiner,Georgia State,South Carolina,969,20180304
+586,2,Gabrielle Dischler,Jessalyn Kinlaw,Haleigh Nelson,Hunter Domanski,FAU,LSU,970,20180304
+591,2,Haleigh Nelson,Hunter Domanski,Halle Hunt,JM Lewandowski,LSU,UNC Wilmington,971,20180304
+596,2,Katie Smith,Cadie Bates,Chaney Howard,Taryn Griffey,South Carolina,UNF,972,20180304
+601,2,Madison Green,Rachel Young,Taryn Griffey,Chaney Howard,Texas A&M; Corpus Christi,UNF,973,20180304
+606,2,Jessalyn Kinlaw,Gabrielle Dischler,Madison Green,Rachel Young,FAU,Texas A&M; Corpus Christi,974,20180304
+613,2,Kristyna Adamcikova,Hailey Harward,Sarah Garrow,Desiree Sukhov,Long Beach State,Cal State Bakersfield,982,20180304
+618,2,Anete Brinke,Sasha Karelov,Kristey Markle,Nickeisha Williams,Long Beach State,Cal State Northridge,983,20180304
+624,2,Veronica Corcoran,Victoria Corcoran,Kayla Armer,Tori Hinojosa,Houston Baptist,New Orleans,986,20180303
+629,2,Maile Sellers,Kayla Gallant,Veronica Corcoran,Victoria Corcoran,ULM,New Orleans,987,20180302
+634,2,Kristey Markle,Nickeisha Williams,Desiree Sukhov,Sarah Garrow,Cal State Northridge,Cal State Bakersfield,988,20180304
+639,2,Hannah Towne,Taylor Jarzombek,Sara Kovac,Jessie Prichard,Grand Canyon,LMU,989,20180303
+644,2,Jessica Stansfield,Katie Pyles,Hannah Holder,Kelli Dowell,Grand Canyon,Vanguard,992,20180302
+649,2,Hailey Harward,Kristyna Adamcikova,Kacey Nady,Olivia Hallaran,Arizona,Long Beach State,993,20180306
+654,2,Brooke Weiner,Annika Van Gunst,Jenna Panning,Brooke Moore,Georgia State,Austin Peay State ,994,20180306
+659,2,Brooke Weiner,Annika Van Gunst,Hannah Kirk,Sadie Anderson,Georgia State,Jacksonville State,995,20180306
+664,2,Halle Hunt,JM Lewandowski,Jenna Panning,Haley Turner,UNC Wilmington,Austin Peay State ,996,20180306
+669,2,JM Lewandowski,Halle Hunt,Hannah Kirk,Sadie Anderson,UNC Wilmington,Jacksonville State,997,20180306
+674,2,Corinne Quiggle,Deahna Kraft,Kristyna Adamcikova,Hailey Harward,Pepperdine,Long Beach State,1000,20180307
+679,2,Amelia Smith,Morgan Hentz,Ciara Reistad,Julia Golbeck,Stanford,San Jose State University,1001,20180307
+684,2,Annika Albrecht,Kenzie Maloney,Mallory Moran,Kamden Maas,Nebraska,Missouri Baptist University,1002,20180307
+689,2,Lily Justine,Sarah Sponcil ,Emily Maglio,Ka'iwi Schucht,UCLA,Hawaii,1003,20180308
+694,2,Emily Maglio,Ka'iwi Schucht,Sara Kovac,Jessie Prichard,LMU,Hawaii,1004,20180308
+699,2,Sarah Sponcil ,Lily Justine,Sara Kovac,Jessie Prichard,UCLA,LMU,1005,20180308
+704,2,Kristey Markle,Nickeisha Williams,Tristan Self,Vanessa Bernzen,Cal State Northridge,Concordia,1006,20180308
+708,2,Kristey Markle,Nickeisha Williams,Bailey Anderson,Janessa Mata,Cal State Northridge,CSULA,1007,20180308
+713,2,Carly Perales,Sunniva Helland-Hansen,Leigh Buttner,Gabbi Pacatte,Stetson,Tampa,1009,20180309
+718,2,Carly Perales,Sunniva Helland-Hansen,Madison Brabham,Macy Berg,Stetson,Texas A&M; Kingsville,1010,20180309
+722,2,Elli Gibson,Jessica Johnson,Nicole Dominguez,Katie McKiel,Mercer,Tampa,1011,20180309
+727,2,Carly Perales,Sunniva Helland-Hansen,Lauren Kenny,Casey Slezak,Stetson,Florida Southern,1012,20180309
+732,2,Gabrielle Dischler,Jessalyn Kinlaw,Amber Lake,Hannah Tannone,FAU,Webber,1014,20180309
+737,2,Gabrielle Dischler,Jessalyn Kinlaw,Tori Hinojosa,Kayla Armer,FAU,Houston Baptist,1015,20180309
+742,2,Jessica Gaffney,Iya Lindahl,Natalie Braun,Frances Giedraitis,Cal,ASU,1019,20180309
+747,2,Jessica Gaffney,Iya Lindahl,Brindl Langley,Jaymee-Lee Bulda,Cal,Boise State,1020,20180309
+752,2,Tarin Mergener,Ashley Delgado,Jaymee-Lee Bulda,Brindl Langley,Tulane,Boise State,1021,20180309
+757,2,Rio Frohoff,Ashley Delgado,Julia Golbeck,Ciara Reistad,Tulane,San Jose State University,1022,20180309
+762,2,Morgan Hentz,Amelia Smith,Rio Frohoff,Ashley Delgado,Stanford,Tulane,1023,20180309
+767,2,Natalie Braun,Frances Giedraitis,Julia Golbeck,Ciara Reistad,ASU,San Jose State University,1024,20180309
+772,2,Ashley Glickert,Giovanna Borgiotti,Tori Hinojosa,Kayla Armer,Houston Baptist,FGCU,1025,20180309
+777,2,Ashley Glickert,Giovanna Borgiotti,Hannah Tannone,Amber Lake,FGCU,Webber,1026,20180309
+782,2,Jessica Clark,Katie Pyles,Eastyn Baleto,Chloe Crappell,Grand Canyon,New Mexico,1033,20180309
+787,2,Eastyn Baleto,Chloe Crappell,Brooke Riley,Lauren Walker,New Mexico,Abilene Christian,1034,20180309
+792,2,Jessica Johnson,Elli Gibson,Lauren Kenny,Kayla Trefren,Mercer,Florida Southern,1036,20180310
+800,2,Corinne Quiggle,Deahna Kraft,Brooke Kuhlman,Vanessa Freire,Pepperdine,Florida State,1038,20180310
+805,2,Emily Maglio,Ka'iwi Schucht,Cassie House,Haven Hill,Hawaii,TCU,1040,20180310
+810,2,Terese Cannon,Sammy Slater,Lina Bernier,Dorina Klinger,USC,FIU,1041,20180310
+815,2,Sarah Sponcil ,Lily Justine,Hunter Domanski,Haleigh Nelson,UCLA,LSU,1042,20180310
+820,2,Iya Lindahl,Jessica Gaffney,Rio Frohoff,Ashley Delgado,Cal,Tulane,1043,20180310
+825,2,Annika Van Gunst,Brooke Weiner,Giovanna Borgiotti,Ashley Glickert,Georgia State,FGCU,1044,20180310
+830,2,Giovanna Borgiotti,Ashley Glickert,Jessalyn Kinlaw,Gabrielle Dischler,FAU,FGCU,1045,20180310
+835,2,Haleigh Nelson,Hunter Domanski,Terese Cannon,Sammy Slater,LSU,USC,1047,20180310
+840,2,Sara Putt,Vanessa Freire,Emily Maglio,Ka'iwi Schucht,Hawaii,Florida State,1048,20180310
+845,2,Cadie Bates,Katie Smith,Morgan Dees,Cristina Finan,South Carolina,Jacksonville,1049,20180310
+850,2,Cadie Bates,Katie Smith,Taryn Griffey,Chaney Howard,South Carolina,UNF,1050,20180310
+855,2,Annika Van Gunst,Brooke Weiner,Kayla Armer,Tori Hinojosa,Houston Baptist,Georgia State,1051,20180310
+860,2,Annika Van Gunst,Brooke Weiner,Gabrielle Dischler,Jessalyn Kinlaw,Georgia State,FAU,1052,20180310
+865,2,Rio Frohoff,Ashley Delgado,Sierra Ellett,Sydney Palmer,Tulane,ASU,1053,20180310
+870,2,Sarah Sponcil ,Lily Justine,Lina Bernier,Dorina Klinger,UCLA,FIU,1054,20180310
+875,2,Jessica Clark,Anna Unnasch,Brooke Riley,Lauren Walker,Grand Canyon,Abilene Christian,1055,20180310
+880,2,Corinne Quiggle,Deahna Kraft,Jillian Bergeson,Jaelyn Greene,Pepperdine,TCU,1056,20180310
+885,2,Tori Hinojosa,Kayla Armer,Amber Lake,Hannah Tannone,Houston Baptist,Webber,1057,20180310
+890,2,Adlee Van Winden,Taylor Nelson,Katie Barker,Morgan Robinson,Cal Poly SLO,Portland,1058,20180310
+895,2,Adlee Van Winden,Taylor Nelson,Haley Howell,Carly Lowry,Cal Poly SLO,USF,1059,20180310
+900,2,Adlee Van Winden,Taylor Nelson,Roni Long,Taylor Poncetta,Cal Poly SLO,Pacific,1060,20180310
+905,2,Amelia Smith,Morgan Hentz,Sydney Palmer,Sierra Ellett,Stanford,ASU,1061,20180310
+910,2,Katie Sato,Aeryn Owens,Julia Topor,Anna Dalla Vecchia,Cal State Northridge,USF,1062,20180310
+915,2,Carly Lowry,Haley Howell,Kennedy Kurtz,Lana Brown,USF,"Cal State University, Sacramento",1063,20180310
+920,2,Taryn Griffey,Chaney Howard,Morgan Dees,Cristina Finan,UNF,Jacksonville,1064,20180310
+925,2,Morgan Hentz,Amelia Smith,Jaymee-Lee Bulda,Brindl Langley,Stanford,Boise State,1065,20180310
+930,2,Katie Barker,Morgan Robinson,Kennedy Kurtz,Brie Gathright,Portland,"Cal State University, Sacramento",1066,20180310
+935,2,Roni Long,Taylor Poncetta,Kennedy Kurtz,Brie Gathright,Pacific,"Cal State University, Sacramento",1067,20180310
+940,2,Kristey Markle,Nickeisha Williams,Katie Barker,Morgan Robinson,Cal State Northridge,Portland,1068,20180310
+945,2,Kristey Markle,Nickeisha Williams,Roni Long,Taylor Poncetta,Cal State Northridge,Pacific,1069,20180310
+950,2,Jessica Gaffney,Iya Lindahl,Luiza Andrade,Hayley Sturgeon,Cal,San Jose State University,1070,20180310
+955,2,Desiree Sukhov,Sarah Garrow,Kelli Dowell,Hannah Holder,Cal State Bakersfield,Vanguard,1071,20180310
+960,2,Ka'iwi Schucht,Emily Maglio,Anabela Sataric,Madison Besterfield,Hawaii,FIU,1073,20180311
+965,2,Corinne Quiggle,Deahna Kraft,Haleigh Nelson,Hunter Domanski,Pepperdine,LSU,1074,20180311
+970,2,Lily Justine,Sarah Sponcil ,Sara Putt,Vanessa Freire,Florida State,UCLA,1075,20180311
+975,2,Sammy Slater,Terese Cannon,Cassie House,Haven Hill,USC,TCU,1076,20180311
+980,2,Carly Kan,Laurel Weaver,Haleigh Nelson,Hunter Domanski,Hawaii,LSU,1077,20180311
+985,2,Deahna Kraft,Corinne Quiggle,Lina Bernier,Dorina Klinger,Pepperdine,FIU,1078,20180311
+990,2,Lily Justine,Sarah Sponcil ,Molly Scheel,Jensyn Bledsoe,UCLA,TCU,1079,20180311
+995,2,Terese Cannon,Sammy Slater,Sara Putt,Vanessa Freire,USC,Florida State,1080,20180311
+1000,2,Anete Brinke,Sasha Karelov,Aubrey Cheffey,Julia Hanson,Long Beach State,Missouri State,1081,20180312
+1004,2,Julia Hanson,Aubrey Cheffey,Hana Peterman,Megan Gianinetti,Missouri State,Colorado Mesa,1082,20180312
+1009,2,Anete Brinke,Sasha Karelov,Hana Peterman,Megan Gianinetti,Long Beach State,Colorado Mesa,1083,20180312
+1014,2,Hayley Sturgeon,Luiza Andrade,Morgan Robinson,Katie Barker,Portland,San Jose State University,1084,20180312
+1019,2,Hannah Kirk,Charis Ludtke,Bria Rochelle,Alexis Creasman,Jacksonville State,Huntingdon,1085,20180313
+1023,2,Aubrey Cheffey,Julia Hanson,Bailey Anderson,Janessa Mata,Missouri State,CSULA,1086,20180313
+1027,2,Taylor Fricano,Veronica Snelling,Kelli Dowell,Hannah Holder,Missouri State,Vanguard,1087,20180313
+1031,2,Morgan Hughes,Payton Rund,Taylor  Odom,Gretchen Reinert,Saint Mary's,Santa Clara,1088,20180313
+1036,2,Kayla Gallant,Maile Sellers,Hannah Kirk,Sadie Anderson,ULM,Jacksonville State,1093,20180303
+1041,2,Corinne Quiggle,Deahna Kraft,Macy Jerger,Victoria Paranagua,Pepperdine,Florida State,1094,20180314
+1049,2,Veronica Snelling,Taylor Fricano,Hana Peterman,Megan Gianinetti,Missouri State,Colorado Mesa,1096,20180314
+1054,2,Kristey Markle,Nickeisha Williams,Aubrey Cheffey,Julia Hanson,Cal State Northridge,Missouri State,1097,20180314
+1058,2,Mackenzie Redner,Savanna Cary,Giovanna Borgiotti,Ashley Glickert,FGCU,Eckerd ,1098,20180314
+1061,2,Rachel Nieto,Nele Barber,Cassie House,Haven Hill,TCU,Long Beach State,1102,20180315
+1066,2,Sara Kovac,Jessie Prichard,Cassie House,Haven Hill,LMU,TCU,1103,20180315
+1071,2,Nele Barber,Rachel Nieto,Brooke Kuhlman,Macy Jerger,Long Beach State,Florida State,1105,20180315
+1076,2,Brooke Kuhlman,Macy Jerger,Sara Kovac,Jessie Prichard,Florida State,LMU,1106,20180315
+1081,2,Sammee Thomas,Darby Dunn,Yasmin Tan,Chloe Crappell,Stetson,New Mexico,1107,20180316
+1086,2,Devon Rachel,Mckala Rhodes,Brittany Pellitteri,Carly Scarborough,College of Charleston,FAU,1108,20180316
+1091,2,Avei Logoleo,Haley Jared,Maile Sellers,Kayla Gallant,UAB,ULM,1109,20180316
+1096,2,Avei Logoleo,Haley Jared,Maile Sellers,Kayla Gallant,UAB,ULM,1110,20180316
+1101,2,Dorina Klinger,Erika Zembyla,Cristina Finan,Shelby Babowicz,FIU,Jacksonville,1111,20180316
+1106,2,Delaney Driver,MC Rogers,Jessica Johnson,Elli Gibson,Central Arkansas,Mercer,1112,20180316
+1111,2,Iya Lindahl,Jessica Gaffney,Lindsey Knudsen,Emily Bible,Cal,Saint Mary's,1113,20180316
+1116,2,Iya Lindahl,Jessica Gaffney,Kennedy Kurtz,Lana Brown,Cal,"Cal State University, Sacramento",1114,20180316
+1121,2,Dorina Klinger,Erika Zembyla,Eastyn Baleto,Lauren Twitty,New Mexico,FIU,1115,20180316
+1126,2,Sarah Garrow,Desiree Sukhov,Aubrey Cheffey,Julia Hanson,Cal State Bakersfield,Missouri State,1116,20180316
+1131,2,Darby Dunn,Sammee Thomas,JM Lewandowski,Halle Hunt,Stetson,UNC Wilmington,1117,20180316
+1136,2,Ashley Delgado,Rio Frohoff,Jessica Johnson,Elli Gibson,Tulane,Mercer,1118,20180316
+1141,2,Ashley Delgado,Rio Frohoff,Jenna Panning,Brooke Moore,Tulane,Austin Peay State ,1119,20180316
+1146,2,Devon Rachel,Mckala Rhodes,Morgan Dees,Katie Krawczyk,College of Charleston,Jacksonville,1120,20180316
+1151,2,Delaney Driver,MC Rogers,Catherine Griffith,Rebecca Brown,Central Arkansas,ULM,1121,20180316
+1160,2,Julia Lewkowicz,Carly Scarborough,Kayla Armer,Tori Hinojosa,FAU,Houston Baptist,1129,20180316
+1165,2,Halle Hunt,JM Lewandowski,Kayla Armer,Tori Hinojosa,UNC Wilmington,Houston Baptist,1135,20180316
+1170,2,JM Lewandowski,Halle Hunt,Morgan Dees,Katie Krawczyk,UNC Wilmington,Jacksonville,1136,20180316
+1175,2,Kayla Armer,Tori Hinojosa,Chloe Crappell,Yasmin Tan,Houston Baptist,New Mexico,1137,20180316
+1180,2,Sammee Thomas,Darby Dunn,Julia Lewkowicz,Carly Scarborough,Stetson,FAU,1140,20180317
+1185,2,Emily Sonny,Sam Manley,Cassie House,Haven Hill,Cal Poly SLO,TCU,1141,20180317
+1190,2,Ka'iwi Schucht,Emily Maglio,Annika Albrecht,Kenzie Maloney,Hawaii,Nebraska,1143,20180317
+1195,2,Brooke Weiner,Annika Van Gunst,Hunter Domanski,Haleigh Nelson,Georgia State,LSU,1144,20180317
+1200,2,Hunter Domanski,Emmy Allen,Hannah Kirk,Sadie Anderson,LSU,Jacksonville State,1145,20180317
+1205,2,Sammy Slater,Terese Cannon,Jessica Stansfield,Katie Pyles,USC,Grand Canyon,1146,20180317
+1210,2,Halle Hunt,JM Lewandowski,Eastyn Baleto,Lauren Twitty,UNC Wilmington,New Mexico,1147,20180317
+1215,2,Devon Rachel,Mckala Rhodes,Eastyn Baleto,Lauren Twitty,College of Charleston,New Mexico,1148,20180317
+1220,2,Cadie Bates,Katie Smith,Brooke Weiner,Annika Van Gunst,South Carolina,Georgia State,1149,20180317
+1225,2,Emily Maglio,Ka'iwi Schucht,Terese Cannon,Sammy Slater,USC,Hawaii,1150,20180317
+1230,2,Avei Logoleo,Haley Jared,Jessica Johnson,Elli Gibson,Mercer,UAB,1151,20180317
+1235,2,Lan Nguyen,Tarin Mergener,Avei Logoleo,Haley Jared,Tulane,UAB,1152,20180317
+1240,2,Ka'iwi Schucht,Emily Maglio,Annika Albrecht,Kenzie Maloney,Hawaii,Nebraska,1153,20180317
+1245,2,Lan Nguyen,Tarin Mergener,Maile Sellers,Kayla Gallant,ULM,Tulane,1154,20180317
+1250,2,Katie Pyles,Jessica Clark,Kenzie Maloney,Annika Albrecht,Nebraska,Grand Canyon,1155,20180317
+1255,2,Sammee Thomas,Darby Dunn,Tori Hinojosa,Kayla Armer,Houston Baptist,Stetson,1156,20180317
+1260,2,Deahna Kraft,Corinne Quiggle,Cadie Bates,Katie Smith,Pepperdine,South Carolina,1157,20180317
+1265,2,Deahna Kraft,Corinne Quiggle,Hannah Kirk,Sadie Anderson,Pepperdine,Jacksonville State,1158,20180317
+1270,2,Jessica Johnson,Elli Gibson,Jenna Panning,Haley Turner,Austin Peay State ,Mercer,1159,20180317
+1275,2,Delaney Driver,MC Rogers,Jenna Panning,Brooke Moore,Central Arkansas,Austin Peay State ,1160,20180317
+1280,2,Emily Sonny,Sam Manley,Olivia Hallaran,Kacey Nady,Cal Poly SLO,Arizona,1161,20180317
+1285,2,Lina Bernier,Madison Besterfield,Halle Hunt,JM Lewandowski,FIU,UNC Wilmington,1162,20180317
+1290,2,Emily Sonny,Sam Manley,Cassie House,Haven Hill,Cal Poly SLO,TCU,1163,20180317
+1295,2,Anabela Sataric,Erika Zembyla,Devon Rachel,Mckala Rhodes,FIU,College of Charleston,1164,20180317
+1300,2,Julia Lewkowicz,Brittany Pellitteri,Morgan Dees,Katie Krawczyk,FAU,Jacksonville,1165,20180317
+1305,2,Terese Cannon,Sammy Slater,Lauren Stivrins,Kelly Hunter,USC,Nebraska,1166,20180317
+1310,2,Hailey Luke,Katie Horton,Kayla Armer,Tori Hinojosa,Florida State,Houston Baptist,1170,20180317
+1315,2,Vanessa Freire,Nikki Esposito,Katie Krawczyk,Morgan Dees,Florida State,Jacksonville,1171,20180317
+1320,2,Ka'iwi Schucht,Emily Maglio,Jessica Stansfield,Hannah Towne,Hawaii,Grand Canyon,1172,20180317
+1325,2,Jessica Gaffney,Iya Lindahl,Julia Golbeck,Ciara Reistad,Cal,San Jose State University,1173,20180317
+1330,2,Jessica Gaffney,Iya Lindahl,Roni Long,Skylar Wine,Cal,Pacific,1174,20180317
+1335,2,Kacey Nady,Olivia Hallaran,Cassie House,Haven Hill,Arizona,TCU,1175,20180317
+1340,2,Emily Bible,Lindsey Knudsen,Haley Howell,Carly Lowry,Saint Mary's,USF,1176,20180317
+1345,2,Madison Green,Rachel Young,Veronica Corcoran,Victoria Corcoran,Texas A&M; Corpus Christi,New Orleans,1179,20180317
+1350,2,Lily Justine,Sarah Sponcil ,Aubrey Cheffey,Julia Hanson,UCLA,Missouri State,1180,20180317
+1355,2,Lily Justine,Sarah Sponcil ,Hana Peterman,Megan Gianinetti,UCLA,Colorado Mesa,1181,20180317
+1360,2,Roni Long,Skylar Wine,Julia Golbeck,Ciara Reistad,Pacific,San Jose State University,1182,20180317
+1365,2,Lily Justine,Sarah Sponcil ,Sara Kovac,Jessie Prichard,UCLA,LMU,1183,20180317
+1374,2,Sara Kovac,Jessie Prichard,Aubrey Cheffey,Julia Hanson,LMU,Missouri State,1185,20180317
+1379,2,Sara Kovac,Jessie Prichard,Megan Gianinetti,Hana Peterman,LMU,Colorado Mesa,1188,20180317
+1384,2,Corinne Quiggle,Deahna Kraft,Olivia Powers,Hunter Domanski,Pepperdine,LSU,1189,20180318
+1390,2,Corinne Quiggle,Deahna Kraft,Brooke Weiner,Tiffany Creamer,Pepperdine,Georgia State,1191,20180318
+1395,2,Cadie Bates,Katie Smith,Hunter Domanski,Olivia Powers,South Carolina,LSU,1192,20180318
+1400,2,Veronica Corcoran,Victoria Corcoran,Liz Heit,Kenna Hall,New Orleans,Ottawa,1193,20180318
+1405,2,Carly Kan,Laurel Weaver,Terese Cannon,Sammy Slater,USC,Hawaii,1194,20180318
+1410,2,Terese Cannon,Sammy Slater,Kenzie Maloney,Annika Albrecht,USC,Nebraska,1195,20180318
+1415,2,Kelli Iverson,Jessica Stansfield,Lauren Stivrins,Kelly Hunter,Nebraska,Grand Canyon,1196,20180318
+1422,2,Laurel Weaver,Carly Kan,Taylor Jarzombek,Kelli Iverson,Hawaii,Grand Canyon,1198,20180318
+1427,2,Rachel Young,Madison Green,Kenna Hall,Liz Heit,Texas A&M; Corpus Christi,Ottawa,1199,20180318
+1432,2,Morgan Martin,Lea Monkhouse,Annika Albrecht,Kenzie Maloney,Hawaii,Nebraska,1200,20180318
+1437,2,Katie Smith,Cadie Bates,Kaylie Milton,Hannah Kirk,South Carolina,Jacksonville State,1201,20180318
+1442,2,Tiffany Creamer,Brooke Weiner,Sadie Anderson,Hannah Kirk,Georgia State,Jacksonville State,1202,20180318
+1447,2,Olivia Hallaran,Kacey Nady,Gretchen Reinert,Ngozi Nwabuzoh,Arizona,Santa Clara,1203,20180318
+1452,2,Olivia Hallaran,Kacey Nady,Julia Golbeck,Ciara Reistad,San Jose State University,Arizona,1204,20180318
+1457,2,Breann Robinson,Luiza Andrade,Taylor  Odom,Tessie Powers,San Jose State University,Santa Clara,1205,20180318
+1461,2,Devon Rachel,Mckala Rhodes,Taylor Hurst,Caroline Herrera,College of Charleston,Spring Hill College,1214,20180320
+1466,2,Emily Bible,Lindsey Knudsen,Roni Long,Skylar Wine,Saint Mary's,Pacific,1215,20180320
+1471,2,Carly Kan,Laurel Weaver,Annika Albrecht,Kenzie Maloney,Nebraska,Hawaii,1216,20180320
+1476,2,Gabrielle Dischler,Jessalyn Kinlaw,Sydney Marshall,Makena Wilson,FAU,Florida Southern,1217,20180321
+1481,2,Krissy Mummey,Katja Ehlers,Victoria Corcoran,Cara Sander,College of Charleston,New Orleans,1218,20180321
+1486,2,Anabela Sataric,Erika Zembyla,Katherine Puisis,Karissa Rhoades,FGCU,FIU,1219,20180321
+1491,2,Halle Hunt,JM Lewandowski,Aleksandra Djuric,Shelby Ladewig,UNC Wilmington,Coastal Carolina,1220,20180321
+1496,2,JM Lewandowski,Halle Hunt,Aleksandra Djuric,Shelby Ladewig,UNC Wilmington,Coastal Carolina,1221,20180321
+1501,2,Aubrey Cheffey,Julia Hanson,Kenna Hall,Liz Heit,Missouri State,Ottawa,1224,20180322
+1506,2,Nele Barber,Rachel Nieto,Courtney Schwan,Destiny Julye,Long Beach State,Washington,1225,20180322
+1511,2,Sasha Karelov,Megan Kruidhof,Kelli Dowell,Hannah Holder,Long Beach State,Vanguard,1226,20180322
+1516,2,Courtney Schwan,Destiny Julye,Hannah Holder,Kelli Dowell,Washington,Vanguard,1227,20180322
+1521,2,Tiffany Creamer,Brooke Weiner,Hannah Kirk,Kaylie Milton,Georgia State,Jacksonville State,1228,20180323
+1526,2,Callie Workman,Brittany Pase,Jessica Johnson,Elli Gibson,UNF,Mercer,1229,20180323
+1531,2,Sasha Karelov,Megan Kruidhof,Kenzie Maloney,Annika Albrecht,Long Beach State,Nebraska,1230,20180323
+1536,2,Sasha Karelov,Megan Kruidhof,Riley Gill,Avery Keathley,Long Beach State,Concordia,1231,20180323
+1541,2,Annika Albrecht,Kenzie Maloney,Avery Keathley,Riley Gill,Nebraska,Concordia,1232,20180323
+1546,2,Tiffany Creamer,Brooke Weiner,Brittany Pase,Callie Workman,Georgia State,UNF,1233,20180323
+1551,2,Maile Sellers,Kayla Gallant,Jessica Johnson,Elli Gibson,ULM,Mercer,1234,20180323
+1556,2,Anabela Sataric,Erika Zembyla,Jamee Townsend,Brooke Turner,FIU,Saint Leo,1235,20180323
+1561,2,Anabela Sataric,Erika Zembyla,Morgan Dees,Katie Krawczyk,FIU,Jacksonville,1237,20180323
+1566,2,Morgan Dees,Katie Krawczyk,Lauren Kenny,Allie Geary,Jacksonville,Florida Southern,1240,20180323
+1571,2,Madison Green,Rachel Young,Madison Brabham,Macy Berg,Texas A&M; Corpus Christi,Texas A&M; Kingsville,1253,20180323
+1574,2,Julia Golbeck,Ciara Reistad,Haley Howell,Carly Lowry,USF,San Jose State University,1255,20180323
+1579,2,Brooke Moore,Caroline Waite,Bria Rochelle,Alexis Creasman,Austin Peay State ,Huntingdon,1256,20180323
+1587,2,Maile Sellers,Kayla Gallant,Hannah Kirk,Kaylie Milton,ULM,Jacksonville State,1258,20180324
+1592,2,Jessica Johnson,Elli Gibson,Hannah Kirk,Kaylie Milton,Mercer,Jacksonville State,1259,20180324
+1597,2,Brittany Pase,Callie Workman,Maile Sellers,Kayla Gallant,ULM,UNF,1260,20180324
+1602,2,Lily Justine,Sarah Sponcil ,Natalie Braun,Frances Giedraitis,UCLA,ASU,1261,20180324
+1607,2,Lea Monkhouse,Morgan Martin,Halle Hunt,JM Lewandowski,Hawaii,UNC Wilmington,1262,20180324
+1616,2,Terese Cannon,Sammy Slater,Jessica Gaffney,Iya Lindahl,USC,Cal,1264,20180324
+1621,2,Jensyn Bledsoe,Molly Scheel,Haley Jared,Avei Logoleo,TCU,UAB,1265,20180324
+1626,2,Morgan Hentz,Amelia Smith,Destiny Julye,Courtney Schwan,Stanford,Washington,1266,20180324
+1631,2,Lily Justine,Sarah Sponcil ,Olivia Hallaran,Kacey Nady,UCLA,Arizona,1267,20180324
+1636,2,Tiffany Creamer,Brooke Weiner,Maile Sellers,Kayla Gallant,Georgia State,ULM,1268,20180324
+1641,2,Brittany Pase,Callie Workman,Hannah Kirk,Kaylie Milton,UNF,Jacksonville State,1269,20180324
+1646,2,Tiffany Creamer,Brooke Weiner,Elli Gibson,Jessica Johnson,Georgia State,Mercer,1270,20180324
+1651,2,JM Lewandowski,Halle Hunt,Avei Logoleo,Haley Jared,UNC Wilmington,UAB,1271,20180324
+1656,2,Terese Cannon,Sammy Slater,Sydney Palmer,Kara  Woodard,USC,ASU,1272,20180324
+1661,2,Jessica Gaffney,Iya Lindahl,Destiny Julye,Courtney Schwan,Cal,Washington,1273,20180324
+1666,2,Katie Smith,Cadie Bates,Karissa Rhoades,Katherine Puisis,South Carolina,FGCU,1274,20180324
+1671,2,Emily Sonny,Sam Manley,Sara Kovac,McKayla Ferris,Cal Poly SLO,LMU,1275,20180324
+1676,2,Sam Manley,Emily Sonny,Sarah Garrow,Desiree Sukhov,Cal Poly SLO,Cal State Bakersfield,1276,20180324
+1680,2,Morgan Dees,Katie Krawczyk,Jamee Townsend,Brooke Turner,Jacksonville,Saint Leo,1278,20180324
+1684,2,Dorina Klinger,Katie Friesen,Lauren Kenny,Allie Geary,FIU,Florida Southern,1279,20180324
+1688,2,Mackenzie Redner,Savanna Cary,Morgan Dees,Katie Krawczyk,Jacksonville,Eckerd ,1280,20180324
+1690,2,Sammee Thomas,Darby Dunn,Brittany  Bilotti,Sarah Senft,Stetson,Spring Hill College,1282,20180324
+1695,2,Haleigh Nelson,Ashley Allmer,Sammee Thomas,Darby Dunn,Stetson,LSU,1283,20180324
+1700,2,Morgan Hentz,Amelia Smith,Makenna Martin,Mia Mason,Stanford,Arizona,1284,20180324
+1705,2,Karissa Rhoades,Katherine Puisis,Jaelyn Greene,Jillian Bergeson,FGCU,TCU,1285,20180324
+1710,2,Kayla Armer,Tori Hinojosa,Delaney Driver,MC Rogers,Houston Baptist,Central Arkansas,1286,20180324
+1715,2,MC Rogers,Delaney Driver,Ayona Tharps,Heather Huesman,Central Arkansas,Ottawa,1287,20180324
+1720,2,Tori Hinojosa,Kayla Armer,Ayona Tharps,Heather Huesman,Houston Baptist,Ottawa,1288,20180324
+1725,2,Carly Kan,Laurel Weaver,Cadie Bates,Katie Smith,South Carolina,Hawaii,1289,20180324
+1730,2,Mckala Rhodes,Devon Rachel,Lan Nguyen,Tarin Mergener,Tulane,College of Charleston,1290,20180324
+1735,2,Tarin Mergener,Lan Nguyen,Sarah Senft,Brittany  Bilotti,Tulane,Spring Hill College,1291,20180324
+1739,2,Sunniva Helland-Hansen,Carly Perales,Lan Nguyen,Tarin Mergener,Stetson,Tulane,1292,20180324
+1744,2,Olivia Powers,Hunter Domanski,Gabrielle Dischler,Jessalyn Kinlaw,LSU,FAU,1293,20180324
+1749,2,Haleigh Nelson,Emmy Allen,Rachel Kuhn,Victoria Corcoran,New Orleans,LSU,1294,20180324
+1754,2,Sara Kovac,McKayla Ferris,Desiree Sukhov,Sarah Garrow,LMU,Cal State Bakersfield,1295,20180324
+1759,2,Katie Barker,Morgan Robinson,Willow Johnson ,Lauren  Page,Portland,Oregon,1296,20180324
+1764,2,Roni Long,Kaitlyn Lines,Haley Howell,Carly Lowry,Pacific,USF,1297,20180324
+1769,2,Gabrielle Dischler,Jessalyn Kinlaw,Devon Rachel,Mckala Rhodes,FAU,College of Charleston,1298,20180324
+1774,2,Devon Rachel,Mckala Rhodes,Veronica Corcoran,Cara Sander,College of Charleston,New Orleans,1299,20180324
+1779,2,Brooke Moore,Caroline Waite,Aryana Fazelnia,Montgomery Sauter,Austin Peay State ,Carson-Newman,1300,20180324
+1784,2,Halle Hunt,JM Lewandowski,Karissa Rhoades,Katherine Puisis,FGCU,UNC Wilmington,1308,20180325
+1789,2,Jensyn Bledsoe,Molly Scheel,JM Lewandowski,Halle Hunt,TCU,UNC Wilmington,1309,20180325
+1794,2,Lily Justine,Sarah Sponcil ,Jessica Gaffney,Iya Lindahl,UCLA,Cal,1310,20180325
+1799,2,Terese Cannon,Sammy Slater,Olivia Hallaran,Kacey Nady,USC,Arizona,1311,20180325
+1804,2,Lily Justine,Sarah Sponcil ,Destiny Julye,Courtney Schwan,Washington,UCLA,1312,20180325
+1809,2,Morgan Hentz,Amelia Smith,Sydney Palmer,Kara  Woodard,Stanford,ASU,1313,20180325
+1814,2,Carly Kan,Laurel Weaver,Karissa Rhoades,Katherine Puisis,Hawaii,FGCU,1314,20180325
+1819,2,Carly Perales,Sunniva Helland-Hansen,Mckala Rhodes,Devon Rachel,Stetson,College of Charleston,1315,20180325
+1824,2,Sunniva Helland-Hansen,Carly Perales,Rachel Kuhn,Veronica Corcoran,Stetson,New Orleans,1316,20180325
+1829,2,Terese Cannon,Sammy Slater,Morgan Hentz,Amelia Smith,USC,Stanford,1317,20180325
+1834,2,Laurel Weaver,Carly Kan,Haley Jared,Avei Logoleo,Hawaii,UAB,1318,20180325
+1839,2,Jessica Gaffney,Iya Lindahl,Kacey Nady,Olivia Hallaran,Arizona,Cal,1319,20180325
+1844,2,Sydney Palmer,Kara  Woodard,Destiny Julye,Courtney Schwan,ASU,Washington,1320,20180325
+1849,2,Gabrielle Dischler,Jessalyn Kinlaw,Tarin Mergener,Lan Nguyen,Tulane,FAU,1321,20180325
+1854,2,Haleigh Nelson,Ashley Allmer,Tarin Mergener,Lan Nguyen,LSU,Tulane,1322,20180325
+1859,2,Haleigh Nelson,Ashley Allmer,Mckala Rhodes,Devon Rachel,LSU,College of Charleston,1323,20180325
+1864,2,Cadie Bates,Katie Smith,Jensyn Bledsoe,Molly Scheel,South Carolina,TCU,1324,20180325
+1869,2,Haley Jared,Avei Logoleo,Cadie Bates,Katie Smith,South Carolina,UAB,1325,20180325
+1874,2,Gabrielle Dischler,Jessalyn Kinlaw,Sarah Senft,Brittany  Bilotti,FAU,Spring Hill College,1326,20180325
+1881,2,Emily Sonny,Sam Manley,Taylor Agost,Josie Cole,Cal Poly SLO,Oregon,1328,20180326
+1886,2,Lily Justine,Sarah Sponcil ,Deahna Kraft,Corinne Quiggle,Pepperdine,UCLA,1329,20180327
+1891,2,Morgan Hentz,Amelia Smith,Daisia LaBrie,Janessa Mata,Stanford,CSULA,1330,20180327
+1896,2,Sasha Karelov,Megan Kruidhof,Morgan Hentz,Amelia Smith,Long Beach State,Stanford,1331,20180327
+1901,2,Sasha Karelov,Megan Kruidhof,Janessa Mata,Daisia LaBrie,Long Beach State,CSULA,1332,20180327
+1906,2,Taryn Griffey,Chaney Howard,Mackenzie Swan,Savannah Siegrist,UNF,Jacksonville,1338,20180328
+1911,2,Chaney Howard,Taryn Griffey,Mackenzie Swan,Savannah Siegrist,UNF,Jacksonville,1339,20180328
+1916,2,Sasha Karelov,Megan Kruidhof,Taylor Agost,Josie Cole,Long Beach State,Oregon,1340,20180328
+1921,2,Sasha Karelov,Megan Kruidhof,Payton Rund,Morgan Hughes,Long Beach State,Saint Mary's,1341,20180328
+1926,2,Jessie Prichard,Sara Kovac,Kristey Markle,Nickeisha Williams,Cal State Northridge,LMU,1342,20180328
+1931,2,Payton Rund,Morgan Hughes,Taylor Agost,Josie Cole,Saint Mary's,Oregon,1343,20180328
+1936,2,Kayla Armer,Tori Hinojosa,Macy Berg,Madison Brabham,Houston Baptist,Texas A&M; Kingsville,1347,20180329
+1940,2,Courtney Schwan,Destiny Julye,Kiley Lewis,Brindl Langley,Washington,Boise State,1348,20180329
+1945,2,Brindl Langley,Kiley Lewis,Morgan Robinson,Katie Barker,Portland,Boise State,1349,20180329
+1950,2,Cadie Bates,Katie Smith,Molly Scheel,Jensyn Bledsoe,South Carolina,TCU,1350,20180330
+1955,2,Dorina Klinger,Katie Friesen,Jessica Stansfield,Bella Baumann,Grand Canyon,FIU,1351,20180330
+1960,2,Sarah Sponcil ,Lily Justine,Katie Horton,Hailey Luke,Florida State,UCLA,1352,20180330
+1965,2,Sara Kovac,Jessie Prichard,Lindsey Knudsen,Emily Bible,Saint Mary's,LMU,1353,20180329
+1970,2,Emily Bible,Lindsey Knudsen,Riley Gill,Avery Keathley,Saint Mary's,Concordia,1354,20180329
+1975,2,Karissa Rhoades,Katherine Puisis,Kinga Windisch,Tanner Gauthier,FGCU,Coastal Carolina,1355,20180330
+1980,2,Gabrielle Dischler,Jessalyn Kinlaw,Jessica Stansfield,Bella Baumann,FAU,Grand Canyon,1356,20180330
+1985,2,Sarah Sponcil ,Lily Justine,Anabela Sataric,Dorina Klinger,UCLA,FIU,1357,20180330
+1990,2,Darby Dunn,Sammee Thomas,Jessica Johnson,Elli Gibson,Stetson,Mercer,1358,20180330
+1995,2,Tiffany Creamer,Brooke Weiner,Tarin Mergener,Lan Nguyen,Georgia State,Tulane,1359,20180330
+2000,2,Morgan Martin,Lea Monkhouse,Desiree Sukhov,Sarah Garrow,Hawaii,Cal State Bakersfield,1360,20180330
+2005,2,Emily Sonny,Sam Manley,Kristey Markle,Nickeisha Williams,Cal Poly SLO,Cal State Northridge,1361,20180330
+2010,2,Cadie Bates,Katie Smith,Jessica Stansfield,Bella Baumann,South Carolina,Grand Canyon,1362,20180330
+2015,2,Kacey Nady,Olivia Hallaran,Macy Berg,Madison Brabham,Arizona,Texas A&M; Kingsville,1363,20180330
+2019,2,Katherine Puisis,Karissa Rhoades,Jessica Johnson,Elli Gibson,FGCU,Mercer,1364,20180330
+2024,2,JM Lewandowski,Halle Hunt,Summer Coulter,Grace Seymour,UNC Wilmington,Carson-Newman,1365,20180330
+2029,2,Devon Rachel,Mckala Rhodes,Kamden Maas,Caterina Cigarini,College of Charleston,Missouri Baptist University,1366,20180330
+2034,2,Nickeisha Williams,Kristey Markle,Desiree Sukhov,Sarah Garrow,Cal State Bakersfield,Cal State Northridge,1367,20180330
+2039,2,Sarah Sponcil ,Lily Justine,Gabrielle Dischler,Jessalyn Kinlaw,UCLA,FAU,1370,20180330
+2044,2,Victoria Paranagua,Macy Jerger,Jensyn Bledsoe,Molly Scheel,Florida State,TCU,1371,20180330
+2049,2,Anabela Sataric,Erika Zembyla,Cadie Bates,Carly Schneider,FIU,South Carolina,1372,20180330
+2054,2,Kennedy Kurtz,Lana Brown,Sarah Garrow,Desiree Sukhov,Cal State Bakersfield,"Cal State University, Sacramento",1373,20180330
+2059,2,Morgan Martin,Lea Monkhouse,Kristey Markle,Nickeisha Williams,Hawaii,Cal State Northridge,1374,20180330
+2064,2,Eastyn Baleto,Lauren Twitty,Lauren Walker,Brooke Riley,New Mexico,Abilene Christian,1375,20180330
+2069,2,Eastyn Baleto,Lauren Twitty,Hana Peterman,Megan Gianinetti,New Mexico,Colorado Mesa,1376,20180330
+2074,2,Kara  Woodard,Sydney Palmer,Hana Peterman,Megan Gianinetti,ASU,Colorado Mesa,1377,20180330
+2079,2,Kara  Woodard,Sydney Palmer,Lauren Walker,Brooke Riley,ASU,Abilene Christian,1378,20180330
+2084,2,Jessica Gaffney,Iya Lindahl,Haley Howell,Carly Lowry,Cal,USF,1379,20180330
+2089,2,Mandi Orellana,Haleigh Nelson,Olivia Hallaran,Kacey Nady,LSU,Arizona,1380,20180330
+2094,2,Tarin Mergener,Lan Nguyen,Gabrielle Dischler,Jessalyn Kinlaw,FAU,Tulane,1381,20180330
+2099,2,Tiffany Creamer,Brooke Weiner,Jillian Bergeson,Jaelyn Greene,Georgia State,TCU,1382,20180330
+2104,2,Haleigh Nelson,Ashley Allmer,Avei Logoleo,Haley Jared,LSU,UAB,1383,20180330
+2109,2,Sam Manley,Emily Sonny,Kennedy Kurtz,Lana Brown,Cal Poly SLO,"Cal State University, Sacramento",1386,20180330
+2114,2,Courtney Schwan,Destiny Julye,Brindl Langley,Kiley Lewis,Washington,Boise State,1391,20180330
+2119,2,Courtney Schwan,Destiny Julye,Morgan Robinson,Katie Barker,Washington,Portland,1392,20180330
+2124,2,Jessie Prichard,Sara Kovac,Riley Gill,Avery Keathley,LMU,Concordia,1393,20180329
+2129,2,Savannah  Slattery,Paige Panter,Hannah Holder,Kelli Dowell,LMU,Vanguard,1394,20180329
+2134,2,Avei Logoleo,Haley Jared,Hannah Kirk,Kaylie Milton,UAB,Jacksonville State,1395,20180330
+2143,2,MC Rogers,Delaney Driver,Madison Green,Rachel Young,Texas A&M; Corpus Christi,Central Arkansas,1397,20180330
+2148,2,Taryn Griffey,Chaney Howard,Summer Coulter,Grace Seymour,UNF,Carson-Newman,1398,20180330
+2153,2,Taryn Griffey,Chaney Howard,Emily Bowen,Hannah Tannone,UNF,Webber,1399,20180330
+2158,2,Devon Rachel,Mckala Rhodes,JM Lewandowski,Halle Hunt,College of Charleston,UNC Wilmington,1400,20180330
+2163,2,Sara Putt,Macy Jerger,Lauren Orlich,Anna Chin,Florida State,Tulane,1401,20180331
+2168,2,Sarah Sponcil ,Lily Justine,Bella Baumann,Jessica Stansfield,UCLA,Grand Canyon,1402,20180331
+2173,2,Gabrielle Dischler,Jessalyn Kinlaw,Jillian Bergeson,Jaelyn Greene,FAU,TCU,1403,20180331
+2178,2,Madison Green,Rachel Young,Kaylie Milton,Hannah Kirk,Texas A&M; Corpus Christi,Jacksonville State,1404,20180330
+2183,2,Katie Horton,Hailey Luke,Anabela Sataric,Erika Zembyla,Florida State,FIU,1405,20180331
+2188,2,Katie McCullough,Brynn Montgomery,Kamden Maas,Caterina Cigarini,UNC Wilmington,Missouri Baptist University,1406,20180330
+2193,2,Devon Rachel,Mckala Rhodes,Halle Hunt,JM Lewandowski,College of Charleston,UNC Wilmington,1407,20180330
+2198,2,Sunniva Helland-Hansen,Carly Perales,Kinga Windisch,Tanner Gauthier,Stetson,Coastal Carolina,1408,20180330
+2203,2,Karissa Rhoades,Katherine Puisis,Tanner Gauthier,Kinga Windisch,FGCU,Coastal Carolina,1409,20180331
+2208,2,Lily Justine,Sarah Sponcil ,Katie Smith,Cadie Bates,UCLA,South Carolina,1410,20180331
+2213,2,Brook Bauer,Madalyn Roh,Sara Kovac,Jessie Prichard,Pepperdine,LMU,1416,20180331
+2218,2,Olivia Hallaran,Kacey Nady,Aly Brinkley,Jessica Martinez,Central Arkansas,Arizona,1417,20180331
+2223,2,Terese Cannon,Sammy Slater,Lindsey Knudsen,Emily Bible,USC,Saint Mary's,1419,20180331
+2228,2,Lauren Orlich,Anna Chin,Erika Zembyla,Anabela Sataric,Tulane,FIU,1420,20180331
+2233,2,Brook Bauer,Madalyn Roh,Lindsey Knudsen,Emily Bible,Pepperdine,Saint Mary's,1421,20180331
+2238,2,Katie Pyles,Taylor Jarzombek,Tiffany Creamer,Brooke Weiner,Grand Canyon,Georgia State,1422,20180331
+2243,2,Olivia Hallaran,Kacey Nady,Rachel Young,Madison Green,Texas A&M; Corpus Christi,Arizona,1423,20180331
+2248,2,Jaelyn Greene,Jillian Bergeson,Lauren Orlich,Anna Chin,TCU,Tulane,1424,20180331
+2253,2,Mandi Orellana,Haleigh Nelson,Macy Berg,Madison Brabham,LSU,Texas A&M; Kingsville,1425,20180331
+2258,2,Haleigh Nelson,Mandi Orellana,Hannah Kirk,Kaylie Milton,LSU,Jacksonville State,1426,20180331
+2263,2,Sara Kovac,Jessie Prichard,Lindsey Knudsen,Emily Bible,LMU,Saint Mary's,1427,20180331
+2268,2,Brook Bauer,Madalyn Roh,Terese Cannon,Sammy Slater,Pepperdine,USC,1428,20180331
+2273,2,Sydney Palmer,Kara  Woodard,Eastyn Baleto,Lauren Twitty,New Mexico,ASU,1429,20180331
+2278,2,Maddie Irwin,Erin Martin,Lauren Walker,Brooke Riley,New Mexico,Abilene Christian,1430,20180331
+2283,2,Terese Cannon,Sammy Slater,Sara Kovac,Jessie Prichard,USC,LMU,1431,20180331
+2288,2,Morgan Martin,Lea Monkhouse,Emily Sonny,Sam Manley,Hawaii,Cal Poly SLO,1432,20180331
+2293,2,Sasha Karelov,Megan Kruidhof,Kristey Markle,Nickeisha Williams,Long Beach State,Cal State Northridge,1433,20180331
+2298,2,Morgan Martin,Lea Monkhouse,Lana Brown,Kennedy Kurtz,Hawaii,"Cal State University, Sacramento",1434,20180331
+2303,2,Nele Barber,Rachel Nieto,Desiree Sukhov,Sarah Garrow,Long Beach State,Cal State Bakersfield,1435,20180331
+2308,2,Kristey Markle,Nickeisha Williams,Kennedy Kurtz,Lana Brown,Cal State Northridge,"Cal State University, Sacramento",1436,20180331
+2313,2,Emily Sonny,Sam Manley,Desiree Sukhov,Sarah Garrow,Cal Poly SLO,Cal State Bakersfield,1437,20180331
+2318,2,Lea Monkhouse,Morgan Martin,Sasha Karelov,Anete Brinke,Hawaii,Long Beach State,1438,20180331
+2323,2,Natalie Braun,Frances Giedraitis,Hana Peterman,Megan Gianinetti,ASU,Colorado Mesa,1439,20180331
+2328,2,Katie Horton,Hailey Luke,Taylor Jarzombek,Katie Pyles,Florida State,Grand Canyon,1441,20180331
+2333,2,Dorina Klinger,Katie Friesen,Tiffany Creamer,Brooke Weiner,FIU,Georgia State,1442,20180331
+2338,2,Carly Perales,Sunniva Helland-Hansen,Jessica Johnson,Elli Gibson,Stetson,Mercer,1443,20180331
+2343,2,Darby Dunn,Sammee Thomas,Aleksandra Djuric,Leah Hardeman,Stetson,Coastal Carolina,1444,20180331
+2348,2,Taryn Griffey,Chaney Howard,Halle Hunt,JM Lewandowski,UNF,UNC Wilmington,1445,20180331
+2353,2,Devon Rachel,Mckala Rhodes,Taryn Griffey,Chaney Howard,College of Charleston,UNF,1446,20180331
+2358,2,Devon Rachel,Mckala Rhodes,Emily Bowen,Hannah Tannone,College of Charleston,Webber,1447,20180331
+2363,2,Jessica Martinez,Aly Brinkley,Kaylie Milton,Hannah Kirk,Central Arkansas,Jacksonville State,1448,20180331
+2370,2,Avei Logoleo,Erin Bognar,Madison Green,Rachel Young,UAB,Texas A&M; Corpus Christi,1450,20180331
+2375,2,Katie McCullough,Brynn Montgomery,Kamden Maas,Caterina Cigarini,UNC Wilmington,Missouri Baptist University,1454,20180330
+2380,2,Karissa Rhoades,Katherine Puisis,Jessica Johnson,Elli Gibson,FGCU,Mercer,1455,20180331
+2385,2,Sam Manley,Emily Sonny,Sasha Karelov,Anete Brinke,Cal Poly SLO,Long Beach State,1456,20180401
+2390,2,Megan Kruidhof,Sasha Karelov,Kennedy Kurtz,Lana Brown,Long Beach State,"Cal State University, Sacramento",1457,20180401
+2395,2,Nina Korfhage,Brooke Moore,Olivia Lohmeier,Jessica  Hall,Austin Peay State ,Morehead State,1458,20180402
+2400,2,Claire Darland,Brooke Moore,Olivia Lohmeier,Jessica  Hall,Austin Peay State ,Morehead State,1459,20180402
+2405,2,Sunniva Helland-Hansen,Carly Perales,Kellie Pernula,Karissa Rhoades,FGCU,Stetson,1460,20180404
+2410,2,Sunniva Helland-Hansen,Carly Perales,Karissa Rhoades,Katherine Puisis,Stetson,FGCU,1461,20180404
+2415,2,Sarah Sponcil ,Lily Justine,Anete Brinke,Sasha Karelov,UCLA,Long Beach State,1463,20180404
+2420,2,Lan Nguyen,Tarin Mergener,Maile Sellers,Kayla Gallant,Tulane,ULM,1464,20180404
+2425,2,Lan Nguyen,Tarin Mergener,Maile Sellers,Kayla Gallant,Tulane,ULM,1465,20180404
+2430,2,Lily Justine,Sarah Sponcil ,Terese Cannon,Sammy Slater,UCLA,USC,1466,20180404
+2435,2,Kaylie Milton,Hannah Kirk,Bria Rochelle,Alexis Creasman,Jacksonville State,Huntingdon,1467,20180403
+2440,2,Kristey Markle,Nickeisha Williams,Kelli Dowell,Hannah Holder,Cal State Northridge,Vanguard,1469,20180405
+2445,2,Kristey Markle,Nickeisha Williams,Avery Keathley,Riley Gill,Cal State Northridge,Concordia,1470,20180405
+2450,2,Emily Bible,Lindsey Knudsen,Julia Golbeck,Ciara Reistad,Saint Mary's,San Jose State University,1471,20180405
+2455,2,Jillian Bergeson,Jaelyn Greene,Brooke Weiner,Tiffany Creamer,Georgia State,TCU,1472,20180406
+2460,2,Hailey Luke,Katie Horton,Gabrielle Dischler,Jessalyn Kinlaw,Florida State,FAU,1473,20180406
+2465,2,Jillian Bergeson,Jaelyn Greene,Erin Bognar,Avei Logoleo,TCU,UAB,1474,20180406
+2470,2,Mallory Mattingly,Lauren Petersen,Leah Hardeman,Aleksandra Djuric,Coastal Carolina,Jacksonville,1475,20180406
+2475,2,Taryn Griffey,Chaney Howard,Leah Hardeman,Aleksandra Djuric,Coastal Carolina,UNF,1476,20180406
+2480,2,Carly Perales,Sunniva Helland-Hansen,Hana Peterman,Megan Gianinetti,Stetson,Colorado Mesa,1477,20180406
+2485,2,Iya Lindahl,Jessica Gaffney,Sydney Palmer,Kara  Woodard,Cal,ASU,1478,20180406
+2490,2,Kacey Nady,Sara Watanabe,Carly Perales,Sunniva Helland-Hansen,Stetson,Arizona,1479,20180406
+2495,2,Tiffany Creamer,Brooke Weiner,Erin Bognar,Avei Logoleo,Georgia State,UAB,1480,20180406
+2500,2,Gabrielle Dischler,Jessalyn Kinlaw,Halle Hunt,JM Lewandowski,FAU,UNC Wilmington,1481,20180406
+2505,2,Hailey Luke,Katie Horton,Jillian Bergeson,Jaelyn Greene,Florida State,TCU,1482,20180406
+2510,2,Hailey Luke,Katie Horton,Halle Hunt,JM Lewandowski,Florida State,UNC Wilmington,1483,20180406
+2515,2,Iya Lindahl,Jessica Gaffney,Carly Perales,Sunniva Helland-Hansen,Stetson,Cal,1484,20180406
+2520,2,Kara  Woodard,Frances Giedraitis,Megan Gianinetti,Hana Peterman,ASU,Colorado Mesa,1485,20180406
+2525,2,Taryn Griffey,Chaney Howard,Amber Gibson,Gracie Garanich,UNF,Mercer,1486,20180406
+2530,2,Mallory Mattingly,Lauren Petersen,Elli Gibson,Jessica Johnson,Jacksonville,Mercer,1487,20180406
+2535,2,Stephany Purdue,Hailey Devlin,Sydney Palmer,Kara  Woodard,Arizona,ASU,1488,20180406
+2540,2,Tiffany Creamer,Brooke Weiner,Katie McCullough,Brynn Montgomery,Georgia State,UNC Wilmington,1501,20180407
+2545,2,Tiffany Creamer,Brooke Weiner,Katie McCullough,Brynn Montgomery,Georgia State,UNC Wilmington,1502,20180407
+2550,2,Gabrielle Dischler,Jessalyn Kinlaw,Jaelyn Greene,Jillian Bergeson,FAU,TCU,1503,20180407
+2554,2,Morgan Martin,Lea Monkhouse,Sara Kovac,Jessie Prichard,Hawaii,LMU,1504,20180407
+2559,2,Morgan Martin,Lea Monkhouse,Melissa Powell,Tawnee Luafalemana,Hawaii,Utah,1505,20180407
+2564,2,Sara Kovac,Jessie Prichard,Destiny Julye,Courtney Schwan,LMU,Washington,1506,20180407
+2569,2,Destiny Julye,Courtney Schwan,Melissa Powell,Tawnee Luafalemana,Washington,Utah,1512,20180407
+2574,2,Sara Kovac,Jessie Prichard,Tawnee Luafalemana,Melissa Powell,LMU,Utah,1515,20180407
+2579,2,Morgan Martin,Lea Monkhouse,Courtney Schwan,Destiny Julye,Hawaii,Washington,1517,20180407
+2584,2,Emily Sonny,Sam Manley,Courtney Bowen,Sunny Villapando,Stanford,Cal Poly SLO,1521,20180407
+2589,2,Lily Justine,Sarah Sponcil ,Emily Bible,Lindsey Knudsen,UCLA,Saint Mary's,1522,20180407
+2594,2,Lily Justine,Sarah Sponcil ,Emily Sonny,Sam Manley,UCLA,Cal Poly SLO,1523,20180407
+2599,2,Courtney Bowen,Sunny Villapando,Kaitlyn Lines,Roni Long,Stanford,Pacific,1524,20180407
+2604,2,Stephany Purdue,Hailey Devlin,Hana Peterman,Megan Gianinetti,Arizona,Colorado Mesa,1525,20180407
+2608,2,Iya Lindahl,Jessica Gaffney,Hana Peterman,Megan Gianinetti,Cal,Colorado Mesa,1526,20180407
+2613,2,Sunniva Helland-Hansen,Carly Perales,Kara  Woodard,Sydney Palmer,Stetson,ASU,1527,20180407
+2618,2,Sunniva Helland-Hansen,Carly Perales,Hannah Holder,Kelli Dowell,Stetson,Vanguard,1528,20180407
+2623,2,Haley Howell,Carly Lowry,Julia Golbeck,Ciara Reistad,USF,San Jose State University,1529,20180407
+2628,2,Stephany Purdue,Hailey Devlin,Iya Lindahl,Jessica Gaffney,Cal,Arizona,1530,20180407
+2633,2,Haley Howell,Carly Lowry,Julia Golbeck,Ciara Reistad,USF,San Jose State University,1531,20180407
+2638,2,Julia Golbeck,Ciara Reistad,Anna McCreadie,Gretchen Reinert,San Jose State University,Santa Clara,1532,20180407
+2643,2,Haley Howell,Carly Lowry,Anna McCreadie,Gretchen Reinert,USF,Santa Clara,1533,20180407
+2648,2,Lan Nguyen,Tarin Mergener,Tori Hinojosa,Kayla Armer,Tulane,Houston Baptist,1534,20180407
+2653,2,Taylor Jarzombek,Katie Pyles,Megan Nash,Hayley Tippett,Central Arkansas,Grand Canyon,1535,20180407
+2658,2,Haleigh Nelson,Mandi Orellana,Anna Chin,Lauren Orlich,LSU,Tulane,1536,20180407
+2663,2,Taryn Griffey,Chaney Howard,Aleksandra Djuric,Leah Hardeman,UNF,Coastal Carolina,1537,20180407
+2667,2,Kayla Armer,Tori Hinojosa,Cara Sander,Victoria Corcoran,Houston Baptist,New Orleans,1538,20180407
+2672,2,Lauren Petersen,Mallory Mattingly,Carla Cahill,Dora Lulic,Coastal Carolina,Jacksonville,1539,20180407
+2676,2,Haleigh Nelson,Mandi Orellana,Taylor Jarzombek,Katie Pyles,Grand Canyon,LSU,1540,20180407
+2681,2,Lauren Petersen,Mallory Mattingly,Carla Cahill,Dora Lulic,Coastal Carolina,Jacksonville,1541,20180407
+2685,2,Sarah Garrow,Desiree Sukhov,Janessa Mata,Daisia LaBrie,Cal State Bakersfield,CSULA,1542,20180407
+2690,2,Lela Mcintosh,Gracie Garanich,Lauren Petersen,Mallory Mattingly,Mercer,Jacksonville,1543,20180407
+2694,2,Kennedy Kurtz,Lana Brown,Janessa Mata,Daisia LaBrie,"Cal State University, Sacramento",CSULA,1544,20180407
+2699,2,Eastyn Baleto,Lauren Twitty,Desiree Sukhov,Sarah Garrow,New Mexico,Cal State Bakersfield,1545,20180407
+2704,2,Taylor Agost,Josie Cole,Morgan Robinson,Katie Barker,Oregon,Portland,1546,20180407
+2709,2,Sarah Garrow,Desiree Sukhov,Kennedy Kurtz,Lana Brown,Cal State Bakersfield,"Cal State University, Sacramento",1547,20180407
+2714,2,Lauren Petersen,Mallory Mattingly,Carla Cahill,Dora Lulic,Coastal Carolina,Jacksonville,1548,20180407
+2718,2,Taryn Griffey,Chaney Howard,Sophie Peel,Kacy Ogden,Mercer,UNF,1549,20180407
+2723,2,Lela Mcintosh,Gracie Garanich,Lauren Petersen,Mallory Mattingly,Mercer,Jacksonville,1550,20180407
+2728,2,Frances Giedraitis,Halle Parker,Kelli Dowell,Hannah Holder,ASU,Vanguard,1558,20180407
+2733,2,Haleigh Nelson,Ashley Allmer,Kimberly Schnars,Stephanie Pollnow,LSU,Central Arkansas,1563,20180408
+2738,2,Bella Baumann,Jessica Stansfield,Kayla Armer,Tori Hinojosa,Houston Baptist,Grand Canyon,1564,20180408
+2743,2,Hayley Tippett,Megan Nash,Rachel Kuhn,Veronica Corcoran,Central Arkansas,New Orleans,1565,20180408
+2748,2,Anna Chin,Lauren Orlich,Katie Pyles,Taylor Jarzombek,Tulane,Grand Canyon,1566,20180408
+2753,2,Courtney Schwan,Destiny Julye,Sara Kovac,Jessie Prichard,Washington,LMU,1574,20180408
+2758,2,Morgan Martin,Lea Monkhouse,Melissa Powell,Tawnee Luafalemana,Hawaii,Utah,1575,20180408
+2763,2,Sarah Sponcil ,Lily Justine,Kaitlyn Lines,Roni Long,UCLA,Pacific,1579,20180408
+2768,2,Sarah Sponcil ,Lily Justine,Sunny Villapando,Courtney Bowen,UCLA,Stanford,1580,20180408
+2773,2,Anna Chin,Lauren Orlich,Kimberly Schnars,Stephanie Pollnow,Tulane,Central Arkansas,1581,20180408
+2778,2,Anna Chin,Lauren Orlich,Rachel Kuhn,Veronica Corcoran,New Orleans,Tulane,1582,20180408
+2783,2,Taylor Nelson,Adlee Van Winden,Kaitlyn Lines,Roni Long,Cal Poly SLO,Pacific,1583,20180408
+2788,2,Sam Manley,Emily Sonny,Emily Bible,Lindsey Knudsen,Cal Poly SLO,Saint Mary's,1584,20180408
+2793,2,Morgan Martin,Lea Monkhouse,Destiny Julye,Courtney Schwan,Hawaii,Washington,1585,20180408
+2798,2,Sara Kovac,Jessie Prichard,Melissa Powell,Tawnee Luafalemana,LMU,Utah,1586,20180408
+2803,2,Emily Bible,Lindsey Knudsen,Courtney Bowen,Sunny Villapando,Stanford,Saint Mary's,1587,20180408
+2808,2,Tori Hinojosa,Kayla Armer,Hannah Kirk,Sadie Anderson,Houston Baptist,Jacksonville State,1588,20180302
+2813,2,Madalyn Roh,Brook Bauer,Joy Dennis,Brianna Sizemore,Pepperdine,USC,1589,20180410
+2818,2,Roni Long,Kaitlyn Lines,Anna McCreadie,Gretchen Reinert,Pacific,Santa Clara,1590,20180410
+2823,2,Karissa Rhoades,Katherine Puisis,Emily Bowen,Hannah Tannone,FGCU,Webber,1591,20180410
+2827,2,Sophie Peel,Kacy Ogden,Leah Hardeman,Aleksandra Djuric,Coastal Carolina,Mercer,1592,20180411
+2832,2,Amber Gibson,Gracie Garanich,Leah Hardeman,Aleksandra Djuric,Coastal Carolina,Mercer,1593,20180411
+2837,2,Kristey Markle,Nickeisha Williams,Sarah Garrow,Desiree Sukhov,Cal State Bakersfield,Cal State Northridge,1596,20180412
+2842,2,Sara Kovac,Jessie Prichard,Desiree Sukhov,Sarah Garrow,LMU,Cal State Bakersfield,1597,20180412
+2847,2,Sara Kovac,Jessie Prichard,Kristey Markle,Nickeisha Williams,LMU,Cal State Northridge,1598,20180412
+2852,2,Lan Nguyen,Tarin Mergener,Devon Rachel,Mckala Rhodes,Tulane,College of Charleston,1599,20180413
+2857,2,Katie Friesen,Dorina Klinger,Erin Bognar,Avei Logoleo,FIU,UAB,1601,20180413
+2862,2,Aubrey Ezell,Lydia Dimke,Carla Cahill,Dora Lulic,Coastal Carolina,South Carolina,1602,20180413
+2867,2,Katie Smith,Cadie Bates,Tarin Mergener,Lan Nguyen,Tulane,South Carolina,1603,20180413
+2872,2,Carly Perales,Sunniva Helland-Hansen,Taryn Griffey,Chaney Howard,UNF,Stetson,1605,20180413
+2877,2,Carly Perales,Sunniva Helland-Hansen,Mallory Mattingly,Lauren Petersen,Stetson,Jacksonville,1606,20180413
+2882,2,Karissa Rhoades,Katherine Puisis,Mallory Mattingly,Lauren Petersen,FGCU,Jacksonville,1607,20180413
+2887,2,Taryn Griffey,Chaney Howard,Karissa Rhoades,Katherine Puisis,UNF,FGCU,1608,20180413
+2892,2,Kayla Gallant,Maile Sellers,Brooke Moore,Claire Darland,ULM,Austin Peay State ,1609,20180413
+2899,2,Aly Brinkley,Jessica Martinez,Catherine Griffith,Rebecca Brown,ULM,Central Arkansas,1612,20180413
+2904,2,Megan Nash,Hayley Tippett,Nina Korfhage,Brooke Moore,Central Arkansas,Austin Peay State ,1613,20180413
+2909,2,Devon Rachel,Mckala Rhodes,Julia Hanson,Kelsey Larsen,College of Charleston,Missouri State,1614,20180413
+2914,2,Dora Lulic,Carla Cahill,Mikaela Mosquera,Sam Brinkmann,Coastal Carolina,Missouri State,1615,20180413
+2919,2,Madalyn Roh,Brook Bauer,Hailey Devlin,Stephany Purdue,Pepperdine,Arizona,1622,20180414
+2924,2,Sam Manley,Emily Sonny,Hailey Devlin,Stephany Purdue,Cal Poly SLO,Arizona,1623,20180414
+2929,2,Karissa Rhoades,Katherine Puisis,Taryn Griffey,Chaney Howard,FGCU,UNF,1624,20180414
+2934,2,Madalyn Roh,Brook Bauer,Emily Sonny,Jessica  Manley,Pepperdine,Cal Poly SLO,1625,20180414
+2939,2,Karissa Rhoades,Katherine Puisis,Mallory Mattingly,Lauren Petersen,FGCU,Jacksonville,1626,20180414
+2944,2,Jessica Martinez,Aly Brinkley,Kayla Gallant,Maile Sellers,ULM,Central Arkansas,1627,20180414
+2949,2,Kimberly Schnars,Stephanie Pollnow,Jenna Panning,Haley Turner,Central Arkansas,Austin Peay State ,1628,20180414
+2954,2,Lina Bernier,Erika Zembyla,Erin Bognar,Avei Logoleo,FIU,UAB,1629,20180414
+2959,2,Joy Dennis,Cammie Dorn,Destiny Julye,Courtney Schwan,Washington,USC,1630,20180414
+2964,2,Joy Dennis,Cammie Dorn,Courtney Bowen,Sunny Villapando,Stanford,USC,1631,20180414
+2969,2,Sunny Villapando,Courtney Bowen,Taylor Agost,Josie Cole,Stanford,Oregon,1632,20180414
+2974,2,Jessica Gaffney,Iya Lindahl,Taylor Agost,Josie Cole,Cal,Oregon,1633,20180414
+2979,2,Tarin Mergener,Lan Nguyen,Mikaela Mosquera,Sam Brinkmann,Tulane,Missouri State,1634,20180414
+2984,2,Lan Nguyen,Tarin Mergener,Dora Lulic,Carla Cahill,Tulane,Coastal Carolina,1635,20180414
+2989,2,Eastyn Baleto,Lauren Twitty,Jacey Smith,Kendall Bosse,New Mexico,Abilene Christian,1636,20180414
+2994,2,Macy Berg,Madison Brabham,Lauren Twitty,Eastyn Baleto,New Mexico,Texas A&M; Kingsville,1637,20180414
+2996,2,Carly Perales,Sunniva Helland-Hansen,Mallory Mattingly,Lauren Petersen,Stetson,Jacksonville,1639,20180414
+3001,2,Carly Perales,Sunniva Helland-Hansen,Taryn Griffey,Chaney Howard,Stetson,UNF,1640,20180414
+3006,2,Brindl Langley,Kiley Lewis,Frances Giedraitis,Sydney Palmer,Boise State,ASU,1641,20180414
+3011,2,Kayla Gallant,Maile Sellers,Brooke Moore,Claire Darland,ULM,Austin Peay State ,1642,20180414
+3015,2,Chandler Clark,Olivia Lohmeier,Brooke Fearka,Makayla Aspegren,Morehead State,Ottawa,1643,20180414
+3020,2,Megan Kruidhof,Rachel Nieto,Tawnee Luafalemana,Melissa Powell,Long Beach State,Utah,1644,20180414
+3025,2,Krissy Mummey,Mckala Rhodes,Carla Cahill,Dora Lulic,College of Charleston,Coastal Carolina,1645,20180414
+3030,2,Tawnee Luafalemana,Melissa Powell,Sarah Garrow,Desiree Sukhov,Utah,Cal State Bakersfield,1646,20180414
+3035,2,Tawnee Luafalemana,Melissa Powell,Sarah Garrow,Desiree Sukhov,Utah,Cal State Bakersfield,1647,20180414
+3040,2,Katie Smith,Cadie Bates,Sam Brinkmann,Mikaela Mosquera,South Carolina,Missouri State,1648,20180414
+3045,2,Katie Smith,Cadie Bates,Krissy Mummey,Mckala Rhodes,South Carolina,College of Charleston,1649,20180414
+3050,2,Haleigh Nelson,Mandi Orellana,Jillian Bergeson,Jaelyn Greene,LSU,TCU,1650,20180414
+3055,2,Haleigh Nelson,Mandi Orellana,Jillian Bergeson,Jaelyn Greene,LSU,TCU,1651,20180414
+3060,2,Jillian Bergeson,Jaelyn Greene,Hannah Kirk,Kaylie Milton,TCU,Jacksonville State,1652,20180414
+3065,2,Lea Monkhouse,Morgan Martin,Brindl Langley,Kiley Lewis,Hawaii,Boise State,1653,20180414
+3070,2,Katie Horton,Hailey Luke,Tiffany Creamer,Brooke Weiner,Florida State,Georgia State,1654,20180414
+3075,2,Katie Horton,Hailey Luke,Kayla Armer,Tori Hinojosa,Florida State,Houston Baptist,1655,20180414
+3080,2,Katie Horton,Hailey Luke,Cara Sander,Victoria Corcoran,Florida State,New Orleans,1656,20180414
+3085,2,Megan Kruidhof,Rachel Nieto,Sarah Garrow,Desiree Sukhov,Long Beach State,Cal State Bakersfield,1657,20180414
+3090,2,Haleigh Nelson,Mandi Orellana,Brooke Weiner,Tiffany Creamer,Georgia State,LSU,1658,20180414
+3095,2,Roni Long,Hanne De Schrijver,Sarah Davis,Kennedy Kurtz,"Cal State University, Sacramento",Pacific,1660,20180414
+3100,2,Julia Golbeck,Ciara Reistad,Roni Long,Kaitlyn Lines,San Jose State University,Pacific,1661,20180414
+3105,2,Julia Golbeck,Ciara Reistad,Kennedy Kurtz,Lana Brown,"Cal State University, Sacramento",San Jose State University,1662,20180414
+3110,2,Morgan Martin,Lea Monkhouse,Natalie Braun,Kara  Woodard,Hawaii,ASU,1663,20180414
+3115,2,Destiny Julye,Courtney Schwan,Alexia Inman,Mima Mirkovic,Washington,Cal,1664,20180414
+3120,2,Madison Green,Rachel Young,Kendall Bosse,Jacey Smith,Texas A&M; Corpus Christi,Abilene Christian,1665,20180414
+3125,2,Kayla Armer,Tori Hinojosa,Hannah Kirk,Kaylie Milton,Houston Baptist,Jacksonville State,1666,20180414
+3130,2,Jessica Gaffney,Iya Lindahl,Joy Dennis,Cammie Dorn,Cal,USC,1667,20180415
+3135,2,Hailey Luke,Katie Horton,Mandi Orellana,Haleigh Nelson,Florida State,LSU,1668,20180415
+3140,2,Madison Green,Rachel Young,Lauren Twitty,Eastyn Baleto,Texas A&M; Corpus Christi,New Mexico,1669,20180415
+3145,2,Sunny Villapando,Courtney Bowen,Iya Lindahl,Jessica Gaffney,Stanford,Cal,1670,20180415
+3150,2,Rachel Kuhn,Veronica Corcoran,Kaylie Milton,Hannah Kirk,New Orleans,Jacksonville State,1671,20180415
+3155,2,Katie Horton,Nikki Esposito,Kaylie Milton,Hannah Kirk,Florida State,Jacksonville State,1672,20180415
+3160,2,Destiny Julye,Courtney Schwan,Taylor Agost,Josie Cole,Washington,Oregon,1673,20180415
+3165,2,Joy Dennis,Cammie Dorn,Taylor Agost,Josie Cole,USC,Oregon,1674,20180415
+3170,2,Tiffany Creamer,Brooke Weiner,Jillian Bergeson,Jaelyn Greene,Georgia State,TCU,1675,20180415
+3175,2,Jaelyn Greene,Jillian Bergeson,Kayla Armer,Tori Hinojosa,TCU,Houston Baptist,1676,20180415
+3180,2,Kiley Lewis,Brindl Langley,Natalie Braun,Kara  Woodard,Boise State,ASU,1677,20180415
+3185,2,Rachel Nieto,Megan Kruidhof,Sara Kovac,Jessie Prichard,Long Beach State,LMU,1678,20180415
+3190,2,Morgan Martin,Lea Monkhouse,Sydney Palmer,Frances Giedraitis,Hawaii,ASU,1679,20180415
+3195,2,Haleigh Nelson,Mandi Orellana,Kayla Armer,Tori Hinojosa,LSU,Houston Baptist,1680,20180415
+3200,2,Megan Kruidhof,Rachel Nieto,Melissa Powell,Tawnee Luafalemana,Long Beach State,Utah,1681,20180415
+3205,2,Sara Kovac,Jessie Prichard,Tawnee Luafalemana,Melissa Powell,LMU,Utah,1682,20180415
+3210,2,Tiffany Creamer,Brooke Weiner,Cara Sander,Victoria Corcoran,Georgia State,New Orleans,1683,20180415
+3214,2,Macy Berg,Madison Brabham,Rachel Young,Madison Green,Texas A&M; Corpus Christi,Texas A&M; Kingsville,1684,20180415
+3216,2,Sunny Villapando,Courtney Bowen,Courtney Schwan,Destiny Julye,Stanford,Washington,1686,20180415
+3221,2,Morgan Martin,Lea Monkhouse,Brindl Langley,Kiley Lewis,Hawaii,Boise State,1687,20180415
+3226,2,Joy Dennis,Cammie Dorn,Megan Kruidhof,Rachel Nieto,Long Beach State,USC,1707,20180417
+3231,2,Megan Kruidhof,Rachel Nieto,Bella Baumann,Jessica Stansfield,Long Beach State,Grand Canyon,1708,20180417
+3236,2,Jessica Gaffney,Iya Lindahl,Emily Bible,Lindsey Knudsen,Saint Mary's,Cal,1709,20180417
+3241,2,Terese Cannon,Sammy Slater,Bella Baumann,Taylor Jarzombek,USC,Grand Canyon,1710,20180417
+3246,2,Kacey Nady,Olivia Hallaran,Natalie Braun,Frances Giedraitis,Arizona,ASU,1711,20180418
+3251,2,Lily Justine,Sarah Sponcil ,Megan Kruidhof,Rachel Nieto,UCLA,Long Beach State,1712,20180419
+3256,2,Kristey Markle,Nickeisha Williams,Janessa Mata,Daisia LaBrie,Cal State Northridge,CSULA,1713,20180419
+3261,2,Bella Baumann,Jessica Stansfield,Tawnee Luafalemana,Melissa Powell,Grand Canyon,Utah,1714,20180419
+3266,2,Hailey Luke,Katie Horton,Brynn Montgomery,JM Lewandowski,Florida State,UNC Wilmington,1715,20180420
+3271,2,Ali Denney,Shannon Williams,Avei Logoleo,Erin Bognar,South Carolina,UAB,1716,20180420
+3276,2,Haleigh Nelson,Mandi Orellana,Brooke Weiner,Tiffany Creamer,Georgia State,LSU,1717,20180420
+3281,2,Lina Bernier,Erika Zembyla,Devon Rachel,Mckala Rhodes,FIU,College of Charleston,1718,20180420
+3286,2,Katie Horton,Hailey Luke,Gabrielle Dischler,Jessalyn Kinlaw,Florida State,FAU,1719,20180420
+3291,2,Shannon Williams,Ali Denney,Tarin Mergener,Lan Nguyen,South Carolina,Tulane,1720,20180420
+3296,2,Mckala Rhodes,Devon Rachel,Avei Logoleo,Erin Bognar,College of Charleston,UAB,1721,20180420
+3301,2,Haleigh Nelson,Mandi Orellana,JM Lewandowski,Brynn Montgomery,LSU,UNC Wilmington,1722,20180420
+3306,2,Lindsey Knudsen,Emily Bible,Katie Barker,Morgan Robinson,Saint Mary's,Portland,1723,20180420
+3311,2,Sara Kovac,Jessie Prichard,Anna McCreadie,Gretchen Reinert,LMU,Santa Clara,1724,20180420
+3315,2,Sara Kovac,Jessie Prichard,Anna McCreadie,Gretchen Reinert,LMU,Santa Clara,1725,20180420
+3319,2,Lina Bernier,Erika Zembyla,Tarin Mergener,Lan Nguyen,FIU,Tulane,1726,20180420
+3324,2,Tiffany Creamer,Brooke Weiner,Gabrielle Dischler,Jessalyn Kinlaw,Georgia State,FAU,1727,20180420
+3329,2,Kacey Nady,Olivia Hallaran,Eastyn Baleto,Lauren Twitty,Arizona,New Mexico,1728,20180420
+3334,2,Tawnee Luafalemana,Bailey Choy,Anokina Mirzapour,Kassandra Renteria,Utah,Benedictine,1729,20180420
+3339,2,Lauren Twitty,Eastyn Baleto,Anokina Mirzapour,Kassandra Renteria,New Mexico,Benedictine,1730,20180420
+3344,2,Madalyn Roh,Brook Bauer,Roni Long,Hanne De Schrijver,Pepperdine,Pacific,1731,20180420
+3349,2,Lindsey Knudsen,Emily Bible,Sara Kovac,Jessie Prichard,LMU,Saint Mary's,1732,20180420
+3354,2,Katie Barker,Morgan Robinson,Ngozi Nwabuzoh,Gretchen Reinert,Portland,Santa Clara,1733,20180420
+3359,2,Roni Long,Hanne De Schrijver,Katie Barker,Morgan Robinson,Pacific,Portland,1734,20180420
+3364,2,Sara Kovac,Jessie Prichard,Haley Howell,Carly Lowry,LMU,USF,1735,20180420
+3369,2,Roni Long,Hanne De Schrijver,Haley Howell,Carly Lowry,Pacific,USF,1736,20180420
+3373,2,Chandler Clark,Olivia Lohmeier,Montgomery Sauter,Aryana Fazelnia,Morehead State,Carson-Newman,1737,20180420
+3377,2,Emily Sonny,Sam Manley,Ciara Reistad,Julia Golbeck,Cal Poly SLO,San Jose State University,1738,20180420
+3382,2,Emily Sonny,Sam Manley,Kayla Tinker,Gabby Morrison,Cal Poly SLO,Vanguard,1739,20180420
+3387,2,Nina Korfhage,Brooke Moore,Chandler Clark,Olivia Lohmeier,Morehead State,Austin Peay State ,1742,20180420
+3392,2,Claire Darland,Brooke Moore,Charis Ludtke,Hannah Kirk,Jacksonville State,Austin Peay State ,1743,20180420
+3399,2,Olivia Hallaran,Kacey Nady,Bailey Choy,Tawnee Luafalemana,Arizona,Utah,1746,20180420
+3404,2,Emma Calle,Destiny Julye,Brindl Langley,Kiley Lewis,Boise State,Washington,1752,20180420
+3409,2,Shannon Williams,Ali Denney,Mckala Rhodes,Devon Rachel,South Carolina,College of Charleston,1765,20180421
+3414,2,Katie Horton,Hailey Luke,Haleigh Nelson,Mandi Orellana,Florida State,LSU,1766,20180421
+3419,2,Shannon Williams,Ali Denney,Mckala Rhodes,Devon Rachel,South Carolina,College of Charleston,1767,20180421
+3424,2,Kayla Armer,Tori Hinojosa,Madison Green,Rachel Young,Houston Baptist,Texas A&M; Corpus Christi,1768,20180420
+3429,2,Kayla Armer,Tori Hinojosa,Victoria Corcoran,Rachel Kuhn,Houston Baptist,New Orleans,1769,20180420
+3434,2,Madalyn Roh,Brook Bauer,Lindsey Knudsen,Emily Bible,Pepperdine,Saint Mary's,1770,20180421
+3439,2,Tarin Mergener,Lan Nguyen,Avei Logoleo,Erin Bognar,Tulane,UAB,1771,20180421
+3444,2,Gabrielle Dischler,Jessalyn Kinlaw,JM Lewandowski,Brynn Montgomery,FAU,UNC Wilmington,1772,20180421
+3449,2,Katie Horton,Hailey Luke,Tiffany Creamer,Brooke Weiner,Florida State,Georgia State,1773,20180421
+3454,2,Shannon Williams,Ali Denney,Lina Bernier,Erika Zembyla,South Carolina,FIU,1774,20180421
+3459,2,Sara Kovac,Jessie Prichard,Roni Long,Hanne De Schrijver,LMU,Pacific,1775,20180421
+3464,2,Tarin Mergener,Lan Nguyen,Mckala Rhodes,Devon Rachel,Tulane,College of Charleston,1776,20180421
+3469,2,Haleigh Nelson,Mandi Orellana,Gabrielle Dischler,Jessalyn Kinlaw,FAU,LSU,1777,20180421
+3474,2,Bailey Choy,Tawnee Luafalemana,Eastyn Baleto,Lauren Twitty,New Mexico,Utah,1778,20180421
+3479,2,Sunniva Helland-Hansen,Carly Perales,Mallory Mattingly,Kendall Murr,Stetson,Jacksonville,1779,20180421
+3484,2,Taryn Griffey,Chaney Howard,Karissa Rhoades,Katherine Puisis,UNF,FGCU,1780,20180421
+3489,2,Lauren Petersen,Mallory Mattingly,Amber Gibson,Gracie Garanich,Mercer,Jacksonville,1781,20180421
+3497,2,Lindsey Knudsen,Emily Bible,Sara Kovac,Jessie Prichard,Saint Mary's,LMU,1783,20180421
+3502,2,Madalyn Roh,Brook Bauer,Lindsey Knudsen,Emily Bible,Pepperdine,Saint Mary's,1784,20180421
+3507,2,Iya Lindahl,Alexia Inman,Sunny Villapando,Courtney Bowen,Stanford,Cal,1785,20180421
+3512,2,Karissa Rhoades,Katherine Puisis,Amber Gibson,Gracie Garanich,Mercer,FGCU,1786,20180421
+3518,2,Courtney Schwan,Destiny Julye,Brindl Langley,Kiley Lewis,Washington,Boise State,1789,20180421
+3523,2,Kristey Markle,Nickeisha Williams,Kelli Dowell,Dani Erdelatz,Cal State Northridge,Vanguard,1790,20180421
+3528,2,Kristey Markle,Nickeisha Williams,Aleksandra Djordjevic,Briannah Mariner,Cal State Bakersfield,Cal State Northridge,1791,20180421
+3533,2,Aleksandra Djordjevic,Briannah Mariner,Dani Erdelatz,Kelli Dowell,Cal State Bakersfield,Vanguard,1792,20180421
+3538,2,Lina Bernier,Erika Zembyla,Avei Logoleo,Erin Bognar,FIU,UAB,1793,20180421
+3543,2,Tiffany Creamer,Brooke Weiner,JM Lewandowski,Brynn Montgomery,Georgia State,UNC Wilmington,1794,20180421
+3548,2,Brooke Moore,Nina Korfhage,Montgomery Sauter,Aryana Fazelnia,Austin Peay State ,Carson-Newman,1795,20180421
+3553,2,Charis Ludtke,Hannah Kirk,Montgomery Sauter,Aryana Fazelnia,Jacksonville State,Carson-Newman,1796,20180421
+3558,2,Katie Horton,Hailey Luke,Lina Bernier,Erika Zembyla,Florida State,FIU,1798,20180422
+3562,2,Sunniva Helland-Hansen,Carly Perales,Taryn Griffey,Chaney Howard,Stetson,UNF,1799,20180422
+3566,2,Mandi Orellana,Haleigh Nelson,Ali Denney,Shannon Williams,South Carolina,LSU,1800,20180422
+3571,2,Megan Nash,Hayley Tippett,Tori Hinojosa,Kayla Armer,Central Arkansas,Houston Baptist,1801,20180421
+3576,2,Kayla Armer,Tori Hinojosa,Jessica Martinez,Aly Brinkley,Houston Baptist,Central Arkansas,1802,20180422
+3580,2,Jessica Martinez,Aly Brinkley,Kendall Bosse,Jacey Smith,Central Arkansas,Abilene Christian,1803,20180422
+3584,2,Cara Sander,Veronica Corcoran,Aly Brinkley,Jessica Martinez,New Orleans,Central Arkansas,1804,20180421
+3588,2,Jessica Martinez,Aly Brinkley,Kendall Bosse,Jacey Smith,Central Arkansas,Abilene Christian,1805,20180422
+3593,2,Cara Sander,Victoria Corcoran,Jessica Martinez,Aly Brinkley,New Orleans,Central Arkansas,1806,20180420
+3598,2,Rachel Young,Madison Green,Jessica Martinez,Aly Brinkley,Texas A&M; Corpus Christi,Central Arkansas,1807,20180420
+3602,2,Karissa Rhoades,Katherine Puisis,Lauren Petersen,Mallory Mattingly,FGCU,Jacksonville,1808,20180422
+3609,2,Kayla Armer,Tori Hinojosa,Madison Green,Rachel Young,Houston Baptist,Texas A&M; Corpus Christi,1810,20180422
+3612,2,Katie Horton,Hailey Luke,Haleigh Nelson,Mandi Orellana,Florida State,LSU,1811,20180422
+3618,2,Sunniva Helland-Hansen,Carly Perales,Taryn Griffey,Chaney Howard,Stetson,UNF,1813,20180422
+3623,2,Kayla Armer,Tori Hinojosa,Cara Sander,Veronica Corcoran,Houston Baptist,New Orleans,1814,20180422
+3628,2,Halle Hunt,JM Lewandowski,Madison Green,Rachel Young,Texas A&M; Corpus Christi,UNC Wilmington,1815,20180303
+3633,2,Veronica Corcoran,Rachel Kuhn,Jacey Smith,Kendall Bosse,New Orleans,Abilene Christian,1818,20180420
+3638,2,Bailey Choy,Tawnee Luafalemana,Taylor Agost,Josie Cole,Utah,Oregon,1819,20180426
+3643,2,Terese Cannon,Sammy Slater,Natalie Braun,Frances Giedraitis,USC,ASU,1820,20180426
+3648,2,Iya Lindahl,Alexia Inman,Courtney Schwan,Destiny Julye,Cal,Washington,1821,20180426
+3653,2,Amelia Smith,Morgan Hentz,Kacey Nady,Olivia Hallaran,Stanford,Arizona,1822,20180426
+3658,2,Lily Justine,Sarah Sponcil ,Bailey Choy,Tawnee Luafalemana,UCLA,Utah,1823,20180426
+3663,2,Frances Giedraitis,Natalie Braun,Taylor Agost,Josie Cole,ASU,Oregon,1824,20180426
+3668,2,Kacey Nady,Olivia Hallaran,Bailey Choy,Tawnee Luafalemana,Arizona,Utah,1825,20180427
+3673,2,Courtney Schwan,Destiny Julye,Frances Giedraitis,Natalie Braun,Washington,ASU,1826,20180427
+3677,2,Courtney Schwan,Destiny Julye,Frances Giedraitis,Natalie Braun,Washington,ASU,1827,20180427
+3682,2,Terese Cannon,Sammy Slater,Alexia Inman,Iya Lindahl,USC,Cal,1828,20180427
+3687,2,Lily Justine,Sarah Sponcil ,Amelia Smith,Morgan Hentz,UCLA,Stanford,1829,20180427
+3692,2,Desiree Sukhov,Sarah Garrow,Kristey Markle,Nickeisha Williams,Cal State Bakersfield,Cal State Northridge,1830,20180427
+3697,2,Megan Kruidhof,Rachel Nieto,Kennedy Kurtz,Sarah Davis,Long Beach State,"Cal State University, Sacramento",1831,20180427
+3702,2,Morgan Martin,Lea Monkhouse,Sarah Garrow,Desiree Sukhov,Hawaii,Cal State Bakersfield,1832,20180427
+3707,2,Megan Kruidhof,Rachel Nieto,Emily Sonny,Sam Manley,Cal Poly SLO,Long Beach State,1833,20180427
+3712,2,Iya Lindahl,Alexia Inman,Kacey Nady,Olivia Hallaran,Cal,Arizona,1834,20180427
+3717,2,Courtney Schwan,Destiny Julye,Morgan Hentz,Amelia Smith,Washington,Stanford,1835,20180427
+3722,2,Desiree Sukhov,Sarah Garrow,Kennedy Kurtz,Sarah Davis,Cal State Bakersfield,"Cal State University, Sacramento",1836,20180427
+3727,2,Sam Manley,Emily Sonny,Kristey Markle,Nickeisha Williams,Cal Poly SLO,Cal State Northridge,1837,20180427
+3732,2,Lily Justine,Sarah Sponcil ,Terese Cannon,Sammy Slater,UCLA,USC,1838,20180428
+3737,2,Alexia Inman,Iya Lindahl,Courtney Schwan,Destiny Julye,Cal,Washington,1839,20180428
+3742,2,Terese Cannon,Sammy Slater,Alexia Inman,Iya Lindahl,USC,Cal,1840,20180428
+3747,2,Lea Monkhouse,Morgan Martin,Rachel Nieto,Megan Kruidhof,Hawaii,Long Beach State,1841,20180428
+3752,2,Emily Sonny,Sam Manley,Sarah Garrow,Desiree Sukhov,Cal Poly SLO,Cal State Bakersfield,1842,20180428
+3757,2,Megan Kruidhof,Rachel Nieto,Sam Manley,Emily Sonny,Long Beach State,Cal Poly SLO,1843,20180428
+3762,2,Morgan Martin,Lea Monkhouse,Megan Kruidhof,Rachel Nieto,Hawaii,Long Beach State,1844,20180428
+3767,2,Lily Justine,Sarah Sponcil ,Terese Cannon,Sammy Slater,UCLA,USC,1845,20180428
+3779,2,Hailey Luke,Katie Horton,Terese Cannon,Sammy Slater,Florida State,USC,1860,20180504
+3782,2,Madalyn Roh,Brook Bauer,Haleigh Nelson,Mandi Orellana,Pepperdine,LSU,1861,20180504
+3789,2,Sammy Slater,Terese Cannon,Erika Zembyla,Lina Bernier,USC,FIU,1863,20180504
+3798,2,Haleigh Nelson,Mandi Orellana,Ali Denney,Shannon Williams,South Carolina,LSU,1865,20180504
+3802,2,Lea Monkhouse,Morgan Martin,Brook Bauer,Madalyn Roh,Pepperdine,Hawaii,1866,20180504
+3807,2,Sammy Slater,Terese Cannon,Brook Bauer,Madalyn Roh,Pepperdine,USC,1867,20180505
+3812,2,Sarah Sponcil ,Lily Justine,Haleigh Nelson,Mandi Orellana,UCLA,LSU,1868,20180505
+3815,2,Katie Horton,Hailey Luke,Lea Monkhouse,Morgan Martin,Florida State,Hawaii,1869,20180505
