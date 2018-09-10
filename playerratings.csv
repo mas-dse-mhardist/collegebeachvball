@@ -1,0 +1,1759 @@
+,Name,Year,Height,Hometown/HS,Team,mu,sigma
+0,Alyssa Slagerman,Fr,5'7,"Brentwood, Ca",UCLA,25.0,8.333333333333334
+1,Cami Sanchez,Fr,5'10,"Fountain Valley, Ca",UCLA,25.0,8.333333333333334
+2,Chanti Holroyd,So,5-9,"Mountain View, California",UCLA,28.108322399069042,7.77436345109384
+3,Elise Zappia,Sr,5'8,"Huntington Beach, California",UCLA,41.44439951102393,1.9640069338548831
+4,Hannah Phair,Fr,5'10,"Huntington Beach, Ca",UCLA,25.0,8.333333333333334
+5,Izzy Carey,Jr,5-11,"Westlake Village, California",UCLA,43.57641782553521,1.9640069338548831
+6,Jamie McQuarrie,Fr,6'0,"Encinitas, Ca",UCLA,28.10832239906904,7.77436345109384
+7,Lexi Jasper-Baylin,Sr,5'6,"El Cajon, Ca",UCLA,25.0,8.333333333333334
+8,Lily Justine,So,5-10,"Chico, California",UCLA,43.548657058579664,2.055608074416635
+9,Mac May,Fr,6'3,"Dubuque, IA",UCLA,41.44439951102393,1.9640069338548831
+10,Madi Yeomans,So,6-0,"Ocean Beach, California",UCLA,33.37761237286297,2.7897340710092795
+11,Megan McNamara,Jr,5-9,"Vancouver, BC, Canada",UCLA,42.08179028065577,1.8833034028729432
+12,Megan Muret,Fr,5'9,"Encinitas, Ca",UCLA,43.57641782553521,1.9640069338548831
+13,Nicole McNamara,Jr,5-9,"Vancouver, BC, Canada",UCLA,42.08179028065577,1.8833034028729432
+14,Remy Wilson,So,6'0,"Newport Beach, Ca",UCLA,25.0,8.333333333333334
+15,Sarah Sponcil,Sr,5'10,"Phoenix, Az",UCLA,43.548657058579664,2.055608074416635
+16,Savvy Simo,So,5'10,"Rancho Santa Fe, Ca",UCLA,43.73683992145705,1.858498583875018
+17,Zana Muno,Jr,5'10,"Hermosa Beach, Ca",UCLA,43.73683992145705,1.858498583875018
+18,Alaina Chacon,Fr,5'9,"Crown Point, Ind",Florida State,36.08789788548911,2.5898005062696576
+19,Ali Eager,Jr,5'11,"Southlake, Tx",Florida State,35.960176752465365,3.712160994206009
+20,Ashley Robert,Fr,5'5,"McKinney, Tx",Florida State,25.0,8.333333333333334
+21,Avery Poppinga,Fr,5'11,"Austin, Tx",Florida State,25.0,8.333333333333334
+22,Bailey Reardon,Fr,5'9,"Milton, Ga",Florida State,25.0,8.333333333333334
+23,Breana Edwards,R-Jr,6'3,"Jacksonville, Fl",Florida State,25.0,8.333333333333334
+24,Brooke Kuhlman,Jr,5'10,"Naples, Fl",Florida State,41.46511249452975,1.9640069338548831
+25,Devan Hultquist,R-So,5'6,"Tallahassee, Fl",Florida State,25.0,8.333333333333334
+26,Eva Torruella,R-So,6'0,"San Juan, Puerto Rico",Florida State,43.95178627784402,1.9932270183499219
+27,Francesca Goncalves,So,5'10,"Dallas, Tx",Florida State,45.04889587772426,1.9091145528466555
+28,Hailey Luke,R-Sr,6'0,"Altamonte Springs, Fl",Florida State,46.47726008054206,1.935993527955682
+29,Katie Horton,R-Sr,6'1,"Westland, Mich",Florida State,46.47726008054206,1.935993527955682
+30,Lauren Anderson,GS,6'0,"Peoria, Az",Florida State,25.0,8.333333333333334
+31,Macy Jerger,Jr,6'1,"Fort Myers, Fl",Florida State,43.771502473592065,1.858498583875018
+32,Madison Fitzpatrick,Fr,5'11,"Tallahassee, Fl",Florida State,45.04889587772426,1.9091145528466555
+33,Marielle Diaz,Fr,5'6,"Boca Raton, Fl",Florida State,25.0,8.333333333333334
+34,Molly McBain,So,5'9,"Toronto, Canada",Florida State,41.46511249452975,1.9640069338548831
+35,Nikki Esposito,Jr,5'10,"Deerfield Beach, Fl",Florida State,43.69214436011841,2.1604329520970493
+36,Sara Putt,Jr,5'11,"Jupiter, Fl",Florida State,43.771502473592065,1.858498583875018
+37,Vanessa Freire,Sr,5'10,"Windermere, Fl",Florida State,40.63830798551294,1.8833034028729432
+38,Victoria Paranagua,Sr,5'11,"Austin, Tx",Florida State,40.63830798551294,1.8833034028729432
+39,Abril Bustamante,Jr,6'0,"Redondo Beach, Ca",USC,41.35071140789218,1.8833034028729432
+40,Alexandra Poletto,GS,6'3,"Toronto, Canada",USC,44.207430664808825,1.9640069338548831
+41,Brianna Sizemore,Jr,6'1,"Carlsbad, Ca",USC,35.91616283433839,2.5898005062696576
+42,Cammie Dorn,So,6'1,"Laguna Beach, Ca",USC,42.746039472167574,1.8346432398114199
+43,Haley Hallgren,Fr,6'1,"Southlake, Tx",USC,44.207430664808825,1.9640069338548831
+44,Jenna Belton,Sr,6'1,"Aptos, Ca",USC,44.31781700496066,1.9091145528466555
+45,Jo Kremer,Sr,5'8,"Pacific Palisades, Ca",USC,36.60537158517337,2.2391216233559614
+46,Joy Dennis,So,6'1,"Cypress, Ca",USC,42.746039472167574,1.8346432398114199
+47,Katrina Kernochan,Jr,5'9,"Manhattan Beach, Ca",USC,36.18745354024804,2.652347064623227
+48,Lainy Thomas,So,5'10,"Frisch, Tx",USC,25.24368938708724,7.268023290842246
+49,Maja Kaiser,Fr,6'0,"Bulverde, Tx",USC,44.31781700496066,1.9091145528466555
+50,Peri Green,Fr,5'7,"Honolulu, Hi",USC,19.326821127430076,3.1257936082736575
+51,Sammy Slater,Fr,5'10,"Ventura, Ca",USC,44.99544430316082,1.935993527955682
+52,Terese Cannon,Sr,6'3,"Pittsford, N.Y.",USC,44.99544430316082,1.935993527955682
+53,Tina Graudina,Fr,6'0,"Jurmala, Latvia",USC,41.35071140789218,1.8833034028729432
+54,Allyssah Fitterer,GS,6'2,"Victoria, Canada",Hawaii,27.886137924231367,6.809496968450191
+55,Amy Ozee,So,6'1,"Haiku, Hi",Hawaii,42.21584939914739,1.9640069338548831
+56,Arden Misraje,Fr,6'2,"Santa Monica, Ca",Hawaii,25.0,8.333333333333334
+57,Ari Homayun,Jr,5'8,"Woodland Hills, Ca",Hawaii,42.21584939914739,1.9640069338548831
+58,Ashley Stevens,Fr,5'6,"Huntington Beach, Ca",Hawaii,25.0,8.333333333333334
+59,Cali Bunn,So,6'0,"Encinitas, Ca",Hawaii,25.0,8.333333333333334
+60,Carly Kan,Sr,5'9,"Honolulu, Hi",Hawaii,44.44924334383629,1.858498583875018
+61,Chloe Luyties,So,5'9,"San Diego, Ca",Hawaii,32.2729714274465,2.7897340710092795
+62,Emily Maglio,Jr,6'3,"Coquitlam, B.C., Can",Hawaii,39.943663663856356,1.8833034028729432
+63,Hannah Zalopany,Sr,5'9,"Spokane, Wa",Hawaii,44.336492455345024,1.9091145528466555
+64,Hi'ilawe  Huddleston,Jr,5'9,"Oceanside, Ca",Hawaii,38.404046433020774,5.0884728472465515
+65,Jenna Banz,Fr,5'8,"Cambridge, Canada",Hawaii,25.0,8.333333333333334
+66,Ka'iwi Schucht,Sr,5'9,"Escondido, Ca",Hawaii,39.943663663856356,1.8833034028729432
+67,Laurel Weaver,Sr,5'11,"Winnetka, Ca",Hawaii,44.44924334383629,1.858498583875018
+68,Lea Monkhouse,Fr,6'0,"Mississauga, Canada",Hawaii,45.74618120777846,1.935993527955682
+69,Morgan Martin,So,6'1,"Mission Viejo, Ca",Hawaii,45.74618120777846,1.935993527955682
+70,Paige Dreeuws,Fr,5'7,"San Marcos, Ca",Hawaii,44.33649245534503,1.9091145528466555
+71,Pani Napoleon,Fr,5'7,"Chula Vista, Ca",Hawaii,25.0,8.333333333333334
+72,Presley Forbes,Fr,5'4,"Manhattan Beach, Ca",Hawaii,25.0,8.333333333333334
+73,Regan Hurkett,So,6'2,"Sedona, Ca",Hawaii,25.0,8.333333333333334
+74,Sydney Kidd,So,5'8,"San Diego, Ca",Hawaii,25.0,8.333333333333334
+75,Addison Hermstad,Fr,5'11,"Seal Beach, Ca",Tulane,39.13136503452233,2.1988116511516824
+76,Anna Chin,Jr,5'7,"Irvine, Ca",Tulane,38.11608976231732,2.4228399529455746
+77,Ashley Delgado,Fr,5'7,"Novato, Ca",Tulane,39.13136503452233,2.1988116511516824
+78,Briana Correa,Jr,5'10,"Fort Myers, Fl",Tulane,41.646736111618246,4.02201809758425
+79,Carleigh Semeniuk,Fr,5'9,"Whitby, Canada",Tulane,25.0,8.333333333333334
+80,Christina  Mcafee,Sr,5'8,"Kennedale, Tx",Tulane,41.646736111618246,4.02201809758425
+81,Gabriella Becerra,Fr,5'8,"Southlake, Tx",Tulane,35.281399163551036,2.3261366938282633
+82,Kaylie Mchugh,So,5'6,"Davie, Fl",Tulane,36.74005015175133,2.1988116511516824
+83,Kendyl Brennan,Fr,5'7,"Laguna Beach, Ca",Tulane,13.816129527221747,2.865363454668774
+84,Lan Nguyen,Sr,5'9,"Manhattan Beach, Ca",Tulane,38.04745092909335,2.1988116511516824
+85,Lauren Orlich,Fr,6'0,"Scottsdale, Az",Tulane,38.11608976231732,2.4228399529455746
+86,Madeline Mertz,Sr,6'0,"Peoria, Az",Tulane,36.74005015175133,2.1988116511516824
+87,Morgan Esters,Fr,6'0,"Calabasas, Ca",Tulane,38.284666263315515,4.833821803303274
+88,Rio Frohoff,Fr,5'9,"Redondo Beach, Ca",Tulane,35.281399163551036,2.3261366938282633
+89,Tarin Mergener,So,5'9,"Midlothian, Tx",Tulane,38.04745092909335,2.1988116511516824
+90,Amelia Smith,Fr,5'7,"San Jose, Ca",Stanford,41.39292708264424,2.1604329520970493
+91,Blake Sharp,Fr,5'11,"Orinda, Ca",Stanford,43.37271236310508,2.1604329520970493
+92,Caitlin Keefe,So,5'11,"Pacific Palisades, Ca",Stanford,29.548501409527233,3.0328362337631063
+93,Catherine Raquel,Sr,5'10,"Los Angeles, Ca",Stanford,29.548501409527233,3.0328362337631063
+94,Chelsea Red-Horse Mohl,So,5'10,"Huntington Beach, Ca",Stanford,25.0,8.333333333333334
+95,Courtney Bowen,Jr,6'4,"Brooklyn, N.Y.",Stanford,41.6797605252906,2.1238521062633904
+96,Jennifer Disanto,Jr,5'5,"Portola Valley, Ca",Stanford,25.0,8.333333333333334
+97,Kat Anderson,So,5'9,"Everett, Wa",Stanford,36.5084866597224,2.2391216233559614
+98,Kate Formico,Fr,5'9,"Saratoga, Ca",Stanford,29.548501409527233,3.0328362337631063
+99,Kathryn Plummer,So,6'6,"Aliso Viejo, Ca",Stanford,30.47762309224048,3.0328362337631063
+100,Morgan Hentz,So,5'9,"Lakeside Park, Ky",Stanford,41.39292708264424,2.1604329520970493
+101,Payton Chang,Jr,5'10,"Newport Beach, Ca",Stanford,29.548501409527233,3.0328362337631063
+102,Shannon Richardson,So,5'8,"Los Gatos, Ca",Stanford,43.372712363105066,2.1604329520970493
+103,Sunny Villapando,Fr,5'9,"Manhattan Beach, Ca",Stanford,41.6797605252906,2.1238521062633904
+104,Alexis  Patterson,Jr,6'0,"Glendale, Az",Long Beach State,43.434060911436,2.2815094948893346
+105,Anete Brinke,Sr,6'2,"Riga, Latvia",Long Beach State,32.87468480377979,1.935993527955682
+106,Ashley Anselmo,R-Fr,6'2,"Manhattan Beach, Ca",Long Beach State,25.0,8.333333333333334
+107,Ashley Murray,Sr,6'2,"Torrance, Ca",Long Beach State,25.0,8.333333333333334
+108,Brooke Earkman,So,5'7,"Santa Monica, Ca",Long Beach State,25.0,8.333333333333334
+109,Claire Newlander,Fr,6'0,"Arroyo Grande, Ca",Long Beach State,49.227041149681426,1.9091145528466555
+110,Emma Kirst,Jr,6'4,"Las Vegas, Nv",Long Beach State,36.055455915254086,6.394304831481489
+111,Fayth Rascon-Ryn,Fr,5'8,"Redondo Beach, Ca",Long Beach State,25.0,8.333333333333334
+112,Gigi Alex,Jr,5'5,"Long Beach, Ca",Long Beach State,25.0,8.333333333333334
+113,Gina Lipscomb,Fr,6'0,"Yorba Linda, Ca",Long Beach State,25.0,8.333333333333334
+114,Hailey Harward,So,5'9,"Phoenix, Az",Long Beach State,32.87468480377979,1.935993527955682
+115,Hannah Matt,Sr,5'10,"Bettendorf, Iowa",Long Beach State,29.04046540184941,2.1238521062633904
+116,Kjersti Norveel,So,6'2,"Tonsberg, Norway",Long Beach State,25.0,8.333333333333334
+117,Kristyna Adamcikova,Fr,6'0,"Opava, Czech Republic",Long Beach State,44.01590155496976,2.1604329520970493
+118,Marisa Ramsey,Fr,5'7,"Laguna Niguel, Ca",Long Beach State,29.04046540184941,2.1238521062633904
+119,Mary Jo McBride,So,5'9,"Paradise Valley, Az",Long Beach State,25.0,8.333333333333334
+120,Megan Kruidhof,Jr,6'0,"Lakewood, Ca",Long Beach State,39.86156409612403,1.9091145528466555
+121,Mina Andjelkovic,Fr,6'1,"Belgrade, Serbia",Long Beach State,25.0,8.333333333333334
+122,Monika Simkova,Fr,6'1,"Malacky, Slovakia",Long Beach State,25.0,8.333333333333334
+123,Nele Barber,Sr,6'0,"Berlin, Germany",Long Beach State,41.41827304265798,1.8833034028729432
+124,Nicci Reinking,Fr,5'10,"Fountain Valley, Ca",Long Beach State,49.59212241123236,1.8833034028729432
+125,Rachel Nieto,Sr,5'10,"Walnut Creek, Ca",Long Beach State,39.86156409612403,1.9091145528466555
+126,Radi Marinova,Fr,6'1,"Sofia, Bulgaria",Long Beach State,25.0,8.333333333333334
+127,Ravena Bailey,Fr,5'6,"Escondido, Ca",Long Beach State,25.0,8.333333333333334
+128,Sasha Karelov,Sr,5'9,"Raleigh,N.C",Long Beach State,41.41827304265798,1.8833034028729432
+129,Tegan Curren,Fr,5'10,"Paso Robles, Ca",Long Beach State,25.0,8.333333333333334
+130,YiZhi Xue,So,6'4,"Nanjing, China",Long Beach State,25.0,8.333333333333334
+131,Zoi Konstantopoulou,Jr,6'0,"Limassol, Cyprus",Long Beach State,49.59212241123236,1.8833034028729432
+132,Abby Waldburger,So,5'10,"La Jolla, Ca",Cal,29.884845435461166,2.088947496830355
+133,Alexia Inman,Fr,6'1,"Manhattan Beach, Ca",Cal,41.89154268995687,2.055608074416635
+134,Bridget Gustafson,So,,"Naperville, Ill",Cal,25.0,8.333333333333334
+135,Bryce Bark,Sr,6'0,"Palos Verdes Estates, Ca",Cal,31.300113961837276,2.718867490932981
+136,Camille  Stepanof,So,5'4,"San Diego, Ca",Cal,25.0,8.333333333333334
+137,Caroline Schafer,Fr,6'0,"Orinda, Ca",Cal,31.300113961837276,2.718867490932981
+138,Cassidy Drury-Pullen,Fr,5'7,"Santa Barbara, Ca",Cal,25.0,8.333333333333334
+139,Grace Campbell,Jr,6'0,"Manhattan Beach, Ca",Cal,43.42449014134431,2.023732267234736
+140,Iya Lindahl,So,5'8,"San Diego, Ca",Cal,41.89154268995687,2.055608074416635
+141,Jacqueline Ribeiro,Fr,5'11,"Austin, Tx",Cal,25.0,8.333333333333334
+142,Jayda Howard,So,6'0,"La Jolla, Ca",Cal,25.0,8.333333333333334
+143,Jessica Gaffney,Sr,6'1,"Temecula, Ca",Cal,43.38579566465136,1.9932270183499219
+144,Karina Langli,Jr,5'10,"Encinitas, Ca",Cal,25.0,8.333333333333334
+145,Mackenzie Feldman,Sr,5'6,"Honolulu, Hi",Cal,25.0,8.333333333333334
+146,Maddie Micheletti,Fr,5'9,"Manhattan Beach, Ca",Cal,43.42449014134431,2.023732267234736
+147,Madison Dueck,So,5'9,"Santa Cruz, Ca",Cal,31.300113961837276,2.718867490932981
+148,Mia Merino,Jr,5'7,"Tustin, Ca",Cal,31.300113961837276,2.718867490932981
+149,Mima Mirkovic,Fr,5'11,"Irvine, Ca",Cal,43.38579566465136,1.9932270183499219
+150,Olivia Rodberg,Jr,5'9,"Manhattan Beach, Ca",Cal,25.0,8.333333333333334
+151,Teya Neff,Sr,6'0,"Novato, Ca",Cal,25.0,8.333333333333334
+152,Adore Anae,Sr,6'1,"Laei, Hi",Utah,37.175201417237545,2.1238521062633904
+153,Alexa Van Komen,Fr,5'8,"El Dorado Hills, Ca",Utah,40.23382843162281,2.088947496830355
+154,Bailey Choy,So,5'9,"Honolulu, Hi",Utah,36.2214935859719,2.1238521062633904
+155,Berkeley Oblad,Jr,6'4,"Henderson, Nv",Utah,36.86002918162257,2.1238521062633904
+156,Brianna Doehrmann,So,5'7,"Murrieta, Ca",Utah,37.54027103834768,2.1604329520970493
+157,Camryn  Machado,Fr,5'9,"Cardiff by the Sea, Ca",Utah,25.0,8.333333333333334
+158,Carly Trueman,Sr,6'1,"Tucson, Az",Utah,25.0,8.333333333333334
+159,Dani Barton,So,6'0,"Sandy, Ut",Utah,37.175201417237545,2.1238521062633904
+160,Eliza Katoa,Sr,5'10,"Layton, Ut",Utah,25.0,8.333333333333334
+161,Emily Twohig,Jr,5'9,"Boise, Id",Utah,25.0,8.333333333333334
+162,Kenzie Koerber,Fr,6'3,"Chino Hills, Ca",Utah,39.85246120485915,2.1238521062633904
+163,Laura Gauta,Fr,5'11,"Garden Grove, Ca",Utah,36.86002918162257,2.1238521062633904
+164,Lauren Sproule,So,6'0,"Lethbridge, Ca",Utah,37.54027103834768,2.1604329520970493
+165,Megan Boudreaux,Jr,6'2,"South Jordan, Ut",Utah,25.0,8.333333333333334
+166,Melissa Powell,,,,Utah,39.85246120485915,2.1238521062633904
+167,Phoebe  Grace,Fr,6'2,"Laie, Hawai'i",Utah,40.2258874954817,2.3261366938282633
+168,Shannon  Scully,Fr,6'2,"Huntington Beach, Ca",Utah,25.0,8.333333333333334
+169,Tawnee Luafalemana,Sr,6'0,"Carson, Ca",Utah,36.2214935859719,2.1238521062633904
+170,Torre Glasker,So,5'10,"South Jordan, Ut",Utah,25.0,8.333333333333334
+171,Ashley Allmer,Jr,5'10,"Sarasota, Fl",LSU,33.74006537758031,5.0884728472465515
+172,Cheyenne Wood,Sr,5'7,"Angier, N.C.",LSU,25.0,8.333333333333334
+173,Claire Coppola,So,6'1,"Scottsdale, Az",LSU,41.387145958999184,1.8833034028729432
+174,Emily Hardesty,GS,6'3,"Plano, Tx",LSU,35.716656396499694,4.833821803303274
+175,Emmy Allen,GS,6'1,"Mill Creek, Wa",LSU,50.633314551736625,1.8116847297910976
+176,Gina Tillis,Sr,5'10,"Rockwall, Tx",LSU,12.664670123568266,3.3334788684335366
+177,Haleigh Nelson,GS,6'4,"Cary, N.C.",LSU,42.732291988541974,2.055608074416635
+178,Hunter Domanski,Fr,5'10,"New Braunfels, Tx",LSU,43.059099051212826,1.858498583875018
+179,Jeni Clark,Jr,5'7,"Carlsbad, Ca",LSU,25.0,8.333333333333334
+180,Kahlee York,Fr,5'11,"Bradenton, Fl",LSU,33.61540394819497,6.809496968450191
+181,Kristen Nuss,So,5'6,"New Orleans, La",LSU,41.387145958999184,1.8833034028729432
+182,Lilly Kessler,Jr,5'10,"Augusta, Ga",LSU,20.576812796611126,2.3261366938282633
+183,Maddie Ligon,Jr,5'8,"Bedford, Tx",LSU,43.533857714935415,1.9640069338548831
+184,Mandi Orellana,Sr,5'7,"Guatemala City, Guatemala",LSU,42.732291988541974,2.055608074416635
+185,Megan Davenport,Jr,5'11,"Metairie, La",LSU,50.633314551736625,1.8116847297910976
+186,Nicole Decker,Fr,5'10,"Coral Springs, Fl",LSU,28.10832239906904,7.77436345109384
+187,Olivia Powers,So,6'1,"Merrit Island, Fl",LSU,43.059099051212826,1.858498583875018
+188,Riley Young,Sr,6'1,"La Jolla, Ca",LSU,43.533857714935415,1.9640069338548831
+189,Savannah Wininger,Fr,5'9,"Baton Rouge, La",LSU,25.0,8.333333333333334
+190,Tatum Ballard,Fr,5'8,"Mandeville, La",LSU,36.078027112635034,2.530894595439967
+191,Taylor Bradley,So,5'9,"Round Rock, Tx",LSU,43.044404471069846,2.9462227105393546
+192,AJ Baumann,Jr,5'7,"Roswell, Ga",South Carolina,25.0,8.333333333333334
+193,Ali Denney,So,5'6,"Jupiter,Fl",South Carolina,44.546973740819375,1.9640069338548831
+194,Aubrey Ezell,R-So,5'8,"Granbury, Tx",South Carolina,24.55391404282774,6.394304831481489
+195,Avery Davis,Fr,5'8,"New Burn, N.C.",South Carolina,37.729878745973856,2.652347064623227
+196,Cadie Bates,GS,6'2,"Temecula, Ca",South Carolina,41.44048455109168,1.935993527955682
+197,Carly Schneider,So,5'10,"Cincinnati, Oh",South Carolina,33.61464322690471,1.8833034028729432
+198,Caroline Skaff,So,5'11,"Haymarket, Va",South Carolina,42.38703937450314,1.9932270183499219
+199,Delaney Wood,Jr,6'0,"Westlake, Tx",South Carolina,25.0,8.333333333333334
+200,Franky Harrison,So,5'10,"Knoxville, Tn",South Carolina,29.919211907625503,2.055608074416635
+201,Hannah Sorensen,GS,6'0,"Wilmington, N.C.",South Carolina,21.891677600930958,7.77436345109384
+202,Hannah Edelman,So,5'5,"Hilton Head Island, S.C.",South Carolina,35.18070152808097,4.391011166604197
+203,Jess Vastine,Fr,6'1,"Wittman, Az",South Carolina,42.38703937450314,1.9932270183499219
+204,Julia Mannisto,Sr,5'11,"Westlake Village, Ca",South Carolina,33.61464322690471,1.8833034028729432
+205,Katie Smith,So,5'9,"West Chester, Oh",South Carolina,41.44048455109168,1.935993527955682
+206,Kennedy Copeland,Fr,5'10,"Newbury Park, Ca",South Carolina,25.0,8.333333333333334
+207,Leah Perri,GS,6'0,"Richland, Mi",South Carolina,49.94789629776683,1.858498583875018
+208,Louise Kooiman,Fr,5'9,"Fullerton, Ca",South Carolina,25.0,8.333333333333334
+209,Lydia Dimke,GS,6'3,"Ham Lake, Mn",South Carolina,29.919211907625503,2.055608074416635
+210,Macie Tendrich,Sr,5'3,"Boynton Beach, Fl",South Carolina,49.94789629776683,1.858498583875018
+211,Quinn Fulton,Fr,5'8,"Calabasas, Ca",South Carolina,25.0,8.333333333333334
+212,Sarah Nacouzi,So,5'10,"Raleigh, N.C.",South Carolina,25.0,8.333333333333334
+213,Shannon Williams,Jr,5'10,"Ashburn, Va",South Carolina,44.546973740819375,1.9640069338548831
+214,Brooke Burling,So,5'10,"Naperville, Ill",Arizona,37.726583573124955,2.1238521062633904
+215,Candice Denny,Fr,6'2,"Saratoga, Ca",Arizona,33.61540394819499,6.809496968450191
+216,Caroline Cordes,R-Fr,5'11,"Naperville, Ill",Arizona,38.43416663422054,2.1604329520970493
+217,Chelsey Harris,Sr,6'0,"Houston, Tx",Arizona,35.832294608756385,2.2391216233559614
+218,Hailey Devlin,Sr,6'2,"San Diego, Ca",Arizona,40.71901559636153,2.1238521062633904
+219,Jaclyn Inclan,Fr,5'10,"Tucson, Az",Arizona,25.0,8.333333333333334
+220,Jonny Baham,Fr,5'6,"Carlsbad, Ca",Arizona,37.726583573124955,2.1238521062633904
+221,Jordan Abalos,R-Jr,5'10,"Safford, Az",Arizona,25.0,8.333333333333334
+222,Kacey Nady,R-Sr,6'2,"San Diego, Ca",Arizona,37.08804797747428,2.1238521062633904
+223,Makenna Martin,R-Fr,5'9,"Gilbert, Az",Arizona,38.43416663422054,2.1604329520970493
+224,Mia Mason,Jr,5'11,"Manhattan Beach, Ca",Arizona,34.226760642516076,2.475330544877422
+225,Natalie Anselmo,So,5'6,"Los Angeles, Ca",Arizona,38.04175580873993,2.1238521062633904
+226,Olivia Hallaran,So,5'9,"Mesa, Az",Arizona,37.08804797747429,2.1238521062633904
+227,Olivia Macdonald,Sr,6'0,"Piopio, New Zeland",Arizona,38.04175580873993,2.1238521062633904
+228,Sara Watanabe,R-So,5'9,"Honolulu, Hi",Arizona,40.69367877601787,2.1988116511516824
+229,Stephany Purdue,Sr,5'11,"Mesa, Az",Arizona,40.71901559636153,2.1238521062633904
+230,Bailey Anderson,Fr,,"Las Vegas, Nv",ASU,46.363581393969476,1.9932270183499219
+231,Cassidy Schilling,Fr,,"Moorpark, Ca",ASU,25.0,8.333333333333334
+232,Cierra Flood,Fr,,"Phoenix, Az",ASU,38.22910889803234,2.088947496830355
+233,Ellyson Lundberg,So,5'11,"Larkspur, Ca",ASU,38.92956123065921,2.1238521062633904
+234,Frances Giedraitis,Sr,5'9,"Tucson, Az",ASU,36.638668949854654,2.088947496830355
+235,Halle Parker,Fr,,"Bakersfield, Ca",ASU,45.471598218560636,2.4228399529455746
+236,Jourdan Parnell,Jr,5'8,"San Diego, Ca",ASU,21.44577362835351,2.475330544877422
+237,Kara  Woodard,So,5'11,"Phoenix, Az",ASU,37.457086660758755,2.023732267234736
+238,Kate  Baldwin,Fr,,"Lakewood, Ca",ASU,37.94274037703319,2.1238521062633904
+239,Katelyn Carballo,So,5'9,"Laguna Beach, Ca",ASU,38.92956123065921,2.1238521062633904
+240,Katie Cross,Jr,5'11,"Flagstaff, Az",ASU,38.22910889803234,2.088947496830355
+241,Kwyn Johnson,R-Sr,6'3,"Kalispell, Mont",ASU,36.69848118524743,2.088947496830355
+242,Mia Rivera,Sr,5'8,"Gilbert, Az",ASU,36.69848118524743,2.088947496830355
+243,Natalie Braun,Jr,5'7,"Phoenix, Az",ASU,36.638668949854654,2.088947496830355
+244,Samantha Plaster,Fr,,"Flower Mound, Tx",ASU,37.94274037703319,2.1238521062633904
+245,Sierra Ellett,Fr,,"Scottsdale, Az",ASU,30.662398481978926,4.602136767117366
+246,Sydney Palmer,Sr,5'7,"Yorba Linda, Ca",ASU,38.297835959343864,2.023732267234736
+247,Anna Unnasch,So,5'9,"San Diego, Ca",Grand Canyon,33.52394249890253,5.0884728472465515
+248,Bella Baumann,Fr,5'11,"Wheaton, Il",Grand Canyon,37.053150970088105,2.1238521062633904
+249,Emily Reinking,Sr,5'7,"Huntington Beach, Ca",Grand Canyon,18.775416108412312,2.5898005062696576
+250,Hannah Towne,So,5'11,"Rochester, Ind",Grand Canyon,39.39514285857301,2.1238521062633904
+251,Jamie  Walsh,Jr,6'0,"Shell Beach, Ca",Grand Canyon,41.72509207292914,2.1988116511516824
+252,Jessica Clark,So,5'7,"Monroe, Wa",Grand Canyon,41.72509207292914,2.1988116511516824
+253,Jessica Stansfield,So,5'6,"Wall, N.J.",Grand Canyon,37.0531509700881,2.1238521062633904
+254,Jordyn Sanchez,R-Sr,5'9,"Huntington Beach, Ca",Grand Canyon,25.0,8.333333333333334
+255,Katie Sarber,Fr,5'9,"Dade City, Fl",Grand Canyon,40.87729919733663,2.1238521062633904
+256,Katie Pyles,GS,5'9,"Littleton, Co",Grand Canyon,48.29298856672864,1.858498583875018
+257,Kelli Iverson,Sr,5'11,"San Marcos, Ca",Grand Canyon,34.755172499615256,2.5898005062696576
+258,Kiersten Varga,Fr,5'9,"Bradenton, Fl",Grand Canyon,25.0,8.333333333333334
+259,Madi Relaz,Fr,5'10,"Redondo Beach, Ca",Grand Canyon,48.29298856672864,1.858498583875018
+260,Maggie Demore,Jr,5'7,"Phoenix, Az",Grand Canyon,25.0,8.333333333333334
+261,Micaela Mirabal,So,5'9,"Austin, Tx",Grand Canyon,25.0,8.333333333333334
+262,Michaela Reese,So,6'0,"Lancaster, Ca",Grand Canyon,25.0,8.333333333333334
+263,Molly Turner,Sr,5'8,"Naperville, Ill",Grand Canyon,39.39514285857301,2.1238521062633904
+264,Natalie Honzovicova,Fr,5'10,"Prague, Czech Republic",Grand Canyon,40.87729919733663,2.1238521062633904
+265,Olivia Unnasch,So,5'9,"San Diego, Ca",Grand Canyon,25.0,8.333333333333334
+266,Renee Mussler,Fr,5'8,"Clearwater, Fl",Grand Canyon,25.0,8.333333333333334
+267,Taylor Jarzombek,Fr,5'4,"Austin, Tx",Grand Canyon,40.39871195535621,2.2391216233559614
+268,Teagan DeFalco,Fr,,"Long Beach, Ca",Grand Canyon,25.0,8.333333333333334
+269,Alex Hojnar,Sr,5'9,"Western Springs, Ill",Oregon,25.0,8.333333333333334
+270,August Raskie,Jr,6'0,"Colorado Springs, Co",Oregon,40.78586492941774,2.1238521062633904
+271,Brooke Van Sickle,So,5'9,"Battle Ground, Wa",Oregon,25.0,8.333333333333334
+272,Jolie Rasmussen,So,6'2,"Encinitas, Ca",Oregon,25.0,8.333333333333334
+273,Josie Cole,Fr,5'10,"Lafayette, Ca",Oregon,40.47002710844432,2.1604329520970493
+274,Kyra Hanawahine,Fr,5'2,"Honolulu, Hi",Oregon,43.34370798477799,2.1604329520970493
+275,Lauren  Page,Jr,6'0,"Riverside, Ca",Oregon,27.845005808777632,3.0328362337631063
+276,Lindsey Vander Weide,Jr,6'3,"Turlock, Ca",Oregon,40.78586492941774,2.1238521062633904
+277,Maggie Scott,Sr,5'10,"Wildwood, Mo",Oregon,27.845005808777632,3.0328362337631063
+278,Marine Hall-Poirier,Sr,5'11,"Portola Valley, Ca",Oregon,43.34370798477799,2.1604329520970493
+279,Ronika Stone,So,6'2,"San Jose, Ca",Oregon,27.845005808777632,3.0328362337631063
+280,Sumeet Gill,Jr,6'3,"Elk Grove, Ca",Oregon,25.0,8.333333333333334
+281,Taylor Agost,Sr,6'2,"Happy Valley, Ore",Oregon,40.47002710844432,2.1604329520970493
+282,Willow Johnson,So,6'2,"Paradise Valley, Az",Oregon,27.845005808777632,3.0328362337631063
+283,Anna Crabtree,Sr,5'9,"Bellevue, Wa",Washington,47.94441078623809,1.8346432398114199
+284,Avie Niece,So,6'0,"Bellevue, Wa",Washington,25.0,8.333333333333334
+285,Cailin Onosko,R-Fr,5'6,"San Diego, Ca",Washington,25.0,8.333333333333334
+286,Carly Dehoog,Sr,6'4,"Ontario, Ca",Washington,35.68407125367834,2.088947496830355
+287,Chloe Newton,Fr,,,Washington,28.108322399069042,7.77436345109384
+288,Courtney Schwan,Sr,6'1,"Auburn, Wash",Washington,41.40716572661447,2.088947496830355
+289,Crissy Jones,Sr,6'2,"Los Alamitos, Ca",Washington,25.0,8.333333333333334
+290,Destiny Julye,Jr,5'11,"Tehachapi, Ca",Washington,41.40716572661446,2.088947496830355
+291,Emma Calle,Fr,5'11,"Villa Park, Ca",Washington,33.82427684949004,2.865363454668774
+292,Jordan Anderson,Sr,6-0,"Flower Mound, Texas",Washington,41.63231307793835,2.088947496830355
+293,Kara Bajema,R-Fr,6'2,"Lynden, Wa",Washington,47.94441078623809,1.8346432398114199
+294,Kimmy Gardiner,Sr,6'1,"Grapevine, Tx",Washington,41.63231307793835,2.088947496830355
+295,Lauren Sanders,Fr,6'4,"Snohomish, Wa",Washington,25.0,8.333333333333334
+296,Maria Bogomolova,R-Fr,6'1,"St Petersburg, Russia",Washington,25.0,8.333333333333334
+297,Natalie Anderson,Fr,5'11,"Mercer Island, Wa",Washington,28.330506873906693,6.809496968450191
+298,Natalie Robinson,Fr,5'11,"Mercer Island, Wa",Washington,29.094982413085305,1.9091145528466555
+299,Samantha  Drechsel,Fr,"6'4""","Bothell, WA/ Maryland",Washington,29.094982413085305,1.9091145528466555
+300,Shayne Mcpherson,So,5'6,"Seattle, Wash",Washington,35.68407125367834,2.088947496830355
+301,Tia Scambray,Sr,6'0,"Dana Point, Ca",Washington,25.0,8.333333333333334
+302,Alex O'Sullivan,Jr,5'10,"Albany, Ca",Saint Mary's,28.10832239906904,7.77436345109384
+303,Alexsa Parker,So,5'8,"Santa Clara, Utah",Saint Mary's,25.0,8.333333333333334
+304,Aubrey Pitts,So,6'2,"Reno, Nv",Saint Mary's,25.0,8.333333333333334
+305,Emily Bible,Jr,5'9,"Santa Clarita, Ca",Saint Mary's,39.37610061054429,2.2815094948893346
+306,Jennifer Laird,Fr,5'11,"San Luis Obispo, Ca",Saint Mary's,40.249798079100216,2.4228399529455746
+307,Kelsey Knudsen,Fr,,"Santa Clarita, Ca",Saint Mary's,36.551631757765186,2.3261366938282633
+308,Lindsey Calvin,Jr,6'2,"Visalia, Ca",Saint Mary's,36.551631757765186,2.3261366938282633
+309,Lindsey Knudsen,Jr,6'0,"Santa Clarita, Ca",Saint Mary's,39.37610061054429,2.2815094948893346
+310,Madi Wilkerson,Sr,5'5,"Midlothian, Tx",Saint Mary's,39.27641871959661,2.373181267217594
+311,Madison Baumann,Fr,6'0,"San Carlos, Ca",Saint Mary's,28.108322399069042,7.77436345109384
+312,Mary Hernandez,Sr,5'7,"Long Beach, Ca",Saint Mary's,40.86858341250485,2.373181267217594
+313,Morgan Kendrick,,,,Saint Mary's,40.249798079100216,2.4228399529455746
+314,Morgan Hughes,Jr,5'10,"Willows, Ca",Saint Mary's,38.643955200681695,2.3261366938282633
+315,Payton Rund,Jr,6'1,"Albany, Ore",Saint Mary's,38.643955200681695,2.3261366938282633
+316,Sarah Chase,R-So,6'0,"Campbell River, B.C.",Saint Mary's,40.86858341250485,2.373181267217594
+317,Sienna Young,So,5'11,"Elk Grove, Ca",Saint Mary's,39.27641871959661,2.373181267217594
+318,Allison Kantor,So,6'0,"Mission Viejo, Ca",Santa Clara,22.450349614613188,5.368757712330199
+319,Anna McCreadie,R-So,6'3,"North Bend, Wa",Santa Clara,38.59495294538478,2.1604329520970493
+320,Brittany Gillingham,Fr,5'5,"San Jose, Ca",Santa Clara,21.067269977877377,3.712160994206009
+321,Chloe Loreen,Fr,6'0,"Seattle, Wa",Santa Clara,25.0,8.333333333333334
+322,Erin Reineking,Sr,5'8,"Salinas, Ca",Santa Clara,35.382128592039166,2.1604329520970493
+323,Forfeit 2,,,,Santa Clara,25.946025053348606,3.1257936082736575
+324,Forfeit  1,,,,Santa Clara,25.946025053348606,3.1257936082736575
+325,Gretchen Reinert,Fr,5'6,"Dove Canyon, Ca",Santa Clara,38.59495294538478,2.1604329520970493
+326,Hailey Lindberg,Jr,6'1,"Danville, Ca",Santa Clara,38.80704871454195,2.1604329520970493
+327,Kathryn Decker,Fr,6'3,"Portland, Or",Santa Clara,25.0,8.333333333333334
+328,Kristen Mead,Sr,5'11,"Palo Alto, Ca",Santa Clara,38.80704871454195,2.1604329520970493
+329,Laura Willems,So,6'0,"Parker, Colo",Santa Clara,25.0,8.333333333333334
+330,Michelle Gajdka,So,5'8,"San Francisco, Ca",Santa Clara,35.382128592039166,2.1604329520970493
+331,Ngozi Nwabuzoh,So,5'10,"Stockton, Ca",Santa Clara,33.03382131236932,2.530894595439967
+332,Tatiana San Juan,Sr,5'7,"Emerald Hills, Ca",Santa Clara,25.81786543345903,3.2257585268563194
+333,Taylor  Odom,R-So,6'2,"Bellevue, Wa",Santa Clara,38.40536847234142,2.1604329520970493
+334,Tessie Powers,So,5'10,"Aptos, Ca",Santa Clara,38.40536847234142,2.1604329520970493
+335,Alexis Filippone,Fr,6'2,"Del Mar, Ca",Pepperdine,43.45669376019119,1.9640069338548831
+336,Anika Wilson,Jr,5'9,"Santa Barbara, Ca",Pepperdine,25.0,8.333333333333334
+337,Brook Bauer,Fr,6'1,"Fort Lauderdale, Fl",Pepperdine,45.72652317592441,1.935993527955682
+338,Corinne Quiggle,Sr,5'10,"Ponte Vedra Beach, Fl",Pepperdine,40.656067086235595,1.8833034028729432
+339,Deahna Kraft,So,6'0,"Seattle, Wa",Pepperdine,40.656067086235595,1.8833034028729432
+340,Gigi Hernandez,So,5'10,"Dana Point, Ca",Pepperdine,43.407676831703384,1.8346432398114199
+341,Heidi Dyer,Jr,6'2,"San Clemente, Ca",Pepperdine,43.407676831703384,1.8346432398114199
+342,Jordan Ferrari,So,6'1,"Mission Viejo, Ca",Pepperdine,14.677742989988406,3.860489524026792
+343,Kaity Bailey,Jr,6'2,"Ojai, Ca",Pepperdine,21.891677600930958,7.77436345109384
+344,Katie Gavin,Fr,5'8,"Laguna Beach, Ca",Pepperdine,23.87961147569029,5.0884728472465515
+345,Madalyn Roh,Jr,5'11,"Scottsdale, Az",Pepperdine,45.72652317592441,1.935993527955682
+346,Maddie Dilfer,Sr,5'11,"Saratoga, Ca",Pepperdine,43.60541358258143,1.9091145528466555
+347,Nikki Lyons,Jr,6'2,"Fort Lauderdale, Fl",Pepperdine,43.60541358258143,1.9091145528466555
+348,Shannon Murphy,Fr,6'1,"Friendswood, Tx",Pepperdine,25.0,8.333333333333334
+349,Skylar Caputo,Jr,5'10,"Manhattan Beach, Ca",Pepperdine,43.45669376019119,1.9640069338548831
+350,Aeryn Owens,Jr,6'0,"Alta Loma, Ca",Cal State Northridge,42.094241913930205,1.8833034028729432
+351,Autumn  Russell,Sr,5'11,"Paso Robles, Ca",Cal State Northridge,32.10323491565634,1.935993527955682
+352,Cassidy Rosso,So,6'0,"La Crescenta, Ca",Cal State Northridge,35.95817720190453,2.373181267217594
+353,Daniella Molinari,So,6'2,"Pompano Beach, Fl",Cal State Northridge,48.14864011608953,1.8833034028729432
+354,Erin Indermill,Jr,5'6,"Santa Clarita, Ca",Cal State Northridge,48.14864011608953,1.8833034028729432
+355,Katie Sato,Sr,5'6,"Calabasas, Ca",Cal State Northridge,42.094241913930205,1.8833034028729432
+356,Kristey Markle,Jr,5'9,"Trabuco Canyon, Ca",Cal State Northridge,38.735950029932404,1.935993527955682
+357,Lauren McMurray,Fr,5'10,"Phoenix, Az",Cal State Northridge,32.10323491565634,1.935993527955682
+358,Lauren Conati,Sr,6'1,"Scottsdale, Az",Cal State Northridge,28.090224223279005,2.1238521062633904
+359,Nickeisha Williams,Sr,5'10,"Harbor City, Ca",Cal State Northridge,38.735950029932404,1.935993527955682
+360,Nicolette  Pinkney,Sr,5'11,"Roseville, Ca",Cal State Northridge,28.090224223279005,2.1238521062633904
+361,Shawnee De Oliveira,Fr,5'7,"Trabuco Canyon, Ca",Cal State Northridge,47.530697489064174,3.3334788684335366
+362,Tori Hiott,Jr,5'9,"Thousand Oaks, Ca",Cal State Northridge,25.0,8.333333333333334
+363,Allie Havers,Sr,6'5,"Mattawan, Mi",Nebraska,25.390315519914378,3.575667513246407
+364,Anezka Szabo,Fr,6'3,"Sioux Falls, S.D.",Nebraska,28.330506873906693,6.809496968450191
+365,Annika Albrecht,Sr,6'0,"North Aurora, Ill",Nebraska,32.2663770900943,3.2257585268563194
+366,Chesney McClellan,Fr,6'4,"Maryville, Tn",Nebraska,34.417704891190404,3.3334788684335366
+367,Hayley Densberger,Fr,5'9,"Malcolm, Ne",Nebraska,34.4177048911904,3.3334788684335366
+368,Jasmine Schmidt,Fr,6'1,"Parker, Co",Nebraska,25.390315519914378,3.575667513246407
+369,Jazz Sweat,Fr,6'3,"Tecumseh, Kan",Nebraska,37.39641893430116,3.2257585268563194
+370,Kashauna Williams,Fr,6'1,"Lancaster, Ca",Nebraska,25.0,8.333333333333334
+371,Kelly Hunter,Sr,5'11,"Papillion, Neb",Nebraska,29.49276349546591,3.1257936082736575
+372,Kenzie Maloney,Jr,5'8,"Louisville, Ky",Nebraska,32.2663770900943,3.2257585268563194
+373,Lauren Stivrins,So,6'4,"Scottsdale, Az",Nebraska,29.49276349546591,3.1257936082736575
+374,Mikaela  Foecke,Jr,6'3,"West Point, Ia",Nebraska,25.0,8.333333333333334
+375,Sami Slaughter,Fr,6'1,"Harrisburg, S.D.",Nebraska,37.39641893430116,3.2257585268563194
+376,Alexis  Morrow,R-Fr,5'10,"Redwood City, Ca",LMU,25.0,8.333333333333334
+377,Bozena Culo,So,6'2,"Bjelovar, Croatia",LMU,35.98627942706608,2.2815094948893346
+378,Chloe Reinig,GS,6'4,"Howell, Mi",LMU,43.75085277719733,2.5898005062696576
+379,Cierra Simpson,GS,6'0,"Colorado Springs, Co",LMU,38.68876379481694,2.3261366938282633
+380,Emma Johnson,So,6'0,"Moraga, Ca",LMU,25.0,8.333333333333334
+381,Emma Doud,So,5'9,"Alameda, Ca",LMU,40.31814664484007,2.3261366938282633
+382,Jessie Prichard,So,5'9,"Corona, Ca",LMU,38.866480193781044,2.2391216233559614
+383,Kekai Whitford,Jr,5'8,"Costa Mesa, Ca",LMU,33.43777839979798,2.652347064623227
+384,Kristen Castellanos,Sr,5'1,"Los Angeles, Ca",LMU,38.68876379481694,2.3261366938282633
+385,Maddie  Leiphardt,GS,5'9,"Goleta, Ca",LMU,35.98627942706608,2.2815094948893346
+386,McKayla Ferris,GS,6'0,"Geneseo, N.Y.",LMU,39.665326540463944,2.3261366938282633
+387,Megan  Rice,So,6'0,"Hermosa Beach, Ca",LMU,25.0,8.333333333333334
+388,Meredith Teague,Fr,6'2,"Monroe, Wa",LMU,25.0,8.333333333333334
+389,Morgan Bogust,Fr,5'9,"Thousand Oaks, Ca",LMU,25.0,8.333333333333334
+390,Paige Panter,So,5'10,"Dallas, Tx",LMU,41.45274810843836,3.860489524026792
+391,Sara Kovac,Jr,6'0,"Niagra Falls, Ontario, Can",LMU,38.866480193781044,2.2391216233559614
+392,Savannah  Slattery,So,5'11,"Malibu, Ca",LMU,39.665326540463944,2.3261366938282633
+393,Sierra  Bartley,Fr,6'2,"Littleton, Co",LMU,25.0,8.333333333333334
+394,Veronica Nederend,Jr,5'11,"Tipton, Ca",LMU,40.31814664484007,2.3261366938282633
+395,Brindl Langley,R-Sr,5'7,"Camas,Wa",Boise State,36.5492372368345,2.3261366938282633
+396,Cassedi Simon,So,5'4,"West Liberty, Iowa",Boise State,30.10813879062122,4.198283208444447
+397,Cat Clemens,Fr,6'0,"Burns, Or",Boise State,25.0,8.333333333333334
+398,Celine Christensen,So,6'3,"Salem, Utah",Boise State,25.0,8.333333333333334
+399,Drew Hanneman,Fr,5'5,"Flagstaff, Az",Boise State,30.10813879062122,4.198283208444447
+400,Janell Walley,So,5'11,"Yucaipa, Ca",Boise State,40.22021282595412,2.2815094948893346
+401,Jaymee-Lee Bulda,Sr,5'5,"Sacramento, Ca",Boise State,42.046021630160894,2.2815094948893346
+402,Jensen Allen,So,5'10,"Brea, Ca",Boise State,42.046021630160894,2.2815094948893346
+403,Kenna Hanses,So,6'0,"Renton, Wa",Boise State,35.29551123837456,2.2391216233559614
+404,Keri Leake,Fr,6'1,"Clovis, Ca",Boise State,25.0,8.333333333333334
+405,Kiley Lewis,Fr,6'2,"Auburn, Wa",Boise State,36.5492372368345,2.3261366938282633
+406,Kylee Johnson,Fr,5'6,"New Braunfels, Tx",Boise State,34.86562864090217,2.2815094948893346
+407,Lizzie Wilson,Fr,6'0,"San Diego, Ca",Boise State,25.0,8.333333333333334
+408,Maddi Osburn,Sr,5'7,"Nampa, Id",Boise State,25.0,8.333333333333334
+409,Maddie Simon,So,5'4,"West Liberty, Ia",Boise State,25.0,8.333333333333334
+410,Maya Watkins,Fr,5'9,"Snohomish, Wa",Boise State,34.86562864090217,2.2815094948893346
+411,Morginne DeMarco,R-So,5'7,"Bakersfield, Ca",Boise State,25.0,8.333333333333334
+412,Sabryn Roberts,Jr,5'9,"Torrance, Ca",Boise State,40.220212825954114,2.2815094948893346
+413,Sierra Nobley,Sr,6'1,"Scottsdale, Az",Boise State,25.0,8.333333333333334
+414,Skye Southwick,Jr,5'7,"Cambridge, Id",Boise State,35.29551123837456,2.2391216233559614
+415,Tiaja McKnight,Jr,6'2,"Los Angeles, Ca",Boise State,25.0,8.333333333333334
+416,Cali Thompson,R-So,6'0,"Las Vegas, Nv",Portland,38.761738668312724,2.2391216233559614
+417,Carey Williams,Fr,5'7,"Kahuku, Hi",Portland,38.88312412734354,2.1988116511516824
+418,Emily DeMots,Fr,6'2,"Portland, Or",Portland,25.0,8.333333333333334
+419,Emma  Scanlan,So,5'7,"Moraga, Ca",Portland,25.0,8.333333333333334
+420,Hannah  Troutman,Sr,5'10,"Powell Butte, Ore",Portland,25.0,8.333333333333334
+421,Izzy Guzik,R-Fr,6'0,"San Diego, Ca",Portland,25.0,8.333333333333334
+422,Kassidy Naone,Fr,5'11,"Kailua, Hi",Portland,35.85988424704128,2.1988116511516824
+423,Katie Barker,R-So,6'1,"Los Altos, Ca",Portland,37.165292937855654,2.1988116511516824
+424,Kellie Hughes,Fr,5'6,"Livermore, Ca",Portland,33.580991805793765,4.833821803303274
+425,Lauren Naatz,Jr,5'3,"Salt Lake City, Ut",Portland,35.85988424704128,2.1988116511516824
+426,Liz Reich,Fr,6'1,"Colorado Springs, Co",Portland,35.487115319940145,2.2391216233559614
+427,McKenzie Schwan,Fr,5'8,"Auburn, Wa",Portland,35.487115319940145,2.2391216233559614
+428,Morgan Robinson,Sr,5'11,"Sunnyvale, Ca",Portland,37.165292937855654,2.1988116511516824
+429,Reghan Pukis,Jr,6'1,"Tacoma, Wa",Portland,25.0,8.333333333333334
+430,Sarah Savoca,Sr,6'1,"Santa Cruz, Ca",Portland,38.88312412734354,2.1988116511516824
+431,Tani Stephens,GS,5'8,"Albany, Ore",Portland,38.761738668312724,2.2391216233559614
+432,Adlee Van Winden,Jr,6'1,"Napa, Ca",Cal Poly SLO,38.75678788491199,2.373181267217594
+433,Brayden Gruenewald,So,5'9,"Southlake, Tx",Cal Poly SLO,27.398759150056897,6.809496968450191
+434,Dora Beilin,Jr,5'11,"Berkeley, Ca",Cal Poly SLO,27.398759150056897,6.809496968450191
+435,Emily Sonny,So,5'11,"Arroyo Grande, Ca",Cal Poly SLO,39.47780738418871,1.8833034028729432
+436,Hannah Hubbard,Sr,5'8,"San Diego, Ca",Cal Poly SLO,43.29999758125368,2.088947496830355
+437,Heather Pembroke,So,5'9,"Chico, Ca",Cal Poly SLO,43.29999758125368,2.088947496830355
+438,Jamie Stivers,Fr,6'2,"Coppell, Tx",Cal Poly SLO,27.398759150056897,6.809496968450191
+439,Jessica  Manley,So,6'0,"Escondido, Ca",Cal Poly SLO,37.17422381160667,2.475330544877422
+440,Kassandra Wright,Jr,5'9,"Temecula, Ca",Cal Poly SLO,27.398759150056897,6.809496968450191
+441,Macy Gordon,Fr,5'8,"Paradise Valley, Az",Cal Poly SLO,29.33784155144904,2.865363454668774
+442,Olivia Lee,Fr,6'1,"Tiburon, Ca",Cal Poly SLO,30.972955411050837,7.268023290842246
+443,Peyton Sper,Fr,5'10,"Camarillo, Ca",Cal Poly SLO,25.0,8.333333333333334
+444,Raeann Greisen,Sr,6'2,"San Diego, Ca",Cal Poly SLO,29.33784155144904,2.865363454668774
+445,Sam Manley,Jr,5'10,"San Diego, Ca",Cal Poly SLO,39.47780738418871,1.8833034028729432
+446,Sjea Anderson,Fr,5'9,"Scotts Valley, Ca",Cal Poly SLO,30.972955411050837,7.268023290842246
+447,Skyler Spooner,Fr,5'6,"Flower Mound, Tx",Cal Poly SLO,25.0,8.333333333333334
+448,Taylor Nelson,Sr,6'0,"Granite Bay, Ca",Cal Poly SLO,38.75678788491199,2.373181267217594
+449,Teiana Cataldo,Fr,5'10,"Honolulu, Hi",Cal Poly SLO,25.0,8.333333333333334
+450,Tessa Tooman,Jr,5'10,"La Jolla, Ca",Cal Poly SLO,25.0,8.333333333333334
+451,Tia Miric,Fr,5'8,"Ontario, Canada",Cal Poly SLO,41.61122282831931,2.055608074416635
+452,Torrey Van Winden,So,6'3,"Napa, California",Cal Poly SLO,41.61122282831931,2.055608074416635
+453,Anabela Sataric,GS,6'2,"Biberist, Switzerland",FIU,43.7545990221797,1.858498583875018
+454,Ashley Klassen,Fr,5'7,"Tsawwasse, Canada",FIU,25.0,8.333333333333334
+455,Brooke Bailey,So,5'9,"Tampa, Fl",FIU,25.0,8.333333333333334
+456,Dorina Klinger,Jr,6'1,"Feldkirchen, Austria",FIU,40.69366260640629,1.9640069338548831
+457,Erika Zembyla,R-Jr,6'0,"Nicosia, Cyprus",FIU,42.31125925238584,2.023732267234736
+458,Erin Byrne,Fr,5'11,"San Diego, Ca",FIU,28.108322399069042,7.77436345109384
+459,Estefanie  Bethancourt,Sr,6'0,"Guatemala City, Guatemala",FIU,32.0005618193024,2.652347064623227
+460,Federica Frasca,So,5'9,"Rome, Italy",FIU,41.02206469744825,1.9091145528466555
+461,Helene Thelle,So,5'10,"Tolvsrød, Norway",FIU,26.126317415068755,3.575667513246407
+462,Katie Friesen,Jr,5'9,"Manitoba, Canada",FIU,43.7545990221797,1.858498583875018
+463,Lina Bernier,R-So,5'10,"San Juan, Puerto Rico",FIU,42.31125925238584,2.023732267234736
+464,Mackenzie  Walker,So,5'9,"Sarasota, Fl",FIU,28.10832239906904,7.77436345109384
+465,Madison Besterfield,Fr,6'3,"Tampa, Fl",FIU,36.013233476883535,2.475330544877422
+466,Margherita Bianchin,Jr,6'0,"Traviso, Italy",FIU,41.02206469744825,1.9091145528466555
+467,Mariana Dal Pozzo,Sr,5'7,"Toledo, Brazil",FIU,40.66145898755941,2.023732267234736
+468,Mariana De Paula Silva,Sr,5'11,"Sao Jose dos Campos, Brazil",FIU,33.61540394819498,6.809496968450191
+469,Natalia Giron,Sr,6'2,"Guatemala City, Guatemala",FIU,32.0005618193024,2.652347064623227
+470,Samantha Lemmon,Fr,5'6,"Boca Raton, Fl",FIU,25.0,8.333333333333334
+471,Taija Thomas,Sr,6'0,"Scarborough, Ontario, Can",FIU,40.69366260640629,1.9640069338548831
+472,Amanda Silva,Jr,5'10,"MaceiA, Brazil",FAU,40.659205647041205,1.9932270183499219
+473,Ashlan  Cunningham,Jr,5'6,"Colleyville, Tx",FAU,31.473598071530205,2.718867490932981
+474,Bailey Myott,Fr,5'5,"Boynton Beach, Fl",FAU,25.0,8.333333333333334
+475,Brittany Pellitteri,Sr,5'7,"Deerfield Beach, Fl",FAU,41.95639924852717,2.023732267234736
+476,Candace Lacour,So,5'8,"Buckeye, Az",FAU,25.0,8.333333333333334
+477,Carly Scarborough,GS,6'1,"Sarasota, Fl",FAU,40.659205647041205,1.9932270183499219
+478,Erica Brok,Fr,5'9,"Ormond Beach, Fl",FAU,41.10119424466477,1.9932270183499219
+479,Gabrielle Dischler,Sr,5'9,"Naples, Fl",FAU,44.53426217775203,2.023732267234736
+480,Jazmine Barker,Jr,5'10,"Palm Harbor, Fl",FAU,25.0,8.333333333333334
+481,Jessalyn Kinlaw,Sr,5'6,"Bradenton, Fl",FAU,44.53426217775203,2.023732267234736
+482,Johannah Cummines,Fr,5'6,"New Port Richey, Fl",FAU,25.0,8.333333333333334
+483,Julia Lewkowicz,Jr,5'11,"Coral Springs, Fl",FAU,41.95639924852717,2.023732267234736
+484,Kaila Dorish,Fr,5'11,"Royal Palm Beach, Fl",FAU,39.84509391752172,2.023732267234736
+485,Lauren Galinis,So,5'8,"Delray Beach, Fl",FAU,25.0,8.333333333333334
+486,Mackenzie Morris,Fr,5'10,"Jacksonville, Fl",FAU,41.10119424466477,1.9932270183499219
+487,Mazarine Tsuji,Fr,5'8,"Hallandale, Fl",FAU,25.0,8.333333333333334
+488,Megan McGrath,So,5'10,"Boca Raton, Fl",FAU,16.393080250555727,2.9462227105393546
+489,Nicole Navarro,Jr,5'7,"Boca Raton, Fl",FAU,39.84509391752172,2.023732267234736
+490,Nicole Grant,Jr,6'0,"Bradenton, Fl",FAU,31.473598071530205,2.718867490932981
+491,Sam Gott,So,5'9,"Loxahatchee, Fl",FAU,34.85564839663003,4.602136767117366
+492,Alex Holt,R-Jr,6'0,"Sacramento, Ca",Pacific,41.33951798462232,2.3261366938282633
+493,Andie Shelton,Sr,5'9,"Stockton, Ca",Pacific,39.2676671146636,2.1238521062633904
+494,Ashlyn Fleming,So,6'4,"San Jose, Ca",Pacific,37.667392455034694,2.3261366938282633
+495,Emily Baptista,So,6'2,"Hilmar, Ca",Pacific,34.99980509467002,2.2815094948893346
+496,Hanne De Schrijver,Fr,5'10,"Serskamp, Belgium",Pacific,37.912772362515426,2.2391216233559614
+497,Kaitlyn Lines,Fr,6'0,"Gilbert, Az",Pacific,34.2446696116405,2.652347064623227
+498,Katrin Gotterba,Sr,5'6,"Stockton, Ca",Pacific,41.33951798462232,2.3261366938282633
+499,Maycie LaBass,Sr,6'0,"Modesto, Ca",Pacific,34.99980509467002,2.2815094948893346
+500,Olivia Petnicki,So,5'4,"Vacaville, Ca",Pacific,29.441184060228597,5.0884728472465515
+501,Roni Long,Jr,5'10,"Porterville, Ca",Pacific,37.912772362515426,2.2391216233559614
+502,Skylar Wine,So,6'2,"Phoenix, Az",Pacific,39.2676671146636,2.1238521062633904
+503,Taylor Poncetta,Sr,5'11,"San Jose, Ca",Pacific,37.667392455034694,2.3261366938282633
+504,Avery Arellano,So,5'10,"Lucas, Tx",TCU,20.011460465912023,2.2815094948893346
+505,Brooke Sassin,Sr,6'0,"San Antonio, Tx",TCU,37.04546744193535,2.2391216233559614
+506,Cassie House,Sr,6'2,"Rio Rancho, NM",TCU,39.05108881339334,2.088947496830355
+507,Claire Doyle,So,5'10,"Atlanta, Ga",TCU,27.305176762899677,2.718867490932981
+508,Hannah Rogers,Fr,5'8,"Santa Ynez, Ca",TCU,35.01678686320736,2.3261366938282633
+509,Haven Hill,So,5'8,"Ventura, Ca",TCU,39.05108881339334,2.088947496830355
+510,Jaelyn Greene,Jr,5'9,"Mission Viejo, Ca",TCU,38.50998341787294,4.02201809758425
+511,Jensyn Bledsoe,So,5'7,"Pinehurst, Tx",TCU,45.81483470333519,2.1988116511516824
+512,Jillian Bergeson,Sr,6'2,"Friendswood, Tx",TCU,38.50998341787294,4.02201809758425
+513,Jordan Terral,Jr,5'6,"Encinitas, Ca",TCU,45.27129660121813,2.3261366938282633
+514,Jordan Westendorf,Fr,5'9,"Dallas, Tx",TCU,37.04546744193535,2.2391216233559614
+515,Kristy Wieser,Sr,6'2,"Lincoln, Ne",TCU,20.011460465912023,2.2815094948893346
+516,Madison Borowski,Jr,5'9,"Austin, Tx",TCU,25.0,8.333333333333334
+517,Molly Scheel,Jr,5'9,"Phoenix, Az",TCU,45.81483470333519,2.1988116511516824
+518,Olivia Canales,Jr,6'1,"Lexington, Ky",TCU,25.0,8.333333333333334
+519,Abbey Wilson,Fr,5'11,"Albuquerque, N.M.",New Mexico,36.06369609662824,2.2815094948893346
+520,Carly Beddingfield,Jr,6'3,"Albuquerque, NM",New Mexico,39.825645896603966,2.055608074416635
+521,Chloe Crappell,Sr,5'7,"Albuquerque, NM",New Mexico,38.717823798427126,2.3261366938282633
+522,Eastyn Baleto,Sr,5'8,"Seattle, Wa",New Mexico,39.55102703971428,2.373181267217594
+523,Emily Nenninger,So,5'5,"Albuquerque, N.M.",New Mexico,40.25963352454008,2.088947496830355
+524,Erin Martin,Fr,5'7,"Denver, Co",New Mexico,37.90340762861491,2.2815094948893346
+525,Hailey Rubino,Fr,5'11,"Leesburg, Va",New Mexico,25.0,8.333333333333334
+526,Kayla Long,Fr,5'3,"Tucson, Az",New Mexico,36.06369609662824,2.2815094948893346
+527,Lauren Twitty,GS,6'1,"Broadlands, Va",New Mexico,39.55102703971428,2.373181267217594
+528,Maddie Irwin,Sr,5'11,"Tucson, Az",New Mexico,37.90340762861491,2.2815094948893346
+529,Mercedes Pacheco,,5'2,,New Mexico,39.825645896603966,2.055608074416635
+530,Morgan Schreckler,Fr,6'1,"Phoenix, Az",New Mexico,25.0,8.333333333333334
+531,Yasmin Tan,Fr,5'11,"Melbourne, Australia",New Mexico,38.717823798427126,2.3261366938282633
+532,Blossom Sato,Sr,5'9,"Santa Monica, Ca",Mississippi State,25.0,8.333333333333334
+533,Emily Hill,Jr,6'6,"Denton, Tx",Mississippi State,25.0,8.333333333333334
+534,Katie Nicholson,Sr,6'2,"Aledo, Tx",Mississippi State,25.0,8.333333333333334
+535,Khris Carr,Sr,5'11,"Starkville, Miss",Mississippi State,25.0,8.333333333333334
+536,Liv Benner,Jr,6'6,"Danville, Ind",Mississippi State,25.0,8.333333333333334
+537,Sara Maddox,So,6'2,"Leawood, Kan",Mississippi State,25.0,8.333333333333334
+538,Aeriel Horton,Jr,5'7,"Waxahachie, Tx",Houston Baptist,41.41837429506206,3.3334788684335366
+539,Bailey Banks,Sr,5'10,"Missouri City, Tx",Houston Baptist,22.42069738618992,2.2815094948893346
+540,Brennan Miller,Fr,5'6,"Claremont, Ca",Houston Baptist,35.13781374125676,2.023732267234736
+541,Danielle Wheeler,So,6'0,"San Diego, Ca",Houston Baptist,20.915253578764343,2.055608074416635
+542,Jessica Wooten,GS,5'11,"Humble, Tx",Houston Baptist,41.41837429506206,3.3334788684335366
+543,Jordyn Miller,Fr,5'8,"Phoenix, Az",Houston Baptist,35.90093681279785,3.449798020573539
+544,Kali Fluke,Sr,6'1,"San Antonio, Tx",Houston Baptist,35.13781374125676,2.023732267234736
+545,Katya Silveira,Fr,5'9,"Houston, Tx",Houston Baptist,22.42069738618992,2.2815094948893346
+546,Kayla Armer,GS,6'0,"Bradenton, Fl",Houston Baptist,40.959723884720944,1.8833034028729432
+547,Madison O'Brien,Jr,5'9,"Cleveland, Tx",Houston Baptist,25.0,8.333333333333334
+548,Meagan Carter,Fr,5'8,"Bakersfield, Ca",Houston Baptist,35.90093681279785,3.449798020573539
+549,Mikayla Vivens,Fr,"5'9""","San Antonio, Texas/ Warren",Houston Baptist,20.915253578764343,2.055608074416635
+550,Tori Hinojosa,So,5'8,"San Antonio, Tx",Houston Baptist,40.959723884720944,1.8833034028729432
+551,Alexa Richardson,So,5'7,"Austin, Tx",Stetson,47.4874199031212,3.3334788684335366
+552,Brynn Carrick,Fr,5'8,"Hampstead, N.C.",Stetson,25.0,8.333333333333334
+553,Carly Perales,So,5'9,"Round Rock, Tx",Stetson,27.600911117831657,3.449798020573539
+554,Caroline Pomet,Jr,5'4,"Lutz, Fl",Stetson,25.0,8.333333333333334
+555,Darby Dunn,So,6'0,"South Surrey, B.C.",Stetson,41.86025330682957,2.055608074416635
+556,Grace Christiansen,So,5'7,"Lantana, Tx",Stetson,25.0,8.333333333333334
+557,Julie Varga,So,6'0,"Fredrikstad, Norway",Stetson,23.558308310548426,2.1988116511516824
+558,Katinka Krahn,So,5'11,"Oslo, Norway",Stetson,47.4874199031212,3.3334788684335366
+559,Lauren Durham,Jr,5'5,"Apex, NC",Stetson,23.558308310548426,2.1988116511516824
+560,Lexi  Ham,So,5'6,"Scottsdale, Az",Stetson,46.046443695863864,2.373181267217594
+561,Quinci Birker,Fr,5'10,"Kelowna, B.C.",Stetson,37.40861179874751,2.023732267234736
+562,Rachel Noble,Jr,5'10,"Carlsbad, Ca",Stetson,48.267898737883726,2.088947496830355
+563,Rebecca Ingram,Fr,6'0,"Riverslea, Australia",Stetson,37.40861179874751,2.023732267234736
+564,Samantha Harris,Jr,5'7,"Arlington, Va",Stetson,48.26789873788372,2.088947496830355
+565,Sammee Thomas,Jr,5'7,"Huntington Beach, Ca",Stetson,41.86025330682957,2.055608074416635
+566,Sunniva Helland-Hansen,So,5'8,"Oyeste, Norway",Stetson,27.600911117831657,3.449798020573539
+567,Anna Dalla Vecchia,Fr,,,USF,34.222018869290665,2.373181267217594
+568,Camille Araujo,So,5'7,"Long Beach, Ca",USF,42.51556716435637,2.5898005062696576
+569,Carly Lowry,So,5'11,"Tucson, Az",USF,34.26910692521028,2.530894595439967
+570,Emily Zinger,Fr,,"Little Elm, Tx",USF,25.0,8.333333333333334
+571,Erica Ronda,Fr,,"Chandler, Az",USF,42.51556716435637,2.5898005062696576
+572,Erin Anthony,Fr,,"Sugar Land, Tx",USF,25.0,8.333333333333334
+573,Haley Howell,GS,5'10,"Tucson, Az",USF,34.26910692521028,2.530894595439967
+574,Julia Topor,GS,,,USF,34.222018869290665,2.373181267217594
+575,Kate Ashman,So,6'3,"Cyrpress, Ca",USF,25.0,8.333333333333334
+576,Laura Leap,Jr,,"Thousand Oaks, Ca",USF,26.057991747687375,5.677620099312075
+577,Madelyn LaFollette,Fr,,"Alameda, Ca",USF,25.0,8.333333333333334
+578,Marjolijn  Oskam,Sr,6'4,"Bussum, Netherlands",USF,25.0,8.333333333333334
+579,Nora Buvarp Lavik,Sr,6'3,"Tonsberg, Norway",USF,30.513008678937076,2.475330544877422
+580,Pi'ikea Clemens,Fr,,"Kailua, Hi",USF,40.27716775343311,2.2391216233559614
+581,Sabrina Blackwell,GS,,"San Jose, Ca",USF,30.513008678937076,2.475330544877422
+582,Shannon Levinson,So,5'3,"Los Angeles, Ca",USF,40.27716775343311,2.2391216233559614
+583,Trish Koutsoukos,So,5'7,"Sydney, Aus",USF,19.027044588949156,7.268023290842246
+584,Breann Robinson,Sr,6'0,"Jamestown, Ca",San Jose State University,38.521436621069874,2.475330544877422
+585,Ciara Reistad,Sr,5'7,"La Quinta, Ca",San Jose State University,36.625053514271286,2.4228399529455746
+586,Fernanda Vido,R-So,5'10,"Belo Horizonte, Brazil",San Jose State University,27.886137924231367,6.809496968450191
+587,Giulia Gavio,Jr,6'0,"Rio de Janeiro, Brazil",San Jose State University,25.0,8.333333333333334
+588,Hayley Sturgeon,Jr,6'2,"Mountain View, Ca",San Jose State University,33.068357729088724,2.7897340710092795
+589,Jamie Hirai,Sr,5'7,"Honolulu, Hi",San Jose State University,34.79744139617095,2.475330544877422
+590,Julia Golbeck,Jr,6'0,"Sugar Grove, Ill",San Jose State University,36.625053514271286,2.4228399529455746
+591,Kaitlynn Zdroik,So,5'9,"Brentwood, Ca",San Jose State University,31.107876120930236,2.652347064623227
+592,Laura  Parts,So,6'2,"Parnu, Estonia",San Jose State University,34.79744139617095,2.475330544877422
+593,Luiza Andrade,Jr,5'5,"Rio de Janeiro, Brazil",San Jose State University,38.521436621069874,2.475330544877422
+594,Lyndi Scholl,GS,5'10 ,"Kaneville, Ill",San Jose State University,37.3991840386492,2.4228399529455746
+595,Nandyala Gama,Sr,6'3,"Rio de Janeiro, Brazil",San Jose State University,37.3991840386492,2.4228399529455746
+596,Ryann Thomison,Fr,6'0,"Sacramento, Ca",San Jose State University,36.92927192816165,2.475330544877422
+597,Summer Avery,Sr,5'11,"Tucscon, Az",San Jose State University,36.92927192816165,2.475330544877422
+598,Thaliana Grajeda,So,6'0,"Clovis, Ca",San Jose State University,23.634616925374786,6.018292133482491
+599,Aleksandra Djordjevic,Sr,6'0,"Belgrade, Serbia",Cal State Bakersfield,37.69819838801485,2.373181267217594
+600,Ally  Barber,R-So,6'0,"Maltby, Wa",Cal State Bakersfield,42.45924828266857,2.088947496830355
+601,Ashley Prater,So,5'7,"Glendale, Az",Cal State Bakersfield,25.0,8.333333333333334
+602,Bailey Smith,Fr,6'2,"Phoenix, Az",Cal State Bakersfield,19.549641825747887,2.3261366938282633
+603,Briannah Mariner,Jr,5'10,"Salt Lake City, Ut",Cal State Bakersfield,37.69819838801485,2.373181267217594
+604,Brooke Boiseau,Fr,6'1,"Scottsdale, Az",Cal State Bakersfield,29.233224380927,4.602136767117366
+605,Desiree Sukhov,Fr,6'0,"Murrieta Valley, Ca",Cal State Bakersfield,38.783163062532125,1.8833034028729432
+606,Emily Hansen,Fr,5'10,"Bakersfield, Ca",Cal State Bakersfield,40.79485775828162,2.055608074416635
+607,Emily Lopes,Sr,5'7,"Bakersfield, Ca",Cal State Bakersfield,27.86666722455624,2.865363454668774
+608,Fabina Andrade,Sr,5'7,"Sao Paulo, Brazil",Cal State Bakersfield,25.0,8.333333333333334
+609,Hannah Manzanares,Jr,5'7,"Phoenix, Az",Cal State Bakersfield,28.788606032716423,3.3334788684335366
+610,Haylee Roberts,R-Sr,6'2,"Bakersfield, Ca",Cal State Bakersfield,25.0,8.333333333333334
+611,Kayla Tinker,So,5'9,"San Clemente, Ca",Cal State Bakersfield,38.116312377169464,1.935993527955682
+612,Krista Hernandez,Fr,5'5,"Culver City, Ca",Cal State Bakersfield,31.175351981135844,6.394304831481489
+613,Madi Busler,So,5'11,"Aurora, Co",Cal State Bakersfield,25.0,8.333333333333334
+614,Marina Sanches,R-Jr,6'3,"Sao Paulo, Brazil",Cal State Bakersfield,25.0,8.333333333333334
+615,Mattison Degarmo,Jr,6'3,"Castle Rock, Co",Cal State Bakersfield,27.86666722455624,2.865363454668774
+616,Sarah Garrow,So,5'10,"Vancouver, Wa",Cal State Bakersfield,38.783163062532125,1.8833034028729432
+617,Sydney Haynes,GS,6'2,"Vancouver, Wa",Cal State Bakersfield,40.79485775828162,2.055608074416635
+618,Sydney Wicks,R-Jr,5'8,"Aurora, Co",Cal State Bakersfield,42.45924828266857,2.088947496830355
+619,Tasha Skabelund,Fr,6'0,"Stevenson Ranch, Ca",Cal State Bakersfield,25.0,8.333333333333334
+620,Allison Beckman,Jr,,"Apex, NC",College of Charleston,36.302770503333285,2.3261366938282633
+621,Brittany Velez,Sr,,"Mt Pleasant, S.C.",College of Charleston,29.838811117116023,6.394304831481489
+622,Devon Rachel,Jr,,"Louisville, Ky",College of Charleston,37.12455095489342,2.1988116511516824
+623,Ella Ridinger,Fr,,"Glen Ellyn, Ill",College of Charleston,25.0,8.333333333333334
+624,Jane Feddersen,Sr,,"Leesburg, Va",College of Charleston,25.0,8.333333333333334
+625,Katja Ehlers,So,,"Raleigh, NC",College of Charleston,35.817150177551405,2.1988116511516824
+626,Kennedy Madison,Jr,,"Evansville, Ind",College of Charleston,37.017749167646535,2.4228399529455746
+627,Krissy Mummey,Sr,,"Hudson, Oh",College of Charleston,35.817150177551405,2.1988116511516824
+628,Lauren Hollman,Sr,5'10,"Union, Ky",College of Charleston,25.0,8.333333333333334
+629,Lauren Freed,So,,"Troy, Oh",College of Charleston,36.302770503333285,2.3261366938282633
+630,Logan Manusky,Fr,,"San Diego, Ca",College of Charleston,38.208465060322396,2.1988116511516824
+631,Mandy Napierala,So,,"Irondequoit, N.Y.",College of Charleston,25.0,8.333333333333334
+632,Mckala Rhodes,Jr,,"Charleston, SC",College of Charleston,37.12455095489342,2.1988116511516824
+633,Megan Morris,Jr,,"Mt Pleasant, S.C.",College of Charleston,25.0,8.333333333333334
+634,Meghan Murphy,So,,"Orange, Ca",College of Charleston,25.0,8.333333333333334
+635,Natalie Tucker,Sr,,"Isle of Palms, S.C.",College of Charleston,25.0,8.333333333333334
+636,Peyton Eisnaugle,So,,"Dallas, Tx",College of Charleston,25.0,8.333333333333334
+637,Riana  Brennan,Sr,,"Los Gatos, Ca",College of Charleston,37.017749167646535,2.4228399529455746
+638,Taylor Foley,Jr,,"Agoura Hills, Ca",College of Charleston,38.208465060322396,2.1988116511516824
+639,Anna Grauel,Jr,6'0,"Montclair, Va",UNC Wilmington,30.972955411050837,7.268023290842246
+640,Brynn Montgomery,Fr,6'0,"Fort Collins, Co",UNC Wilmington,42.37396439735827,2.055608074416635
+641,Cassie Thompson,Fr,5'7,"Brown Summit, N.C.",UNC Wilmington,25.0,8.333333333333334
+642,Courtney Mullinax,Jr,5'5,"Wilmington, N.C.",UNC Wilmington,41.11373883646001,2.088947496830355
+643,Elena Turnbull,Fr,5'10,"Salisbury, N.C.",UNC Wilmington,25.0,8.333333333333334
+644,Halle Hunt,Jr,5'11,"Greensboro, NC",UNC Wilmington,40.6705541186888,2.023732267234736
+645,Jaime Thomas,Fr,6'0,"Hamilton, Ontario (Canada)",UNC Wilmington,38.563443113370035,2.055608074416635
+646,Jazzell Mangosing,Fr,5'2,"Virginia Beach, Va",UNC Wilmington,25.0,8.333333333333334
+647,JM Lewandowski,Fr,6'0,"Hendersonville,Tn",UNC Wilmington,42.37396439735827,2.055608074416635
+648,Kati Smith,So,5'9,"Raleigh, N.C.",UNC Wilmington,30.972955411050837,7.268023290842246
+649,Katie McCullough,Jr,5'10,"Raleigh, NC",UNC Wilmington,40.6705541186888,2.023732267234736
+650,Kyla Augustine,Fr,6'0,"St Charles, Ill",UNC Wilmington,27.178355894855606,2.718867490932981
+651,Maddy Kline,Jr,6'1,"Palmyra, Va",UNC Wilmington,38.49392062660728,2.023732267234736
+652,Nicole Lott,GS,5'11,"West Chester, Pa",UNC Wilmington,38.49392062660728,2.023732267234736
+653,Raquel Rooney,So,5'7,"Raleigh, NC",UNC Wilmington,38.563443113370035,2.055608074416635
+654,Reagan Evans,Fr,5'7,"Largo, Fl",UNC Wilmington,21.173106504908404,2.7897340710092795
+655,Sarah Kelly,Sr,6'0,"Raleigh, NC",UNC Wilmington,41.11373883646001,2.088947496830355
+656,Allie Elson,Sr,5'6,"Woodstock, Ga",Georgia State,41.92048099256963,2.088947496830355
+657,Amie  Held,GS,5'9,"Festus, Mo",Georgia State,39.809175661564176,2.088947496830355
+658,Annika Van Gunst,GS,6'0,"Fayetteville, Ga",Georgia State,39.86590863182378,1.9932270183499219
+659,Ashley McGinn,Jr,5'9,"Sewell, NJ",Georgia State,41.92048099256963,2.088947496830355
+660,Ashley Bauchert,Fr,5'9,"Allen, Tx",Georgia State,36.38900517430643,2.652347064623227
+661,Brooke Weiner,Jr,5'11,"Ventura, Ca",Georgia State,43.705046906577046,2.088947496830355
+662,Eden Hawes,Fr,5'8,"Panama City Beach, Fl",Georgia State,37.70361614065214,2.4228399529455746
+663,Georgia Johnson,So,5'11,"Brisbane, Queensland",Georgia State,41.894491259882194,1.9932270183499219
+664,Jessie Swaney,Sr,5'7,"McDonough, Ga",Georgia State,25.0,8.333333333333334
+665,Kate Novack,So,5'9,"Fort Wayne, Ind",Georgia State,39.809175661564176,2.088947496830355
+666,Maddie Gordon,So,6'0,"Fort Worth, Tx",Georgia State,19.02498613351596,2.2815094948893346
+667,Mattie Johnson,Fr,5'7,"Tabor City, NC",Georgia State,40.53793279248491,5.0884728472465515
+668,Meagan McCall,Fr,5'7,"Phoenix, Az",Georgia State,40.53793279248491,5.0884728472465515
+669,Olivia Stasevich,So,5'8,"Canton, Ga",Georgia State,41.894491259882194,1.9932270183499219
+670,Rebekah Brodbeck,Fr,5'9,"San Antonio, Tx",Georgia State,41.96159641065451,2.9462227105393546
+671,Teegan Van Gunst,GS,6'0,"Fayetteville, Ga",Georgia State,39.86590863182378,1.9932270183499219
+672,Tiffany Creamer,GS,6'2,"Newnan, Ga",Georgia State,43.705046906577046,2.088947496830355
+673,Abigail Moss,So,5'10,"Kennesaw, Ga",Mercer,25.0,8.333333333333334
+674,Amber Gibson,So,5'9,"Cypress, Tx",Mercer,23.146499218573055,3.712160994206009
+675,Danielle Faust,Jr,5'11,"Reading, Pa",Mercer,25.0,8.333333333333334
+676,Elli Merchant,Fr,6'0,"Bedford, Tx",Mercer,23.064091822318016,2.2391216233559614
+677,Elli Gibson,Fr,5'4,"Cincinnati, Oh",Mercer,46.087074101215926,2.1238521062633904
+678,Emilee Wissmach,Fr,,"Savannah, Ga",Mercer,29.838811117116023,6.394304831481489
+679,Gracie Garanich,Fr,5'10,"Maineville, Oh",Mercer,23.146499218573055,3.712160994206009
+680,Jessica Johnson,Sr,5'10,"Oswego, Ill",Mercer,46.087074101215926,2.1238521062633904
+681,Kacy Ogden,Fr,5'9,"Alva, Fl",Mercer,40.20313893820677,2.055608074416635
+682,Kylie Keeling,Fr,5'5,"Fresco, Tx",Mercer,23.064091822318016,2.2391216233559614
+683,Lela Mcintosh,Sr,5'8,"Austin, Tx",Mercer,35.35484892251599,2.055608074416635
+684,Madison Kerr,Sr,5'8,"Atlanta, Ga",Mercer,25.0,8.333333333333334
+685,Marina Chavez,Sr,6'0,"Guatemala City, Guatemala",Mercer,35.35484892251599,2.055608074416635
+686,Sarah Stewart,Fr,,"Savannah, Ga",Mercer,10.411288428750806,4.833821803303274
+687,Sophie Peel,Sr,5'10,"Portland, Ore",Mercer,40.20313893820677,2.055608074416635
+688,Abbie Harry,So,6'0,"Frederick, Md",Central Arkansas,25.0,8.333333333333334
+689,Aly Brinkley,Fr,5'10,"Conway, Ar",Central Arkansas,40.93476867795437,1.8346432398114199
+690,Brittany Whiting,Fr,5'6,"Austin, Tx",Central Arkansas,25.0,8.333333333333334
+691,Colene Hamilton,Fr,5'8,"Columbia,Ill",Central Arkansas,23.479286883087056,2.2815094948893346
+692,Delaney Driver,GS,5'9,"Wichita Falls, Tx",Central Arkansas,36.69220415284473,1.9640069338548831
+693,Hayley Tippett,Jr,6'0,"Roanoke, Tx",Central Arkansas,40.31328272759442,3.2257585268563194
+694,Jessica Martinez,Jr,5'7,"Parker, Co",Central Arkansas,40.93476867795437,1.8346432398114199
+695,Kelsey Sager,Fr,5'10,"Wichita Falls, Tx",Central Arkansas,25.0,8.333333333333334
+696,Kimberly Schnars,Jr,5'8,"Downey, Ca",Central Arkansas,27.398759150056897,6.809496968450191
+697,Kristine Hjembo,Jr,5'11,"Aalesund, Norway",Central Arkansas,23.479286883087056,2.2815094948893346
+698,Mackenzie  Dear,So,5'8,"Conway, Ark",Central Arkansas,20.098888508726656,2.055608074416635
+699,MC Rogers,Sr,6'2,"Collierville, Tn",Central Arkansas,36.31683570053592,1.9932270183499219
+700,Megan Nash,Jr,6'0,"Oakville, Canada",Central Arkansas,40.31328272759442,3.2257585268563194
+701,Shelby Holmes,GS,6'0,"Lawrence, Tx",Central Arkansas,20.098888508726656,2.055608074416635
+702,Stephanie Pollnow,Sr,6'0,"Beebe, Ark",Central Arkansas,36.69220415284473,1.9640069338548831
+703,Ali Svorinic,Sr,5'7,"Scottsdale, Az",Colorado Mesa,25.0,8.333333333333334
+704,Ara Norwood,Fr,5'6,"Ridgway, Co",Colorado Mesa,36.786002440022,2.2391216233559614
+705,Ashton Reese,Fr,6'1,"Eaton, Co",Colorado Mesa,25.0,8.333333333333334
+706,Hailey Crane,So,6'0,"Bothell, Wash",Colorado Mesa,34.84582027636033,2.2391216233559614
+707,Hana Peterman,Jr,5'9,"Tucson, Az",Colorado Mesa,46.12871445581348,2.373181267217594
+708,Julia Baskin,So,6'0,"Arvada, Co",Colorado Mesa,33.73595052151178,2.3261366938282633
+709,Kasie Gilfert,R-Fr,6'0,"Aurora, Co",Colorado Mesa,21.55371956827094,2.373181267217594
+710,Katie Scherr,So,6'0,"Bismarck, N.D.",Colorado Mesa,36.14673205702233,2.2815094948893346
+711,Lindy Dixon,So,5'9,"Eaton, Co",Colorado Mesa,34.84582027636033,2.2391216233559614
+712,Megan Gianinetti,Sr,6'0,"Carbondale, Co",Colorado Mesa,46.12871445581348,2.373181267217594
+713,Natalee Todd,Jr,5'9,"Bismarck, N.D.",Colorado Mesa,36.786002440022,2.2391216233559614
+714,Rachael Perrine,Fr,5'11,"Aurora, Co",Colorado Mesa,25.0,8.333333333333334
+715,Samantha Ritter,So,5'10,"Tinley Park, Ill",Colorado Mesa,21.55371956827094,2.373181267217594
+716,Taylor Woods,Jr,5'4,"Glendale, Az",Colorado Mesa,36.14673205702233,2.2815094948893346
+717,Bethany Salapek,Fr,5'3,"Raleigh, NC",Jacksonville,47.74076367021404,3.1257936082736575
+718,Cristina Finan,Sr,5'9,"Weston, Fl",Jacksonville,46.05806972288884,2.1238521062633904
+719,Forfeit  1,,,,Jacksonville,25.946025053348606,3.1257936082736575
+720,Forfeit  2,,,,Jacksonville,24.958707182997774,6.394304831481489
+721,Hannah Marchand,Fr,5'11,"Sturgis, Mi",Jacksonville,14.42357261829008,2.7897340710092795
+722,Katie Krawczyk,Jr,5'8,"Ovledo, Fl",Jacksonville,41.04388823679189,2.055608074416635
+723,Kendall Murr,Fr,5'9,"Yorktown, In",Jacksonville,23.288640189996293,3.712160994206009
+724,Lauren Petersen,Jr,5'11,"Liberty, Mo",Jacksonville,18.347176094914687,3.712160994206009
+725,Mackenzie Swan,Sr,5'10,"Colorado Springs, Co",Jacksonville,46.05806972288884,2.1238521062633904
+726,Madison  Rayam,Fr,5'10,"Alabaster, Al",Jacksonville,25.0,8.333333333333334
+727,Mallory Mattingly,So,"5'10""","Sanford, Fla. / Seminole",Jacksonville,18.347176094914687,3.712160994206009
+728,Morgan Dees,So,5'7,"Marietta, Ga",Jacksonville,41.04388823679189,2.055608074416635
+729,Olga Nushtayeva,Sr,5'11,"Palm Coast, Fl",Jacksonville,25.0,8.333333333333334
+730,Savannah Siegrist,Fr,5'9,"Davidsonville, Md",Jacksonville,35.27731839668084,2.055608074416635
+731,Shaylee Befus,,5'7,"Brighton, Co",Jacksonville,47.74076367021404,3.1257936082736575
+732,Shelby Babowicz,Sr,5'8,"Hollywood, Fl",Jacksonville,35.27731839668084,2.055608074416635
+733,Tori Reiser,So,5'7,"Weston, Fl",Jacksonville,35.316851715325015,2.1238521062633904
+734,Vanessa Richards,So,5'8,"Marietta, Ga",Jacksonville,25.0,8.333333333333334
+735,Blaire Register,,,,UNF,22.34105434661748,5.368757712330199
+736,Britney Krueger,So,5'8,"Fort Walton Beach, Fl",UNF,25.0,8.333333333333334
+737,Brittany Pase,R-Jr,5'9,"Crestview, Fl",UNF,47.42714943929861,2.088947496830355
+738,Callie Workman,Fr,5'7,"Tallahassee, Fl",UNF,47.42714943929861,2.088947496830355
+739,Carina Hoff,R-Sr,6'2,"Eustis, Fl",UNF,40.99369891532718,2.055608074416635
+740,Carolyn Cain,Fr,5'9,"Purcellville, Va",UNF,48.35267902125143,3.3334788684335366
+741,Casey Justice,Fr,5'8,"Panama City Beach, Fl",UNF,36.615314783530074,2.023732267234736
+742,Chaney Howard,Jr,5'7,"St. Cloud, Fl",UNF,25.598477162920283,3.449798020573539
+743,Courtney Miller,R-Jr,5'10,"Waxahachie, Tx",UNF,40.99369891532718,2.055608074416635
+744,Gabby O'Connell,So,6'0,"Gainesville, Fl",UNF,25.0,8.333333333333334
+745,Leah Maloney,So,6'0,"Cincinnati, Oh",UNF,25.0,8.333333333333334
+746,Madilyn McCarty,So,6'0,"Springfield, Ill",UNF,22.63540833634849,2.1988116511516824
+747,Mallory Waggoner,GS,6'0,"Sarasota, Fl",UNF,36.615314783530074,2.023732267234736
+748,Marissa Rogers,Fr,5'7,"Crestview, Fl",UNF,30.00634795795583,5.677620099312075
+749,Nicole DeBolt,Jr,5'7,"Ocala, Fl",UNF,22.63540833634849,2.1988116511516824
+750,Sadie Thurston,Sr,5'11,"Ponte Vedra, Fl",UNF,43.15495824656239,2.5898005062696576
+751,Taryn Griffey,So,6'1,"Wildwood, Mo",UNF,25.598477162920283,3.449798020573539
+752,Alex Kells,Fr,6'0,"Burlington, Ontario, Canada",UAB,39.64375512102288,2.5898005062696576
+753,Alyssa Kirkman,Jr,5'11,"Naperville, Ill",UAB,25.0,8.333333333333334
+754,Annie Pringle,R-So,5'11,"Victoria, BC, Canada",UAB,37.71620721615675,2.2391216233559614
+755,Avei Logoleo,Sr,5'9,"Nashville, Tn",UAB,36.632293110727765,2.2391216233559614
+756,Avery Hoven,R-Sr,5'11,"Hoover, Al",UAB,25.0,8.333333333333334
+757,Bethany Whitenton,Fr,5'9,"Gainesville, Ga",UAB,25.0,8.333333333333334
+758,Brittney Munro,So,6'4,"Cypress, Tx",UAB,25.0,8.333333333333334
+759,Devon May,GS,5'9,"Roberts Creek, BC, Canada",UAB,35.324892333385755,2.2391216233559614
+760,Emily Martinez,Jr,5'8,"San Antonio, Tx",UAB,36.42605920813517,2.475330544877422
+761,Erin Bognar,GS,6'2,"St Louis, Mo",UAB,36.632293110727765,2.2391216233559614
+762,Gabbi Moreno,Sr,5'10,"Houston, Tx",UAB,36.42605920813517,2.475330544877422
+763,Haley Jared,Sr,5'11,"Hartselle, Al",UAB,36.07562868794633,2.373181267217594
+764,Kaylee McClure,Fr,5'6,"Kennesaw, Ga",UAB,36.850674330339295,2.373181267217594
+765,Kenley Adams,So,6'0,"Panama City, Fl",UAB,35.324892333385755,2.2391216233559614
+766,Morgan Smith,So,5'7,"Cincinnati, Oh",UAB,25.0,8.333333333333334
+767,Rachel Evans,Jr,5'8,"St. Petersburg, Fl",UAB,27.886137924231367,6.809496968450191
+768,Sallianne Napolitano,Fr,,"Bordentown Township, N.J.",UAB,37.71620721615675,2.2391216233559614
+769,Tressa Buckland,Jr,5'10,"Park City, Ut",UAB,36.850674330339295,2.373181267217594
+770,Alanya Ryan,Fr,5'11,"Fort Myers, Fl",FGCU,17.18541432034154,2.5898005062696576
+771,Amanda Carroll,Jr,5'10,"Albuquerque, NM",FGCU,40.177333845289496,2.055608074416635
+772,Ashley Glickert,Sr,5'10,"Chesterfield, Mo",FGCU,46.92462411439123,2.1238521062633904
+773,Courtney VanLiew,Fr,5'11,"Seymour, In",FGCU,34.46095332664315,2.055608074416635
+774,Giovanna Borgiotti,So,5'10,"Vienna, Va",FGCU,46.92462411439123,2.1238521062633904
+775,Kaitlan Krivdo,Jr,6'0,"Hope Mills, NC",FGCU,34.46095332664315,2.055608074416635
+776,Karissa Rhoades,Jr,5'11,"Valrico, Fl",FGCU,20.597773128171166,3.712160994206009
+777,Katherine Puisis,Jr,5'11,"Mason, Oh",FGCU,20.597773128171166,3.712160994206009
+778,Kayla Whetstone,Fr,5'8,"Arlington, Tx",FGCU,49.44425927096365,3.1257936082736575
+779,Kellie Pernula,Jr,5'7,"Plant City, Fl",FGCU,23.432998487788637,4.833821803303274
+780,Mackenzie Allen,Sr,5'10,"Naples, Fl",FGCU,40.177333845289496,2.055608074416635
+781,Snowy Burnam,Fr,5'11,"Palm City, Fl",FGCU,49.44425927096365,3.1257936082736575
+782,Ashley Clingan,Jr,5'5,"Jacksonville, Al",Jacksonville State,44.6720156494135,2.1238521062633904
+783,Bethany Randall,Fr,5'10,"Seffner, Fl",Jacksonville State,35.10528527827366,2.2391216233559614
+784,Charis Ludtke,Sr,5'11,"Hamburg, Germany",Jacksonville State,40.82735591315478,2.023732267234736
+785,Grace Jarnagin,Fr,5'9,"Mill Creek, Wa",Jacksonville State,21.048846403195324,2.1988116511516824
+786,Hailey Hughes,So,5'8,"Bloomfield Hills, Mi",Jacksonville State,37.064903479780774,3.712160994206009
+787,Hannah Kirk,Sr,5'3,"Katy, Tx",Jacksonville State,40.82735591315478,2.023732267234736
+788,Katie Will,Jr,5'6,"Clearwater, Fl",Jacksonville State,44.925899140472694,2.023732267234736
+789,Kayla Frear,So,6'3,"Colorado Springs, Co",Jacksonville State,21.048846403195324,2.1988116511516824
+790,Kaylie Milton,Fr,5'11,"Fullerton, Ca",Jacksonville State,42.79824876424555,2.1604329520970493
+791,Kim Krutsinger,R-So,6'2,"Colorado Springs, Co",Jacksonville State,40.537730673974636,2.1988116511516824
+792,Mackenzie Rombach,Jr,6'1,"Ottawa, Ill",Jacksonville State,38.5755881343633,3.575667513246407
+793,Maddie Cloutier,So,5'6,"Brighton, Co",Jacksonville State,44.6720156494135,2.1238521062633904
+794,Madison Cooler,Fr,5'8,"Ridgeland, SC",Jacksonville State,25.0,8.333333333333334
+795,Rachel Perucki,So,5'6,"Tomball, Tx",Jacksonville State,25.0,8.333333333333334
+796,Sadie Anderson,So,6'0,"Phoenix, Az",Jacksonville State,44.925899140472694,2.023732267234736
+797,Sam Bogdan,Fr,5'9,"New Port Richey, Fl",Jacksonville State,33.43118996260865,6.018292133482491
+798,Shayla Schmidt,So,6'0,"Peoria, Az",Jacksonville State,37.064903479780774,3.712160994206009
+799,Ally Carr,Fr,5'7,"Ontario, Canada",New Orleans,19.66632174516039,2.088947496830355
+800,Blessings Dunn,Jr,"5'8""","Jacksonville, Ala. / Jacksonville HS",New Orleans,34.71809717882778,2.055608074416635
+801,Brianna Vega,So,5'10,"San Antonio, Tx",New Orleans,34.71809717882778,2.055608074416635
+802,Cara Sander,R-Sr,6'0,"Wiesbaden, Germany",New Orleans,39.525121139939436,1.935993527955682
+803,Jordan Schumacher,Fr,5'9,"Gilbert, Az",New Orleans,21.434223053793858,2.2815094948893346
+804,Kaitlyn Grice,Jr,6'2,"Valrico, Fl",New Orleans,21.434223053793858,2.2815094948893346
+805,Madison Miller,Jr,5'6,"Granbury, Tx",New Orleans,16.946925002720658,2.530894595439967
+806,Manela Grau,Jr,5'6,"Valencia, Spain",New Orleans,25.0,8.333333333333334
+807,Maxine Walsh,Fr,5'11,"Leonia, New Jersey",New Orleans,19.66632174516039,2.088947496830355
+808,Rachel Kuhn,So,5'6,"El Cajon, Ca",New Orleans,39.52434571614324,3.3334788684335366
+809,Rhyan  Rand,So,"5'7""","Lindale, Texas / Lindale HS",New Orleans,32.91968652058826,2.865363454668774
+810,Veronica Corcoran,So,5'10,"Closter, Nj",New Orleans,39.525121139939436,1.935993527955682
+811,Victoria Corcoran,So,5'10,"Closter, Nj",New Orleans,39.52434571614324,3.3334788684335366
+812,Abigail O'Ferrell,Jr,5'11,"Labelle, Fl",Eckerd,21.891677600930958,7.77436345109384
+813,Arielle Erillo,Jr,5'3,"Lake Worth, Fl",Eckerd,35.485184150457975,2.865363454668774
+814,Fernanda  Reis,So,5'11,"Rio de Janeiro, Brazil",Eckerd,35.485184150457975,2.865363454668774
+815,Jordan Duffy,Fr,5'8,"Palm Harbor, Fl",Eckerd,27.04170118421716,2.9462227105393546
+816,Kaitlyn Sibson,Sr,5'8,"Tampa, Fl",Eckerd,29.609991875890717,2.9462227105393546
+817,Kali Boatwright,So,5'10,"Lakeland, Fl",Eckerd,23.917579566478384,2.9462227105393546
+818,Mackenzie Redner,Sr,6'0,"Truckee, Ca",Eckerd,37.29202023297118,2.865363454668774
+819,Madison  Whiting,Sr,6'0,"Lithia, Fl",Eckerd,36.055455915254086,6.394304831481489
+820,Paula Hoffman,Fr,5'9,"Rio de Janeiro, Brazil",Eckerd,29.609991875890717,2.9462227105393546
+821,Rachel Cornatzer,Jr,5'10,"Oldsmar, Fl",Eckerd,27.04170118421716,2.9462227105393546
+822,Samantha Bevilacqua,Fr,5'10,"Newfield, N.J.",Eckerd,25.0,8.333333333333334
+823,Savanna Cary,Sr,5'9,"Boynton Beach, Fl",Eckerd,37.29202023297118,2.865363454668774
+824,Stephanie Bogda,Jr,5'7,"Levittown, NY",Eckerd,23.917579566478384,2.9462227105393546
+825,Allison Weimer,Fr,5'10,"Covington, La",Spring Hill College,15.65749308710933,2.865363454668774
+826,Angela McClain,R-Fr,5'10,"New Orleans, La",Spring Hill College,25.0,8.333333333333334
+827,Brittany  Bilotti,So,5'6,"Miami, Fl",Spring Hill College,39.146741745671875,2.865363454668774
+828,Caroline Herrera,Jr,5'9,"Austin, Tx",Spring Hill College,15.65749308710933,2.865363454668774
+829,Cassidi Sterrett,R-Fr,5'7,"Lee's Summit, Mo",Spring Hill College,25.0,8.333333333333334
+830,Catherine Milwee,Sr,5'6,"Mobile, Al",Spring Hill College,14.93450028935375,2.9462227105393546
+831,Emily Greim,Jr,5'9,"McKinney, Tx",Spring Hill College,38.0657197624514,4.198283208444447
+832,Emily Sullivan,R-Fr,5'9,"Chicago, Ill",Spring Hill College,41.81810390417904,4.02201809758425
+833,Emmarose Neibert,So,5'7,"Arnold, Mo",Spring Hill College,41.81810390417904,4.02201809758425
+834,Julie Vujnovich,Sr,5'9,"Belle Chasse, La",Spring Hill College,32.373482901162205,2.7897340710092795
+835,Katie Beth Gammon,Jr,5'8,"Plano, Tx",Spring Hill College,25.0,8.333333333333334
+836,Landen Lake,R-Fr,5'0,"Tuscaloosa, Al",Spring Hill College,25.0,8.333333333333334
+837,Mary Keller,Fr,6'0,"Kansas City, Mo",Spring Hill College,25.0,8.333333333333334
+838,Morgan Eiland,Jr,6'2,"Mobile, Al",Spring Hill College,25.0,8.333333333333334
+839,Paige Pappas,Fr,5'11,"Chicago, Ill",Spring Hill College,25.0,8.333333333333334
+840,Patty Blood,So,5'11,"Cincinnati, Oh",Spring Hill College,25.0,8.333333333333334
+841,Payton Gidney,So,5'9,"Grapevine, Tx",Spring Hill College,32.373482901162205,2.7897340710092795
+842,Rebecca Moore,Fr,5'6,"Grand Bay, Al",Spring Hill College,25.0,8.333333333333334
+843,Ryann Horkavy,Fr,5'11,"Chicago, Ill",Spring Hill College,25.0,8.333333333333334
+844,Sarah Senft,So,5'10,"Spring Grove, Pa",Spring Hill College,39.146741745671875,2.865363454668774
+845,Taylor Hurst,So,5'11,"Gulf Shores, Al",Spring Hill College,14.93450028935375,2.9462227105393546
+846,Abby Struewing,Fr,5'5,"Lebanon, Oh",Carson-Newman,32.42156844184458,3.712160994206009
+847,Aryana Fazelnia,Fr,5'8,"Weston, Fl",Carson-Newman,39.21769382789966,2.023732267234736
+848,Catherine Cook,Sr,5'4,"Morristown, Tn",Carson-Newman,44.69935685378396,2.1238521062633904
+849,Gabrielle Bailey,Sr,5'8,"Pompano Beach, Fl",Carson-Newman,42.00653433304833,4.02201809758425
+850,Grace Seymour,Fr,5'10,"Hudson, Fl",Carson-Newman,21.07965426026101,2.1988116511516824
+851,Kelly Hughes,So,5'8,"Woodbridge, Va",Carson-Newman,44.94896719529295,2.023732267234736
+852,Lauren Williams,Fr,5'7,"Carrollton, Ga",Carson-Newman,20.125946428995395,2.1988116511516824
+853,Lexi Headley,Fr,5'7,"Sharps Chapel, Tn",Carson-Newman,44.69935685378396,2.1238521062633904
+854,Lexie Acevedo,Fr,5'7,"Newport, Tn",Carson-Newman,25.0,8.333333333333334
+855,Micah Depetro,Fr,6'0,"Knoxville, Tn",Carson-Newman,32.42156844184458,3.712160994206009
+856,Micah Palmer,Fr,5'7,"White Pine, Tn",Carson-Newman,42.00653433304833,4.02201809758425
+857,Montgomery Sauter,Fr,5'4,"Columbia, S.C.",Carson-Newman,39.21769382789966,2.023732267234736
+858,Morgan Harlan,Sr,6'2,"Ladera Ranch, Ca",Carson-Newman,21.07965426026101,2.1988116511516824
+859,Summer Coulter,Fr,5'7,"El Paso, Tx",Carson-Newman,44.94896719529295,2.023732267234736
+860,Aleksandra Djuric,Sr,5'11,"Belgrade, Serbia",Coastal Carolina,38.00180248516986,2.4228399529455746
+861,Aristea Tontai,Fr,6'4,"Athens, Greece",Coastal Carolina,35.603760238646174,2.530894595439967
+862,Autumn Otto,Jr,5'9,"Carlisle, Pa",Coastal Carolina,36.23961664481102,2.373181267217594
+863,Carla Cahill,Jr,5'8,"Oak Lawn, Ill",Coastal Carolina,35.77453077908281,2.530894595439967
+864,Christina Nance,Fr,6'3,"Bowie, Md",Coastal Carolina,25.0,8.333333333333334
+865,Dora Lulic,Sr,6'2,"Osijek, Croatia",Coastal Carolina,35.77453077908281,2.530894595439967
+866,Haylie Beck,Fr,5'7,"Powell, Oh",Coastal Carolina,36.23961664481102,2.373181267217594
+867,Kalin Eske,Fr,5'8,"Milwaukee, Wi",Coastal Carolina,35.603760238646174,2.530894595439967
+868,Kaylah House,Fr,6'3,"Atlanta, Ga",Coastal Carolina,25.0,8.333333333333334
+869,Kinga Windisch,So,6'2,"Budapest, Hungary",Coastal Carolina,24.109545093152413,6.394304831481489
+870,Kyla Manning,Fr,6'0,"Atlanta, Ga",Coastal Carolina,40.65555178630706,2.4228399529455746
+871,Leah Hardeman,Sr,5'10,"Clarkston, Ga",Coastal Carolina,38.00180248516986,2.4228399529455746
+872,Sara Boothe,,,,Coastal Carolina,38.71030209617042,2.088947496830355
+873,Shelby Ladewig,Sr,5'9,"Houston, Tx",Coastal Carolina,40.65555178630706,2.4228399529455746
+874,Sydney Alvis,Jr,5'4,"Maidans, Va",Coastal Carolina,25.0,8.333333333333334
+875,Tanner Gauthier,Fr,5'10,"Nokomis, Fl",Coastal Carolina,24.109545093152413,6.394304831481489
+876,Abigail Devido,Fr,5'9,"Ashburn, Va",Texas A&M; Corpus Christi,39.90337213938859,2.023732267234736
+877,Chloe Simon,Fr,,"Katy, Tx",Texas A&M; Corpus Christi,19.027044588949156,7.268023290842246
+878,Demi McInnis,Fr,5'7,"Cypress, Tx",Texas A&M; Corpus Christi,37.199837118199845,2.1988116511516824
+879,Gabriella Johnston,Fr,5'7,"Kerrville, Tx",Texas A&M; Corpus Christi,24.75631061291276,7.268023290842246
+880,Jenna Krenek,Fr,,"Houston, Tx",Texas A&M; Corpus Christi,19.626077994331293,2.1604329520970493
+881,Kayla Walker,Fr,5'9,"Murrieta, Ca",Texas A&M; Corpus Christi,34.6800999716368,2.1238521062633904
+882,Madi Fitzsimmons,Jr,6'0,"Murphy, Tx",Texas A&M; Corpus Christi,37.199837118199845,2.1988116511516824
+883,Madison Green,Jr,5'8,"Dripping Springs, Tx",Texas A&M; Corpus Christi,39.89999830151342,1.9091145528466555
+884,Maya Daukas,Fr,5'10,"Santa Monica, Ca",Texas A&M; Corpus Christi,34.6800999716368,2.1238521062633904
+885,Naomi Overstreet,Jr,5'11,"Oakland, Ca",Texas A&M; Corpus Christi,19.626077994331293,2.1604329520970493
+886,Olivia  Rook,Jr,5'9,"Arlington, Tx",Texas A&M; Corpus Christi,19.027044588949153,7.268023290842246
+887,Rachel Young,Fr,,"Frisco, Tx",Texas A&M; Corpus Christi,39.89999830151342,1.9091145528466555
+888,Selina Marolf,Fr,5'11,"Bern, Switzerland",Texas A&M; Corpus Christi,39.90337213938859,2.023732267234736
+889,Ashtin Olin,Fr,5'11,"Pasco, Wa","Cal State University, Sacramento",43.1220059590969,2.1604329520970493
+890,Brie Gathright,Jr,5'11,"Vacaville, Ca","Cal State University, Sacramento",25.49467199501022,5.677620099312075
+891,Brigitte Murdock,Sr,5'6,"Reno, Nv","Cal State University, Sacramento",28.550842623400673,2.1604329520970493
+892,Cianna Andrews,Fr,5'10,"Bellflower, Ca","Cal State University, Sacramento",31.13231343450002,2.530894595439967
+893,Erin Cochran,Sr,6'3,"Fremont, Ca","Cal State University, Sacramento",25.0,8.333333333333334
+894,Hannah Meadows,Sr,5'7,"Sparks, Nv","Cal State University, Sacramento",43.1220059590969,2.1604329520970493
+895,Kennedy Kurtz,Sr,5'10,"Tucson, Az","Cal State University, Sacramento",39.51631927717869,2.1604329520970493
+896,Lana Brown,Sr,6'0,"Redding, Ca","Cal State University, Sacramento",40.756860551090654,2.1238521062633904
+897,Macey Hayden,Fr,5'11,"Lincoln, Ca","Cal State University, Sacramento",26.86014621200305,3.1257936082736575
+898,Mikaela Nocetti,Jr,5'11,"Carmichael, Ca","Cal State University, Sacramento",40.756860551090654,2.1238521062633904
+899,Paige Swinney,So,5'11,"Sugar Land, Tx","Cal State University, Sacramento",28.550842623400673,2.1604329520970493
+900,Sarah Falk,Fr,6'1,"Longmont, Co","Cal State University, Sacramento",40.62412521487639,4.391011166604197
+901,Sarah Davis,So,5'10,"Paradise Valley, Az","Cal State University, Sacramento",39.51631927717869,2.1604329520970493
+902,Shannon Boyle,Sr,5'11,"Ridgefield, Wa","Cal State University, Sacramento",25.0,8.333333333333334
+903,Skyler Takeda,Jr,5'9,"Vacaville, Ca","Cal State University, Sacramento",26.86014621200305,3.1257936082736575
+904,Amber Rose,Sr,6'0,"Cypress, Ca",Concordia,25.0,8.333333333333334
+905,Asia O'Neil,So,5'7,"Rancho Mirage, Ca",Concordia,24.270521732021503,2.4228399529455746
+906,Avery Keathley,So,,"Watsonville, Ca",Concordia,33.41361437902008,2.2391216233559614
+907,Hailey Gaines,Sr,6'0,"Mission Viejo, Ca",Concordia,25.0,8.333333333333334
+908,Jaclyn Brown,,,,Concordia,41.01813004250046,2.718867490932981
+909,Jessica Diederich,Sr,,"Omaha, Ne",Concordia,24.270521732021503,2.4228399529455746
+910,Julia Denboer,,,,Concordia,42.89095769485222,2.2391216233559614
+911,Kekela Hendrickson,Fr,,,Concordia,42.89095769485222,2.2391216233559614
+912,Kersti Whitney,Sr,,,Concordia,24.958707182997774,6.394304831481489
+913,Kyra Auten,Sr,6'0,"Northridge, Ca",Concordia,39.44522072539836,2.865363454668774
+914,Marcela Frazzoni,Sr,5'10,"Santiago, Chile",Concordia,41.01813004250046,2.718867490932981
+915,Riley Gill,Fr,,"Carlsbad, Ca",Concordia,33.41361437902008,2.2391216233559614
+916,Tristan Self,Sr,5'6,"Helmet, Ca",Concordia,35.921769592822685,2.1988116511516824
+917,Vanessa Bernzen,Fr,,,Concordia,35.921769592822685,2.1988116511516824
+918,Ashley Slay,Sr,5'11,"Nashville, Tn",Austin Peay State,22.449502032397366,2.1604329520970493
+919,Brooke Moore,Fr,5'10,"Louisville, Ky",Austin Peay State,39.62526589905536,1.9932270183499219
+920,Caroline Waite,Fr,5'9,"Knoxville, Tn",Austin Peay State,30.603022000126,5.677620099312075
+921,Cecily Gable,Jr,5'10,"Memphis, Tn",Austin Peay State,45.35653926644866,1.9932270183499219
+922,Chloe Stitt,Fr,5'8,"Summitville, Ind",Austin Peay State,45.986285894578906,2.088947496830355
+923,Claire Darland,Fr,5'10,"Lexington, Ky",Austin Peay State,39.62526589905536,1.9932270183499219
+924,Ginny Gerig,So,5'5,"Towanda, Ill",Austin Peay State,45.35653926644866,1.9932270183499219
+925,Haley Turner,Fr,5'9,"Flagstaff, Az",Austin Peay State,35.73262239222424,3.575667513246407
+926,Jenna Panning,So,6'1,"Columbus, Oh",Austin Peay State,35.73262239222424,3.575667513246407
+927,Katelyn Theiss,Fr,5'10,"DeSoto, Mo",Austin Peay State,22.449502032397366,2.1604329520970493
+928,Kaylee Taff,Jr,6'0,"Houston, Tx",Austin Peay State,45.986285894578906,2.088947496830355
+929,MiMi Arrington,So,5-8,"Yorktown, Ind",Austin Peay State,25.0,8.333333333333334
+930,Nina Korfhage,Fr,5'4,"Louisville, Ky",Austin Peay State,40.010990843117085,2.023732267234736
+931,Hannah Phillips,So,6'1,"Orient, Oh",UT Martin,25.0,8.333333333333334
+932,Hayley Gray,Sr,6'0,"Watseka, Ill",UT Martin,25.0,8.333333333333334
+933,Jemima Idemudia,Sr,6'2,"Glendale, Az",UT Martin,25.0,8.333333333333334
+934,Kelly Lean,Sr,5'9,"Victoria, Australia",UT Martin,25.0,8.333333333333334
+935,Macy Catlett,So,5'4,"St. Louis, Mo",UT Martin,25.0,8.333333333333334
+936,Macy Reigelsperger,Sr,5'10,"Coldwater, Oh",UT Martin,25.0,8.333333333333334
+937,Rachel Noffsinger,Sr,6'0,"Anna, Ohio",UT Martin,25.0,8.333333333333334
+938,Sarah Shaw,Jr,5'11,"Collierville, Tn",UT Martin,25.0,8.333333333333334
+939,Alyssa Cecil,Jr,5'7,"Cedar Park, Tx",Morehead State,30.99814086807093,3.860489524026792
+940,Chandler Clark,So,5'9,"Seymour, Ind",Morehead State,43.549680085139414,2.1988116511516824
+941,Danielle McCarson,R-So,5'3,"Lagrange, Ky",Morehead State,20.077775999332108,2.2815094948893346
+942,Jessica  Hall,R-Jr,5'9,"Prestonburg, Ky",Morehead State,43.7627862773988,2.1988116511516824
+943,Jessie Wachtman,R-Jr,6'2,"Pickerington, Oh",Morehead State,43.68850133427887,2.055608074416635
+944,Jordan Jones,Jr,6'3,"Blythewood, SC",Morehead State,43.7627862773988,2.1988116511516824
+945,Karlee Reynolds,So,6'3,"Plain City, Oh",Morehead State,30.99814086807093,3.860489524026792
+946,Lauren Rokey,Fr,6'0,"Eureka, Ill",Morehead State,35.253035718196635,5.0884728472465515
+947,Liz Allen,So,5'11,"Stillwell, Kan",Morehead State,43.68850133427887,2.055608074416635
+948,Maddie Fella,Jr,6'3,"Santa Claus, Ind",Morehead State,20.077775999332108,2.2815094948893346
+949,Olivia Lohmeier,Fr,6'0,"Cincinnati, Oh",Morehead State,43.549680085139414,2.1988116511516824
+950,Rachel Moore,,,,Morehead State,25.0,8.333333333333334
+951,Taylor Hodges,Fr,5'8,"Floyds Knobs, In",Morehead State,25.0,8.333333333333334
+952,Alejandra Negron,Fr,5'9,"Bayamon, Puerto Rico",CSULA,37.678198306580924,2.023732267234736
+953,Alma Serna,Sr,6'4,"Mission Viejo, Ca",CSULA,25.0,8.333333333333334
+954,Bailey Anderson,Fr,5'8,"Irvine, Ca",CSULA,46.363581393969476,1.9932270183499219
+955,Caitlyn Bato,So,5'2,"Rowland Heights, Ca",CSULA,23.67759521063731,5.368757712330199
+956,Cynthia Giron,Jr,5'5,"Rancho Cucamonga, Ca",CSULA,25.0,8.333333333333334
+957,Daisia LaBrie,Jr,5'11,"Riverside, Ca",CSULA,35.276920110954556,2.055608074416635
+958,Daisy Portillo,Fr,6'2,"Duarte, Ca",CSULA,25.0,8.333333333333334
+959,Daisy Crenshaw,Fr,6'2,"Los Angeles, Ca",CSULA,24.371401570528565,2.3261366938282633
+960,Erianna Williams,Jr,5'10,"Sacramento, Ca",CSULA,46.363581393969476,1.9932270183499219
+961,Janessa Mata,Fr,5'8,"San Diego, Ca",CSULA,35.276920110954556,2.055608074416635
+962,Jeshmarie Suarez,Fr,5'3,"Bayamon, Puerto Rico",CSULA,28.1502005410032,2.088947496830355
+963,Karla Santos,Fr,5'8,"Manati, Puerto Rico",CSULA,37.678198306580924,2.023732267234736
+964,Kelsey Molnar,Sr,5'8,"Monrovia, Ca",CSULA,25.0,8.333333333333334
+965,Michelle Boyd,Jr,5'6,"Sylmar, Ca",CSULA,23.67759521063731,5.368757712330199
+966,Nicole Efseaff,Sr,5'7,"Chico, Ca",CSULA,25.0,8.333333333333334
+967,Sifa Faaiu,Sr,5'11,"San Francisco, Ca",CSULA,25.0,8.333333333333334
+968,Summer Hansen,Fr,6'2,"Corona, Ca",CSULA,25.0,8.333333333333334
+969,Victoria Duarte,Fr,6'2,"Alta Loma, Ca",CSULA,28.1502005410032,2.088947496830355
+970,Erin Umbel,Fr,5'9,"Helotes, Tx",Texas A&M; Kingsville,42.30459599121026,2.5898005062696576
+971,Gabby Atchley,So,6'0,"Concord, Ca",Texas A&M; Kingsville,36.661749432867076,2.530894595439967
+972,Haley Hutchinson,Jr,6'1,"Georgetown, Tx",Texas A&M; Kingsville,35.50759698421165,2.475330544877422
+973,Kadi Shipman,So,5'4,"Georgetown, Tx",Texas A&M; Kingsville,25.0,8.333333333333334
+974,Kelby Sprinkles,So,5'10,"Little River, Tx",Texas A&M; Kingsville,25.0,8.333333333333334
+975,Kylexus Block,Fr,5'8,"San Antonio, Tx",Texas A&M; Kingsville,25.0,8.333333333333334
+976,Kyra Henderson,Sr,5'3,"Carlsbad, Ca",Texas A&M; Kingsville,35.50759698421165,2.475330544877422
+977,Loren Washington,Jr,,"Round Rock, Tx",Texas A&M; Kingsville,28.330506873906693,6.809496968450191
+978,Macy Berg,Fr,5'7,"San Antonio, Tx",Texas A&M; Kingsville,27.582973135643215,6.018292133482491
+979,Madeleine  Sims,Sr,5'10,"Aztec, N.M.",Texas A&M; Kingsville,28.330506873906693,6.809496968450191
+980,Madison Brabham,Jr,5'10,"Kingwood, Tx",Texas A&M; Kingsville,27.582973135643215,6.018292133482491
+981,Malee Sowa,So,5'8,"Sealy, Tx",Texas A&M; Kingsville,18.862647126128024,2.718867490932981
+982,Sarah  Miller,So,5'10,"Long Beach, Ca",Texas A&M; Kingsville,25.0,8.333333333333334
+983,Shelby Tate,Fr,5'10,"New Braunfels, Tx",Texas A&M; Kingsville,25.0,8.333333333333334
+984,Tenley Housler,Fr,5'10,"Bulverde, Tx",Texas A&M; Kingsville,42.30459599121026,2.5898005062696576
+985,Whitney Walker,Fr,5'9,"Bellingham, Wa",Texas A&M; Kingsville,36.661749432867076,2.530894595439967
+986,Allie Kemp,Jr,5'4,"Tulsa, Ok",ULM,45.17794409576439,2.2391216233559614
+987,Bailey Smith,Jr,5'10,"Rockwell, Tx",ULM,19.549641825747887,2.3261366938282633
+988,Catherine Griffith,Jr,6'3,"Morrisville, N.C.",ULM,36.18896679857442,4.198283208444447
+989,Gabby Love,Jr,5'10,"Fort Worth, Tx",ULM,44.4897173142198,2.1238521062633904
+990,Grace Convey,So,5'10,"Brisbane, Australia",ULM,44.4897173142198,2.1238521062633904
+991,Holland Ponthieux,So,5'9,"West Monroe, La",ULM,45.17794409576439,2.2391216233559614
+992,Kayla Gallant,Fr,,"Cambridge, Ontario",ULM,40.86327416911234,2.088947496830355
+993,Maile Sellers,Fr,,"Oceanside, Ca",ULM,40.86327416911234,2.088947496830355
+994,McKenna Webster,Fr,,"Longmont, Co",ULM,23.30712489609495,5.0884728472465515
+995,Rebecca Brown,GS,5'7,"Valrico, Fl",ULM,36.18896679857442,4.198283208444447
+996,Taylor  Meyer,Fr,,"New Orleans, La",ULM,19.549641825747887,2.3261366938282633
+997,Brilee Henson,Fr,5'9,"Bronton, Mo",Missouri Baptist University,25.24368938708723,7.268023290842246
+998,Caterina Cigarini,So,6'5,"Modena, Italy",Missouri Baptist University,33.69774561779258,2.530894595439967
+999,Georgia Park,Fr,5'6,"Auckland, New Zealand",Missouri Baptist University,20.987733464043075,5.0884728472465515
+1000,Kamden Maas,Jr,5'6,"Carlsbad, Ca",Missouri Baptist University,33.69774561779258,2.530894595439967
+1001,Kelly Wilson,So,6'1,"O'Fallon, Mo",Missouri Baptist University,44.72662821601102,4.02201809758425
+1002,Kristen Williams,Jr,5'10,"Ironton, Mo",Missouri Baptist University,25.24368938708723,7.268023290842246
+1003,Maggie Sorensen,Jr,6'1,"St Louis, Mo",Missouri Baptist University,41.33625367571526,2.652347064623227
+1004,Mallory Moran,Jr,5'11,"St. Louis, Mo",Missouri Baptist University,35.7919612126692,2.5898005062696576
+1005,Marion Couraud,Sr,6'1,"Tourrettes sur du Loup, France",Missouri Baptist University,13.722595160024536,2.652347064623227
+1006,Megan Williams,So,5'10,"Ironton, Mo",Missouri Baptist University,25.44608595717226,6.394304831481489
+1007,Natalie Hecht,So,5'5,"St Louis, Mo",Missouri Baptist University,25.0,8.333333333333334
+1008,Rachel Luebbers,Jr,5'6,"St Louis, Mo",Missouri Baptist University,41.33625367571526,2.652347064623227
+1009,Rachel  Poole,So,5'10,"Marble Hill, Mo",Missouri Baptist University,35.7919612126692,2.5898005062696576
+1010,Sam Kurm,,,,Missouri Baptist University,20.987733464043075,5.0884728472465515
+1011,Sarah Wilson,Fr,5'6,"Desoto, Mo",Missouri Baptist University,44.72662821601102,4.02201809758425
+1012,Sarah Bolton,So,5'5,"St Louis, Mo",Missouri Baptist University,13.722595160024536,2.652347064623227
+1013,Amanda Burton,Jr,6'0,"Gilbert, Az",Benedictine,25.0,8.333333333333334
+1014,Anokina Mirzapour,Sr,5'6,"San Jose, Ca",Benedictine,37.92339169659492,2.4228399529455746
+1015,Ariah Evans,Jr,6'0,"Phoenix, Az",Benedictine,25.0,8.333333333333334
+1016,Benesia Rodriguez,So,5'3,"San Antonio, Tx",Benedictine,36.100914253743134,2.2815094948893346
+1017,Caitlan Sammons,So,5'7,"Chandler, Az",Benedictine,35.53952236707694,2.3261366938282633
+1018,Dani Burke,Jr,5'7,"Kennwick, Wa",Benedictine,19.673810108709496,6.394304831481489
+1019,Destiny Ramirez,So,5'4,"Laveen, Az",Benedictine,25.0,8.333333333333334
+1020,Hannah Marang,Sr,6'1,"Yakima, Wa",Benedictine,25.0,8.333333333333334
+1021,Hayden Boucher,Fr,5'2,"Phoenix, Az",Benedictine,36.100914253743134,2.2815094948893346
+1022,Jackie Woods,Fr,5'11,"Menifee, Ca",Benedictine,36.55769846327073,2.3261366938282633
+1023,Kassandra Renteria,So,5'8,"Tanopah, Az",Benedictine,37.92339169659492,2.4228399529455746
+1024,Kat McCullough,Fr,5'7,"Queen Creek, Az",Benedictine,36.55769846327073,2.3261366938282633
+1025,Leosha Barker,R-Jr,6'0,"Phoenix, Az",Benedictine,25.0,8.333333333333334
+1026,Lexi Fetui,Jr,5'8,"Las Vegas, Nv",Benedictine,25.0,8.333333333333334
+1027,Madison Peters,Sr,5'9,"Avondale, Az",Benedictine,22.60124084994309,6.809496968450191
+1028,Megan Block,Jr,6'0,"Scottsdale, Az",Benedictine,19.673810108709496,6.394304831481489
+1029,Mikayla Flores,R-Fr,5'7,"Florence, Az",Benedictine,25.0,8.333333333333334
+1030,Mykahla Smith,Fr,5'8,"Mesa, Az",Benedictine,25.0,8.333333333333334
+1031,Pinkie Ranger,So,5'6,"Phoenix, Az",Benedictine,25.0,8.333333333333334
+1032,Stephanie Burton,Sr,5'2,"Garden Grove, Ca",Benedictine,25.0,8.333333333333334
+1033,Sydney Nelson,So,6'0,"Gilbert, Az",Benedictine,35.53952236707694,2.3261366938282633
+1034,Taylor Bradley,Jr,5'9,"Maricopa, Az",Benedictine,43.044404471069846,2.9462227105393546
+1035,Victoria  Prokic,So,6'1,"Sykesville, Md",Stevenson,25.0,8.333333333333334
+1036,Annika Schwartz,Sr,5'10,"Damascus, Md",Stevenson,25.0,8.333333333333334
+1037,Caroline Dangel,So,5'6,"Sykesville, Md",Stevenson,25.0,8.333333333333334
+1038,Chelsea  Ireland,Jr,5'11,"Huntingtown, Md",Stevenson,25.0,8.333333333333334
+1039,Darian Hileman,So,5'11,"Bristow, Va",Stevenson,25.0,8.333333333333334
+1040,Emily Castro,So,5'9,"Whitehall, Pa",Stevenson,25.0,8.333333333333334
+1041,Jessi Freeman,Fr,5'10,"Virginia Beach, Va",Stevenson,25.0,8.333333333333334
+1042,Julie Nightwine,So,5'8,"Mechanicsburg, Pa",Stevenson,25.0,8.333333333333334
+1043,Katie Leftridge,So,5'10,"Felton, Pa",Stevenson,25.0,8.333333333333334
+1044,Katie McGuire,Sr,5'11,"Cornelius, N.C.",Stevenson,25.0,8.333333333333334
+1045,Lauren Jan,Jr,5'10,"Bethesda, Md",Stevenson,25.0,8.333333333333334
+1046,Lauren Weaver,Sr,5'10,"My Airy, Md",Stevenson,25.0,8.333333333333334
+1047,Lizi Cudal,Fr,5'8,"Carlsbad, Ca",Stevenson,25.0,8.333333333333334
+1048,Moriah Savage,Jr,5'9,"Owings Mill, Md",Stevenson,25.0,8.333333333333334
+1049,Rysleigh Reeves,Fr,5'9,"Williamsburg, Va",Stevenson,25.0,8.333333333333334
+1050,Sarah Riggin,Fr,5'4,"Sykesville, Md",Stevenson,25.0,8.333333333333334
+1051,Sarah Manderson,Fr,6'0,"Davidsonville, Md",Stevenson,25.0,8.333333333333334
+1052,Trang Christensen,So,5'6,"Mullica Hill, N.J.",Stevenson,25.0,8.333333333333334
+1053,Alexia Jeangrand,Fr,,"North Vancouver, Canada",Principia,25.0,8.333333333333334
+1054,Amanda Roberts,So,,"Alton, Ill",Principia,25.0,8.333333333333334
+1055,Anna Webster,So,,"St Louis, Mo",Principia,25.0,8.333333333333334
+1056,Cha Cha Fisher,Sr,,"Santa Barbara, Ca",Principia,25.0,8.333333333333334
+1057,Devon Marunde,So,,"Mchenry, Ill",Principia,25.0,8.333333333333334
+1058,Emelie Frederikson,GS,,"St Louis, Mo",Principia,25.0,8.333333333333334
+1059,Emma Herman,Sr,,"Walnut Creek, Ca",Principia,25.0,8.333333333333334
+1060,Jessica Bayne,Fr,,"Tequesta, Fl",Principia,25.0,8.333333333333334
+1061,Leigh Weathers,Jr,,"Ballwin, Mo",Principia,25.0,8.333333333333334
+1062,Libby Lewis,So,,"Chesterfield, Mo",Principia,25.0,8.333333333333334
+1063,Makena Patterson,Jr,,"St Louis, Mo",Principia,25.0,8.333333333333334
+1064,Mesa Goebel,So,,"Custer, S.D.",Principia,25.0,8.333333333333334
+1065,Nikki Matters,So,,"Mount Prospect, Ill",Principia,25.0,8.333333333333334
+1066,Sarah Ungerleider,Fr,,"Cherry Hill, N.J.",Principia,25.0,8.333333333333334
+1067,Victoria Vandiver,So,,"St Louis, Mo",Principia,25.0,8.333333333333334
+1068,Alexandra Gonzalez,Fr,5'7,"Miami, Fl",Warner,25.0,8.333333333333334
+1069,Anna Baker,So,5'11,"Glen Ridge, NJ",Warner,25.0,8.333333333333334
+1070,Ashley Kube,So,5'8,"Merritt Island, Fl",Warner,25.0,8.333333333333334
+1071,Becca Bowlin,So,5'9,"Peoria, Ill",Warner,25.0,8.333333333333334
+1072,Chelsea Forbes,Fr,5'7,"Jacksonville, Fl",Warner,25.0,8.333333333333334
+1073,Cheyenne Miller,So,5'11,"Sarasota, Fl",Warner,25.0,8.333333333333334
+1074,Keana Smalls,Jr,5'9,"Layton, Utah",Warner,25.0,8.333333333333334
+1075,Madison Kleinmeier,Fr,5'9,"Dunedin, Fl",Warner,25.0,8.333333333333334
+1076,Marissa Intoppa,Sr,5'8,"Lake Worth, Fl",Warner,25.0,8.333333333333334
+1077,Shelby McCulley,Fr,5'8,"Orlando, Fl",Warner,25.0,8.333333333333334
+1078,Sydney Ackermann,Fr,5'11,"Sanford, Fl",Warner,25.0,8.333333333333334
+1079,Vanessa Boitnott,Jr,5'10,"West Palm Beach, Fl",Warner,25.0,8.333333333333334
+1080,Abby Cash,GS,5'10,"New Carlisle, Oh",Lincoln Memorial,46.12798915457211,1.9932270183499219
+1081,Alicia Kessler,Fr,6'2,"Jackson Center, Oh",Lincoln Memorial,25.0,8.333333333333334
+1082,Beka Wachob,So,5'8,"Milton, Fl",Lincoln Memorial,45.145536595993796,2.088947496830355
+1083,Danielle Ged,Jr,5'10,"Smyrna, Tn",Lincoln Memorial,40.39671578717881,1.9932270183499219
+1084,Danielle Stachura,R-So,5'7,"Pleasant Prairie, Wi",Lincoln Memorial,21.555606436524513,2.1604329520970493
+1085,Erica Whiteaker,Jr,5'3,"Kingston Springs, Tn",Lincoln Memorial,33.61170855797785,3.575667513246407
+1086,Hailey Lake,Fr,5'4,"New Port Richey, Fl",Lincoln Memorial,40.39671578717881,1.9932270183499219
+1087,Kai Wesemann,Jr,5'10,"Pleasant Hill, Mo",Lincoln Memorial,21.555606436524513,2.1604329520970493
+1088,Kayla Kidney,Sr,5'9,"Chandler, Az",Lincoln Memorial,25.0,8.333333333333334
+1089,Lindsey Nartker,So,5'10,"New Carlisle, Oh",Lincoln Memorial,46.12798915457211,1.9932270183499219
+1090,Olivia Brock,Fr,5'10,"Lima, Oh",Lincoln Memorial,25.0,8.333333333333334
+1091,Rylee Storms,R-So,6'0,"Grand Rapids, Mi",Lincoln Memorial,33.61170855797785,3.575667513246407
+1092,Sarah  Jones,Fr,5'4,"Murfreesboro, Tn",Lincoln Memorial,25.0,8.333333333333334
+1093,Shyanne Tallman,Fr,5'5,"Camp Lejeune, NC",Lincoln Memorial,25.0,8.333333333333334
+1094,Sidney Killingsworth,Fr,6'2,"Chattanooga, Tn",Lincoln Memorial,25.0,8.333333333333334
+1095,Tone Gill,R-Jr,5'9,"Nashville, Tn",Lincoln Memorial,45.145536595993796,2.088947496830355
+1096,Amber Lake,So,5'9,"New Port Richey, Fl",Webber,19.32250370364699,2.4228399529455746
+1097,Carlee Baxter,So,5'6,"Daytona Beach, Fl",Webber,19.32250370364699,2.4228399529455746
+1098,Emily Bowen,Fr,5'10,"Olathe, Ks",Webber,35.20978947509101,2.3261366938282633
+1099,Hannah Tannone,So,5'6,"West Palm, Fl",Webber,35.20978947509101,2.3261366938282633
+1100,Jessica Terry,Fr,5'8,"Phoenix, Az",Webber,46.07898530407305,3.860489524026792
+1101,Jordan McIntyre,So,5'7,"Spring Hill, Fl",Webber,25.0,8.333333333333334
+1102,Kaxandra Naranjo,Sr,5'7,"Phoenix, Az",Webber,34.52068473369755,2.373181267217594
+1103,Kobi Allston,Fr,5'8,"San Leandro, Ca",Webber,18.477242189264036,2.5898005062696576
+1104,Laura Embry,So,5'9,"Warburton, Australia",Webber,43.65719233043909,2.373181267217594
+1105,Molly Fusarelli,Fr,5'8,"Orange, Conn",Webber,34.52068473369755,2.373181267217594
+1106,Salla Rautiainen,Fr,5'10,Finland,Webber,43.65719233043909,2.373181267217594
+1107,Teryn Mills,Jr,5'2,"Parker, Co",Webber,18.477242189264036,2.5898005062696576
+1108,Addison Genard,Fr,,"Mobile, Al",Huntingdon,34.321185998510266,2.475330544877422
+1109,Alex Hillman,Jr,5'4,"Muscle Shoals, Al",Huntingdon,25.0,8.333333333333334
+1110,Alexis Creasman,So,5'9,"Mary Esther, Fl",Huntingdon,22.702869201524962,6.018292133482491
+1111,Amy Tyma,Fr,,"Cleveland, Oh",Huntingdon,17.540130495571354,2.5898005062696576
+1112,April Reese,So,,"Starkville, Ms",Huntingdon,25.0,8.333333333333334
+1113,Bria Rochelle,Sr,5'6,"Mobile, Al",Huntingdon,22.702869201524962,6.018292133482491
+1114,Cheyenne Scarborough,Fr,,"Virginia Beach, Va",Huntingdon,34.321185998510266,2.475330544877422
+1115,Emily Fedonczak,Fr,,"Niceville, Fl",Huntingdon,36.72855999280969,2.4228399529455746
+1116,Jessica Brunk,Fr,,"Prattville, Al",Huntingdon,25.0,8.333333333333334
+1117,Kaitlyn Carter,Jr,5'8,"Enterprise, Ga",Huntingdon,17.540130495571354,2.5898005062696576
+1118,Lexie DeVuyst,So,5'8,"Blountstown, Fl",Huntingdon,41.01678478844307,2.5898005062696576
+1119,Margaret Rhodes,Fr,,"Montgomery, Al",Huntingdon,25.0,8.333333333333334
+1120,Nichole LeFevre,Jr,,"Crestview, Fl",Huntingdon,36.72855999280969,2.4228399529455746
+1121,Shelby McAllister,Fr,,"Franklin, Tn",Huntingdon,41.01678478844307,2.5898005062696576
+1122,Shelby Young,So,5'8,"Niceville, Fl",Huntingdon,25.0,8.333333333333334
+1123,Alyssa Doucette,Fr,6'0,"Eagan, Mn",Missouri State,25.0,8.333333333333334
+1124,Ashley Ophoven,Jr,6'1,"Ozark, Mo",Missouri State,25.0,8.333333333333334
+1125,Aubrey Cheffey,So,6'2,"Nixa, Mo",Missouri State,32.45291548427798,3.449798020573539
+1126,Caroline Finnell,Sr,6'1,"Chesterfield, Mo",Missouri State,40.063861826795694,2.475330544877422
+1127,Ivy Reynolds,GS,5'11,"Ozark, Mo",Missouri State,35.6705707985888,2.4228399529455746
+1128,Julia Hanson,So,6'0,"Fort Atkinson, Wis",Missouri State,16.384596051805016,6.809496968450191
+1129,Kelsey Larsen,So,5'9,"Springfield, Mo",Missouri State,16.384596051805016,6.809496968450191
+1130,Keylee Hawkins,Jr,5'9,"Nixa, Mo",Missouri State,25.0,8.333333333333334
+1131,Lynsey Wright,Sr,6'0,"Glen Carbon, Ill",Missouri State,35.6705707985888,2.4228399529455746
+1132,Maddie Beck,Fr,5'9,"Hot Springs, Ark",Missouri State,23.27280207046728,5.368757712330199
+1133,Mikaela Mosquera,Jr,6'1,"West Chicago, Ill",Missouri State,36.39051163636083,2.475330544877422
+1134,Sam Brinkmann,Fr,5'8,"St Louis, Mo",Missouri State,36.39051163636083,2.475330544877422
+1135,Sarah Demmer,Sr,6'0,"Lee's Summit, Mo",Missouri State,40.06386182679569,2.475330544877422
+1136,Sydney Wright,So,5'8,"Glen Carbon, Ill",Missouri State,25.0,8.333333333333334
+1137,Taylor Fricano,GS,6'4,"Palatine, Ill",Missouri State,37.4101125256585,2.475330544877422
+1138,Veronica Snelling,Fr,5'10,"Glen Ellyn, Ill",Missouri State,37.4101125256585,2.475330544877422
+1139,Alyssa Doucette,Fr,6'0,"Eagan, Mn",Irvine Valley College,25.0,8.333333333333334
+1140,Ashley Ophoven,Jr,6'1,"Ozark, Mo",Irvine Valley College,25.0,8.333333333333334
+1141,Aubrey Cheffey,So,6'2,"Nixa, Mo",Irvine Valley College,32.45291548427798,3.449798020573539
+1142,Caroline Finnell,Sr,6'1,"Chesterfield, Mo",Irvine Valley College,40.063861826795694,2.475330544877422
+1143,Ivy Reynolds,GS,5'11,"Ozark, Mo",Irvine Valley College,35.6705707985888,2.4228399529455746
+1144,Julia Hanson,So,6'0,"Fort Atkinson, Wis",Irvine Valley College,16.384596051805016,6.809496968450191
+1145,Kelsey Larsen,So,5'9,"Springfield, Mo",Irvine Valley College,16.384596051805016,6.809496968450191
+1146,Keylee Hawkins,Jr,5'9,"Nixa, Mo",Irvine Valley College,25.0,8.333333333333334
+1147,Lynsey Wright,Sr,6'0,"Glen Carbon, Ill",Irvine Valley College,35.6705707985888,2.4228399529455746
+1148,Maddie Beck,Fr,5'9,"Hot Springs, Ark",Irvine Valley College,23.27280207046728,5.368757712330199
+1149,Mikaela Mosquera,Jr,6'1,"West Chicago, Ill",Irvine Valley College,36.39051163636083,2.475330544877422
+1150,Sam Brinkmann,Fr,5'8,"St Louis, Mo",Irvine Valley College,36.39051163636083,2.475330544877422
+1151,Sarah Demmer,Sr,6'0,"Lee's Summit, Mo",Irvine Valley College,40.06386182679569,2.475330544877422
+1152,Sydney Wright,So,5'8,"Glen Carbon, Ill",Irvine Valley College,25.0,8.333333333333334
+1153,Taylor Fricano,GS,6'4,"Palatine, Ill",Irvine Valley College,37.4101125256585,2.475330544877422
+1154,Veronica Snelling,Fr,5'10,"Glen Ellyn, Ill",Irvine Valley College,37.4101125256585,2.475330544877422
+1155,Angela Docena,Fr,5'2,Escondido HS,Mira Costa College,25.0,8.333333333333334
+1156,Bella  Gama,Fr,5'8,Ridgefield HS,Mira Costa College,25.0,8.333333333333334
+1157,Celin Macdonald,Fr,6'2,Maple Mountain HS,Mira Costa College,25.0,8.333333333333334
+1158,Chloe Tripp,So,6'0,McKinleyville HS,Mira Costa College,25.0,8.333333333333334
+1159,Claire Kinder,So,5'10,Arcata HS,Mira Costa College,25.0,8.333333333333334
+1160,Claudia Mathews,So,5'11,La Costa Canyon HS,Mira Costa College,25.0,8.333333333333334
+1161,Halie Hess,Fr,5'9,Roseville HS,Mira Costa College,25.0,8.333333333333334
+1162,Hayley Huntsman,So,5'11,Bonanza HS,Mira Costa College,25.0,8.333333333333334
+1163,Jazleigh Ortiz,So,5'8,Imperial HS,Mira Costa College,25.0,8.333333333333334
+1164,Kacy Hele,R-Fr,5'8,Granite Hills HS,Mira Costa College,25.0,8.333333333333334
+1165,Lana Salzar,So,5'7,Española Valley HS,Mira Costa College,25.0,8.333333333333334
+1166,Madison Merkow,Fr,5'8,Chaparral HS,Mira Costa College,25.0,8.333333333333334
+1167,Madison Anderson,Fr,6'1,Ralston Valley HS,Mira Costa College,25.0,8.333333333333334
+1168,Michelle Mason,Fr,5'6,Wood River HS,Mira Costa College,25.0,8.333333333333334
+1169,Reilly Bosworth,So,6'1,San Pasqual HS,Mira Costa College,25.0,8.333333333333334
+1170,Savannah Castellanos,Fr,5'6,Torrey Pines HS,Mira Costa College,25.0,8.333333333333334
+1171,Violeti Faleumu,So,6'0,Vista HS,Mira Costa College,25.0,8.333333333333334
+1172,Angela Docena,Fr,5'2,Escondido HS,Victor Valley College,25.0,8.333333333333334
+1173,Bella  Gama,Fr,5'8,Ridgefield HS,Victor Valley College,25.0,8.333333333333334
+1174,Celin Macdonald,Fr,6'2,Maple Mountain HS,Victor Valley College,25.0,8.333333333333334
+1175,Chloe Tripp,So,6'0,McKinleyville HS,Victor Valley College,25.0,8.333333333333334
+1176,Claire Kinder,So,5'10,Arcata HS,Victor Valley College,25.0,8.333333333333334
+1177,Claudia Mathews,So,5'11,La Costa Canyon HS,Victor Valley College,25.0,8.333333333333334
+1178,Halie Hess,Fr,5'9,Roseville HS,Victor Valley College,25.0,8.333333333333334
+1179,Hayley Huntsman,So,5'11,Bonanza HS,Victor Valley College,25.0,8.333333333333334
+1180,Jazleigh Ortiz,So,5'8,Imperial HS,Victor Valley College,25.0,8.333333333333334
+1181,Kacy Hele,R-Fr,5'8,Granite Hills HS,Victor Valley College,25.0,8.333333333333334
+1182,Lana Salzar,So,5'7,Española Valley HS,Victor Valley College,25.0,8.333333333333334
+1183,Madison Merkow,Fr,5'8,Chaparral HS,Victor Valley College,25.0,8.333333333333334
+1184,Madison Anderson,Fr,6'1,Ralston Valley HS,Victor Valley College,25.0,8.333333333333334
+1185,Michelle Mason,Fr,5'6,Wood River HS,Victor Valley College,25.0,8.333333333333334
+1186,Reilly Bosworth,So,6'1,San Pasqual HS,Victor Valley College,25.0,8.333333333333334
+1187,Savannah Castellanos,Fr,5'6,Torrey Pines HS,Victor Valley College,25.0,8.333333333333334
+1188,Violeti Faleumu,So,6'0,Vista HS,Victor Valley College,25.0,8.333333333333334
+1189,Angela Docena,Fr,5'2,Escondido HS,Cabrillo,25.0,8.333333333333334
+1190,Bella  Gama,Fr,5'8,Ridgefield HS,Cabrillo,25.0,8.333333333333334
+1191,Celin Macdonald,Fr,6'2,Maple Mountain HS,Cabrillo,25.0,8.333333333333334
+1192,Chloe Tripp,So,6'0,McKinleyville HS,Cabrillo,25.0,8.333333333333334
+1193,Claire Kinder,So,5'10,Arcata HS,Cabrillo,25.0,8.333333333333334
+1194,Claudia Mathews,So,5'11,La Costa Canyon HS,Cabrillo,25.0,8.333333333333334
+1195,Halie Hess,Fr,5'9,Roseville HS,Cabrillo,25.0,8.333333333333334
+1196,Hayley Huntsman,So,5'11,Bonanza HS,Cabrillo,25.0,8.333333333333334
+1197,Jazleigh Ortiz,So,5'8,Imperial HS,Cabrillo,25.0,8.333333333333334
+1198,Kacy Hele,R-Fr,5'8,Granite Hills HS,Cabrillo,25.0,8.333333333333334
+1199,Lana Salzar,So,5'7,Española Valley HS,Cabrillo,25.0,8.333333333333334
+1200,Madison Merkow,Fr,5'8,Chaparral HS,Cabrillo,25.0,8.333333333333334
+1201,Madison Anderson,Fr,6'1,Ralston Valley HS,Cabrillo,25.0,8.333333333333334
+1202,Michelle Mason,Fr,5'6,Wood River HS,Cabrillo,25.0,8.333333333333334
+1203,Reilly Bosworth,So,6'1,San Pasqual HS,Cabrillo,25.0,8.333333333333334
+1204,Savannah Castellanos,Fr,5'6,Torrey Pines HS,Cabrillo,25.0,8.333333333333334
+1205,Violeti Faleumu,So,6'0,Vista HS,Cabrillo,25.0,8.333333333333334
+1206,Angela Docena,Fr,5'2,Escondido HS,Foothill College,25.0,8.333333333333334
+1207,Bella  Gama,Fr,5'8,Ridgefield HS,Foothill College,25.0,8.333333333333334
+1208,Celin Macdonald,Fr,6'2,Maple Mountain HS,Foothill College,25.0,8.333333333333334
+1209,Chloe Tripp,So,6'0,McKinleyville HS,Foothill College,25.0,8.333333333333334
+1210,Claire Kinder,So,5'10,Arcata HS,Foothill College,25.0,8.333333333333334
+1211,Claudia Mathews,So,5'11,La Costa Canyon HS,Foothill College,25.0,8.333333333333334
+1212,Halie Hess,Fr,5'9,Roseville HS,Foothill College,25.0,8.333333333333334
+1213,Hayley Huntsman,So,5'11,Bonanza HS,Foothill College,25.0,8.333333333333334
+1214,Jazleigh Ortiz,So,5'8,Imperial HS,Foothill College,25.0,8.333333333333334
+1215,Kacy Hele,R-Fr,5'8,Granite Hills HS,Foothill College,25.0,8.333333333333334
+1216,Lana Salzar,So,5'7,Española Valley HS,Foothill College,25.0,8.333333333333334
+1217,Madison Merkow,Fr,5'8,Chaparral HS,Foothill College,25.0,8.333333333333334
+1218,Madison Anderson,Fr,6'1,Ralston Valley HS,Foothill College,25.0,8.333333333333334
+1219,Michelle Mason,Fr,5'6,Wood River HS,Foothill College,25.0,8.333333333333334
+1220,Reilly Bosworth,So,6'1,San Pasqual HS,Foothill College,25.0,8.333333333333334
+1221,Savannah Castellanos,Fr,5'6,Torrey Pines HS,Foothill College,25.0,8.333333333333334
+1222,Violeti Faleumu,So,6'0,Vista HS,Foothill College,25.0,8.333333333333334
+1223,Camille Finley,Fr,6'1,San Benito HS,Gavilan College,25.0,8.333333333333334
+1224,Christa Arroyo,So,5'5,Christopher HS,Gavilan College,25.0,8.333333333333334
+1225,Emily  Jensen,Fr,6'2,Utah State,Gavilan College,25.0,8.333333333333334
+1226,Evelyn  Clonts,Fr,6'1,Gilroy HS,Gavilan College,25.0,8.333333333333334
+1227,Greysen Gilroy,Fr,5'7,Monte Vista Christian HS,Gavilan College,25.0,8.333333333333334
+1228,Haley Leifheit,So,5'11,San Benito HS,Gavilan College,25.0,8.333333333333334
+1229,Jenna Clonts,So,5'11,Gilroy HS,Gavilan College,25.0,8.333333333333334
+1230,Kaitlyn Viray,Fr,5'9,Christopher HS,Gavilan College,25.0,8.333333333333334
+1231,Kaitlyn Siaz,Fr,5'7,North Salinas HS,Gavilan College,25.0,8.333333333333334
+1232,Karishma Brooks,So,5'9,Mountain House HS,Gavilan College,25.0,8.333333333333334
+1233,Katie Dizon,Fr,5'8,Anzar HS,Gavilan College,25.0,8.333333333333334
+1234,Lex Chavarria,Fr,5'10,San Benito HS,Gavilan College,25.0,8.333333333333334
+1235,Mikeila Banda,Fr,5'8,Notre Dame Salinas HS,Gavilan College,25.0,8.333333333333334
+1236,Sarah Weiby,Fr,5'11,Gilroy HS,Gavilan College,25.0,8.333333333333334
+1237,Sierra Gaeta,So,5'5,Notre Dame San Jose HS,Gavilan College,25.0,8.333333333333334
+1238,Camille Finley,Fr,6'1,San Benito HS,West Valley College,25.0,8.333333333333334
+1239,Christa Arroyo,So,5'5,Christopher HS,West Valley College,25.0,8.333333333333334
+1240,Emily  Jensen,Fr,6'2,Utah State,West Valley College,25.0,8.333333333333334
+1241,Evelyn  Clonts,Fr,6'1,Gilroy HS,West Valley College,25.0,8.333333333333334
+1242,Greysen Gilroy,Fr,5'7,Monte Vista Christian HS,West Valley College,25.0,8.333333333333334
+1243,Haley Leifheit,So,5'11,San Benito HS,West Valley College,25.0,8.333333333333334
+1244,Jenna Clonts,So,5'11,Gilroy HS,West Valley College,25.0,8.333333333333334
+1245,Kaitlyn Viray,Fr,5'9,Christopher HS,West Valley College,25.0,8.333333333333334
+1246,Kaitlyn Siaz,Fr,5'7,North Salinas HS,West Valley College,25.0,8.333333333333334
+1247,Karishma Brooks,So,5'9,Mountain House HS,West Valley College,25.0,8.333333333333334
+1248,Katie Dizon,Fr,5'8,Anzar HS,West Valley College,25.0,8.333333333333334
+1249,Lex Chavarria,Fr,5'10,San Benito HS,West Valley College,25.0,8.333333333333334
+1250,Mikeila Banda,Fr,5'8,Notre Dame Salinas HS,West Valley College,25.0,8.333333333333334
+1251,Sarah Weiby,Fr,5'11,Gilroy HS,West Valley College,25.0,8.333333333333334
+1252,Sierra Gaeta,So,5'5,Notre Dame San Jose HS,West Valley College,25.0,8.333333333333334
+1253,Arizona Webb,Fr,5'8,Elko HS,Feather River College,25.0,8.333333333333334
+1254,Chloe Hampton,Fr,5'11,"Oakland, Ca",Feather River College,25.0,8.333333333333334
+1255,Cortney Blumenthal,Fr,5'8,Boulder City HS,Feather River College,25.0,8.333333333333334
+1256,Cyan Blackdeer,So,5'9,Legend HS,Feather River College,25.0,8.333333333333334
+1257,Delihah Cardenas,Fr,5'7,Eastwood HS,Feather River College,25.0,8.333333333333334
+1258,Jada Barnes,Fr,5'4,Bret Harte HS,Feather River College,25.0,8.333333333333334
+1259,Jillian Wright,So,5'11,Elko HS,Feather River College,25.0,8.333333333333334
+1260,Kaaleya Price,Fr,5'9,Midwest Christian Academy,Feather River College,25.0,8.333333333333334
+1261,Kaitlyn Dingle,Fr,5'7,Quincy HS,Feather River College,25.0,8.333333333333334
+1262,Katie McKay,So,5'7,Terra Nova HS,Feather River College,25.0,8.333333333333334
+1263,Kyla Kincaid,So,5'4,Churchill County HS,Feather River College,25.0,8.333333333333334
+1264,Madison Howard,Fr,5'10,Kimball HS,Feather River College,25.0,8.333333333333334
+1265,Precious Helekahi,So,5'3,Hana HS,Feather River College,25.0,8.333333333333334
+1266,Ramsey Weber,So,5'8,Willows HS,Feather River College,25.0,8.333333333333334
+1267,Rebekah Grammer,Fr,5'5,Quincy HS,Feather River College,25.0,8.333333333333334
+1268,Anastasia McCauley,Fr,,Arcata HS,College of the Redwoods,25.0,8.333333333333334
+1269,Courtney Wilkinson,So,,La Quinta HS,College of the Redwoods,25.0,8.333333333333334
+1270,Elise Wilson,Fr,,Golden Sierra HS,College of the Redwoods,25.0,8.333333333333334
+1271,Katy Shumard,Fr,,Eureka HS,College of the Redwoods,25.0,8.333333333333334
+1272,Luz Chavez-Contreras,Fr,,Arcata HS,College of the Redwoods,25.0,8.333333333333334
+1273,Magnolia Gutierrez,Fr,,East Union HS,College of the Redwoods,25.0,8.333333333333334
+1274,Savannah Humburger,Fr,,Earnest McBride HS,College of the Redwoods,25.0,8.333333333333334
+1275,Anastasia McCauley,Fr,,Arcata HS,San Joaquin Delta College,25.0,8.333333333333334
+1276,Courtney Wilkinson,So,,La Quinta HS,San Joaquin Delta College,25.0,8.333333333333334
+1277,Elise Wilson,Fr,,Golden Sierra HS,San Joaquin Delta College,25.0,8.333333333333334
+1278,Katy Shumard,Fr,,Eureka HS,San Joaquin Delta College,25.0,8.333333333333334
+1279,Luz Chavez-Contreras,Fr,,Arcata HS,San Joaquin Delta College,25.0,8.333333333333334
+1280,Magnolia Gutierrez,Fr,,East Union HS,San Joaquin Delta College,25.0,8.333333333333334
+1281,Savannah Humburger,Fr,,Earnest McBride HS,San Joaquin Delta College,25.0,8.333333333333334
+1282,Alex Cook,Fr,5'7,Nevada Union HS,Sierra College,25.0,8.333333333333334
+1283,Bella Orteza,So,5'3,Placer HS,Sierra College,25.0,8.333333333333334
+1284,Brittany Boerstra,So,5'11,"Osterhout, Netherlands",Sierra College,25.0,8.333333333333334
+1285,Gabrielle Roberts,Fr,6'3,Whitnery HS,Sierra College,25.0,8.333333333333334
+1286,Grace Sanders,Fr,6'0,Foresthill HS,Sierra College,25.0,8.333333333333334
+1287,Grace Lemmo,So,5'7,Vista del Lago HS,Sierra College,25.0,8.333333333333334
+1288,Jasmine Dean,Fr,5'11,Colfax HS,Sierra College,25.0,8.333333333333334
+1289,Kalala Strickland,So,5'10,Oakmont HS,Sierra College,25.0,8.333333333333334
+1290,Kapri Pelle,Fr,5'11,Placer HS,Sierra College,25.0,8.333333333333334
+1291,Kylie Shinn,So,5'10,Colfax HS,Sierra College,25.0,8.333333333333334
+1292,Maddy Rowland,So,5'10,Casa Roble HS,Sierra College,25.0,8.333333333333334
+1293,Madison Meteer,Fr,5'10,Del Oro HS,Sierra College,25.0,8.333333333333334
+1294,Meghan Merlino,Fr,5'10,Rio Americano HS,Sierra College,25.0,8.333333333333334
+1295,Ryan Blackwood,So,5'2,Roseville HS,Sierra College,25.0,8.333333333333334
+1296,Sara Schell,Fr,5'11,Bear River HS,Sierra College,25.0,8.333333333333334
+1297,Savannah Schroeder,Fr,5'9,Ponderosa HS,Sierra College,25.0,8.333333333333334
+1298,Alex Cook,Fr,5'7,Nevada Union HS,Cypress College,25.0,8.333333333333334
+1299,Bella Orteza,So,5'3,Placer HS,Cypress College,25.0,8.333333333333334
+1300,Brittany Boerstra,So,5'11,"Osterhout, Netherlands",Cypress College,25.0,8.333333333333334
+1301,Gabrielle Roberts,Fr,6'3,Whitnery HS,Cypress College,25.0,8.333333333333334
+1302,Grace Sanders,Fr,6'0,Foresthill HS,Cypress College,25.0,8.333333333333334
+1303,Grace Lemmo,So,5'7,Vista del Lago HS,Cypress College,25.0,8.333333333333334
+1304,Jasmine Dean,Fr,5'11,Colfax HS,Cypress College,25.0,8.333333333333334
+1305,Kalala Strickland,So,5'10,Oakmont HS,Cypress College,25.0,8.333333333333334
+1306,Kapri Pelle,Fr,5'11,Placer HS,Cypress College,25.0,8.333333333333334
+1307,Kylie Shinn,So,5'10,Colfax HS,Cypress College,25.0,8.333333333333334
+1308,Maddy Rowland,So,5'10,Casa Roble HS,Cypress College,25.0,8.333333333333334
+1309,Madison Meteer,Fr,5'10,Del Oro HS,Cypress College,25.0,8.333333333333334
+1310,Meghan Merlino,Fr,5'10,Rio Americano HS,Cypress College,25.0,8.333333333333334
+1311,Ryan Blackwood,So,5'2,Roseville HS,Cypress College,25.0,8.333333333333334
+1312,Sara Schell,Fr,5'11,Bear River HS,Cypress College,25.0,8.333333333333334
+1313,Savannah Schroeder,Fr,5'9,Ponderosa HS,Cypress College,25.0,8.333333333333334
+1314,Andrea Lopez,Fr,5'8,Mater Dei HS,Fullerton College,20.925441431910865,3.2257585268563194
+1315,Ashley Pruitt,Fr,5'6,El Dorado HS,Fullerton College,25.0,8.333333333333334
+1316,Carlie Ortega,Fr,5'6,Bishop Amat HS,Fullerton College,20.925441431910865,3.2257585268563194
+1317,Catherine Serna,Fr,5'7,John F. Kennedy HS,Fullerton College,25.0,8.333333333333334
+1318,Kailyn Case,Fr,5'11,Yorba Linda HS,Fullerton College,25.0,8.333333333333334
+1319,Kaylyn Johnson,Fr,5'11,Colony HS,Fullerton College,25.0,8.333333333333334
+1320,Kendall Campos,Fr,5'7,Esperanza HS,Fullerton College,25.0,8.333333333333334
+1321,Kristine Perez,So,5'7,Valencia HS,Fullerton College,25.0,8.333333333333334
+1322,Lauren Schaefer,Fr,5'9,Yorba Linda HS,Fullerton College,25.0,8.333333333333334
+1323,Nakitta Masoe,Fr,5'9,Garden Grove HS,Fullerton College,25.0,8.333333333333334
+1324,Prescilla Gutierrez,Fr,5'5,Los Altos HS,Fullerton College,25.0,8.333333333333334
+1325,Samaria Longstreet,Fr,5'11,Lakewood HS,Fullerton College,25.0,8.333333333333334
+1326,Akimi Fujikura,So,,Irvine HS,Golden West College,25.0,8.333333333333334
+1327,Amanda Sosa,So,,Huntington Beach HS,Golden West College,25.0,8.333333333333334
+1328,Andrea Gonzalez,So,,Redondo Union HS,Golden West College,25.0,8.333333333333334
+1329,Ashleigh Atsaros,So,,Huntington Beach HS,Golden West College,25.0,8.333333333333334
+1330,Cherene Uale,So,,Hillsdale HS,Golden West College,25.0,8.333333333333334
+1331,Eden Vawaardenburg,Fr,,Marina HS,Golden West College,25.0,8.333333333333334
+1332,Erica Cantley,So,,Cypress HS,Golden West College,25.0,8.333333333333334
+1333,Holly Hennessy,Fr,,Marina HS,Golden West College,25.0,8.333333333333334
+1334,Jasmine Gonzalez,So,,,Golden West College,25.0,8.333333333333334
+1335,Jennifer Pham,Fr,,Westminster HS,Golden West College,25.0,8.333333333333334
+1336,Keilani Pearson,Fr,,Huntington Beach HS,Golden West College,25.0,8.333333333333334
+1337,Melissa Martinez,So,,,Golden West College,25.0,8.333333333333334
+1338,Akimi Fujikura,So,,Irvine HS,Antelope Valley College,25.0,8.333333333333334
+1339,Amanda Sosa,So,,Huntington Beach HS,Antelope Valley College,25.0,8.333333333333334
+1340,Andrea Gonzalez,So,,Redondo Union HS,Antelope Valley College,25.0,8.333333333333334
+1341,Ashleigh Atsaros,So,,Huntington Beach HS,Antelope Valley College,25.0,8.333333333333334
+1342,Cherene Uale,So,,Hillsdale HS,Antelope Valley College,25.0,8.333333333333334
+1343,Eden Vawaardenburg,Fr,,Marina HS,Antelope Valley College,25.0,8.333333333333334
+1344,Erica Cantley,So,,Cypress HS,Antelope Valley College,25.0,8.333333333333334
+1345,Holly Hennessy,Fr,,Marina HS,Antelope Valley College,25.0,8.333333333333334
+1346,Jasmine Gonzalez,So,,,Antelope Valley College,25.0,8.333333333333334
+1347,Jennifer Pham,Fr,,Westminster HS,Antelope Valley College,25.0,8.333333333333334
+1348,Keilani Pearson,Fr,,Huntington Beach HS,Antelope Valley College,25.0,8.333333333333334
+1349,Melissa Martinez,So,,,Antelope Valley College,25.0,8.333333333333334
+1350,Alex Paris,So,5'10,Stockdale HS,Bakersfield College,25.0,8.333333333333334
+1351,Bianca Logsdon,Fr,5'11,Stockdale HS,Bakersfield College,25.0,8.333333333333334
+1352,Brooke Horack,So,5'10,Centennial HS,Bakersfield College,25.0,8.333333333333334
+1353,Caitlyn Foreman,Fr,5'8,,Bakersfield College,25.0,8.333333333333334
+1354,Haley Sanchez,So,5'5,Centennial HS,Bakersfield College,25.0,8.333333333333334
+1355,Jourdan Muro,So,5'10,Centennial HS,Bakersfield College,25.0,8.333333333333334
+1356,Rachel Hoover,Fr,5'10,Garces Memorial HS,Bakersfield College,25.0,8.333333333333334
+1357,Reece Stevenson,So,5'6,Centennial HS,Bakersfield College,25.0,8.333333333333334
+1358,Sarah Armendariz,Fr,5'9,Clovis West HS,Bakersfield College,25.0,8.333333333333334
+1359,Shyanne Baez,Fr,5'4,Golden Valley HS,Bakersfield College,25.0,8.333333333333334
+1360,Alex Paris,So,5'10,Stockdale HS,Moorpark College,25.0,8.333333333333334
+1361,Bianca Logsdon,Fr,5'11,Stockdale HS,Moorpark College,25.0,8.333333333333334
+1362,Brooke Horack,So,5'10,Centennial HS,Moorpark College,25.0,8.333333333333334
+1363,Caitlyn Foreman,Fr,5'8,,Moorpark College,25.0,8.333333333333334
+1364,Haley Sanchez,So,5'5,Centennial HS,Moorpark College,25.0,8.333333333333334
+1365,Jourdan Muro,So,5'10,Centennial HS,Moorpark College,25.0,8.333333333333334
+1366,Rachel Hoover,Fr,5'10,Garces Memorial HS,Moorpark College,25.0,8.333333333333334
+1367,Reece Stevenson,So,5'6,Centennial HS,Moorpark College,25.0,8.333333333333334
+1368,Sarah Armendariz,Fr,5'9,Clovis West HS,Moorpark College,25.0,8.333333333333334
+1369,Shyanne Baez,Fr,5'4,Golden Valley HS,Moorpark College,25.0,8.333333333333334
+1370,Armonee Hunter,So,5'9,Ventura HS,Ventura College,25.0,8.333333333333334
+1371,Braxton Jessie,So,5'9,Kearney HS,Ventura College,25.0,8.333333333333334
+1372,Carina Cates,So,5'9,Pacifica HS,Ventura College,25.0,8.333333333333334
+1373,Caryssa Castrejon,R-So,5'5,Ventura HS,Ventura College,25.0,8.333333333333334
+1374,Daisy  Martinez,So,5'4,St Bonaventure HS,Ventura College,25.0,8.333333333333334
+1375,Danielle Garcia,Fr,5'6,Camarillo HS,Ventura College,25.0,8.333333333333334
+1376,Janessa Simental,So,5'7,Oxnard HS,Ventura College,25.0,8.333333333333334
+1377,Jordan Neria,Fr,5'5,Buena HS,Ventura College,25.0,8.333333333333334
+1378,Kasie Spencer,Fr,5'7,Foothill Tech HS,Ventura College,25.0,8.333333333333334
+1379,Madoline Bolish,R-So,5'10,Oxnard HS,Ventura College,25.0,8.333333333333334
+1380,Payton Greiner,R-So,5'10,Foothill Tech HS,Ventura College,25.0,8.333333333333334
+1381,Shea McKeown,Fr,5'6,Oxnard HS,Ventura College,25.0,8.333333333333334
+1382,Sofia Gomez,Fr,5'9,Oxnard HS,Ventura College,25.0,8.333333333333334
+1383,Taylor Benitez-Fanslow,Fr,5'10,Thousand Oaks HS,Ventura College,25.0,8.333333333333334
+1384,Alex Hayes,So,5'5,Mission Viejo HS,Orange Coast College,25.0,8.333333333333334
+1385,Devyn Holland,Fr,5'10,Santiago HS,Orange Coast College,19.982504457398207,3.1257936082736575
+1386,Enjelica Glatti,So,5'8,Woodbridge HS,Orange Coast College,25.0,8.333333333333334
+1387,Georgia Grisham,Fr,5'6,Huntington Beach HS,Orange Coast College,25.0,8.333333333333334
+1388,Hannah Reid,Fr,5'5,Huntington Beach HS,Orange Coast College,25.0,8.333333333333334
+1389,Hannah Del Barto,Fr,5'5,"Vista Ridge, Tx",Orange Coast College,25.0,8.333333333333334
+1390,Jadelyn Forgiarini,So,5'9,Edison HS,Orange Coast College,25.0,8.333333333333334
+1391,Kacey Mathieson,Fr,5'6,Edison HS,Orange Coast College,25.0,8.333333333333334
+1392,Keika Yoshizumi,So,5'7,La Quinta HS,Orange Coast College,25.0,8.333333333333334
+1393,Molly Thee,Fr,5'5,Aliso Niguel HS,Orange Coast College,25.0,8.333333333333334
+1394,Rylee Adair,Fr,5'2,"St Francis, Hi",Orange Coast College,19.982504457398207,3.1257936082736575
+1395,Sierra Lim,So,5'5,"Kaiser, Hi",Orange Coast College,25.0,8.333333333333334
+1396,Sophie Ajang,Fr,5'7,Del Norte HS,Orange Coast College,25.0,8.333333333333334
+1397,Tileree Johnson,Fr,5'8,"Castle, Hi",Orange Coast College,25.0,8.333333333333334
+1398,Brittney Diffine,So,5'7,Poly HS,Riverside City College,25.0,8.333333333333334
+1399,Delaney Beck,So,5'8,Poly HS,Riverside City College,25.0,8.333333333333334
+1400,Julia Balancier,Fr,5'9,MLK HS,Riverside City College,25.0,8.333333333333334
+1401,Kiara Oregon,Fr,5'8,Hillcrest HS,Riverside City College,25.0,8.333333333333334
+1402,Lauren Dunmore,Fr,6'0,King HS,Riverside City College,25.0,8.333333333333334
+1403,Madison Bogh,Fr,5'11,Citrus HS,Riverside City College,31.711316793148278,5.677620099312075
+1404,Marcella Rodriguez,Fr,5'7,Moreno Valley HS,Riverside City College,25.0,8.333333333333334
+1405,Natalie Escher,Fr,5'8,Redlands HS,Riverside City College,25.0,8.333333333333334
+1406,Patricia Brucks,Fr,5'4,Poly HS,Riverside City College,25.0,8.333333333333334
+1407,Roni Lopez,Fr,5'3,Grand Terrace HS,Riverside City College,31.711316793148278,5.677620099312075
+1408,Rozarya Barrett,Fr,5'10,Upland HS,Riverside City College,25.0,8.333333333333334
+1409,Taylor Gardner,Fr,5'3,Grand Terrace HS,Riverside City College,25.0,8.333333333333334
+1410,Telanni Childs,Fr,6'1,Upland HS,Riverside City College,25.0,8.333333333333334
+1411,Vanessa Dominiquez,Fr,5'6,Hillcrest HS,Riverside City College,25.0,8.333333333333334
+1412,Antonette Rolda,So,5'7,Trabuco Hills HS,Saddleback College,25.0,8.333333333333334
+1413,Avie Butsko,So,6'0,El Toro HS,Saddleback College,25.0,8.333333333333334
+1414,Forfeit  1,,,,Saddleback College,25.946025053348606,3.1257936082736575
+1415,Forfiet 2,,,,Saddleback College,25.0,8.333333333333334
+1416,Jillian Hewitt,Fr,5'7,Trabuco Hills HS,Saddleback College,19.027044588949153,7.268023290842246
+1417,Kayla Logsdon,So,5'9,Mill Valley HS,Saddleback College,25.0,8.333333333333334
+1418,Keara O'Brien-Pol,So,6'0,Exeter HS,Saddleback College,25.0,8.333333333333334
+1419,Kiana  Camarlo,,,,Saddleback College,25.0,8.333333333333334
+1420,Landry Armstrong,So,5'8,Combs HS,Saddleback College,25.0,8.333333333333334
+1421,Michelle Solt,,,,Saddleback College,25.0,8.333333333333334
+1422,Nicolette Spriggs,So,5'7,JSerra HS,Saddleback College,25.0,8.333333333333334
+1423,Stevie Wenzel,,,,Saddleback College,19.027044588949156,7.268023290842246
+1424,Sydnee Cunico,,,,Saddleback College,25.0,8.333333333333334
+1425,Britany Tran,Fr,5'2,Fountain Valley HS,Santa Ana College,25.0,8.333333333333334
+1426,Carla Carrion,So,5'2,Santa Ana Valley HS,Santa Ana College,25.0,8.333333333333334
+1427,Destinee Blue,So,5'9,Segerstrom HS,Santa Ana College,25.0,8.333333333333334
+1428,Dianna Nguyen,So,5'6,Magnolia HS,Santa Ana College,25.0,8.333333333333334
+1429,Hannah Degrasse,So,5'11,California HS,Santa Ana College,25.0,8.333333333333334
+1430,Iliana Mendoza,So,5'10,Segerstrom HS,Santa Ana College,25.0,8.333333333333334
+1431,Jasmin Cardona,So,5'4,Godinez HS,Santa Ana College,25.0,8.333333333333334
+1432,Karissa Mumford,Fr,5'8,Kennedy HS,Santa Ana College,25.0,8.333333333333334
+1433,Kassandra Murillo,So,6'0,Loara HS,Santa Ana College,18.2790088566486,3.1257936082736575
+1434,Kayla Long,Fr,5'3,Downey HS,Santa Ana College,36.06369609662824,2.2815094948893346
+1435,Lily Reissmueller,So,5'10,El Modena HS,Santa Ana College,25.0,8.333333333333334
+1436,Mikelle Taylor,So,5'9,Godinez HS,Santa Ana College,25.0,8.333333333333334
+1437,Stephanie Huerta,Fr,5'1,Valencia HS,Santa Ana College,25.0,8.333333333333334
+1438,Taylor  Hernandez,Fr,5'7,La Habra HS,Santa Ana College,25.0,8.333333333333334
+1439,Virideana Pacheco,Fr,6'1,Godinez HS,Santa Ana College,25.0,8.333333333333334
+1440,Viridiana Serrano,So,5'7,Godinez HS,Santa Ana College,25.0,8.333333333333334
+1441,Aaliyah Charley,So,5'9,Thermal Coachella Valley HS,College of the Desert,25.0,8.333333333333334
+1442,Alysha Garcia,So,5'6,Thermal Desert Mirage HS,College of the Desert,25.0,8.333333333333334
+1443,Ashley Schwartz,So,5'9,Yucca Valley HS,College of the Desert,25.0,8.333333333333334
+1444,Ashtyn Lyneis,Fr,5'9,Palm Springs HS,College of the Desert,25.0,8.333333333333334
+1445,Baylie Dashner,Fr,5'11,La Quinta HS,College of the Desert,25.0,8.333333333333334
+1446,Brooke Topliff,Fr,5'6,Rancho Mirage HS,College of the Desert,25.0,8.333333333333334
+1447,Crishayla Jackson,So,6'0,Desert Hot Springs HS,College of the Desert,25.0,8.333333333333334
+1448,Emily Sundback,Fr,5'7,Rancho Mirage HS,College of the Desert,28.108322399069042,7.77436345109384
+1449,Esmeralda Ordaz,So,5'9,Indio HS,College of the Desert,25.0,8.333333333333334
+1450,Genesis Garza,Fr,5'7,Thermal Desert Mirage HS,College of the Desert,25.0,8.333333333333334
+1451,Hannah Laliberte,Fr,5'10,La Quinta HS,College of the Desert,25.0,8.333333333333334
+1452,Joanna Garcia,So,5'6,Thermal Desert Mirage HS,College of the Desert,28.10832239906904,7.77436345109384
+1453,Jomarie Viloria,Fr,5'8,Rancho Mirage HS,College of the Desert,25.0,8.333333333333334
+1454,London Felder,So,5'6,Rancho Cucamonga Alta Loma HS,College of the Desert,25.0,8.333333333333334
+1455,Marisol Ruiz,So,6'0,Thermal Desert Mirage HS,College of the Desert,25.0,8.333333333333334
+1456,Naomi Garcia,Fr,5'8,Rancho Mirage HS,College of the Desert,25.0,8.333333333333334
+1457,Nicole Svoboda,Fr,6'0,La Quinta HS,College of the Desert,25.0,8.333333333333334
+1458,Shay Mesa,So,5'5,Indio Shadow Hils HS,College of the Desert,25.0,8.333333333333334
+1459,Alexcis Morris,Fr,6'4,"Menifee, Ca",Grossmont College,25.0,8.333333333333334
+1460,Alexis Vanlandingham,Fr,6'0,"Alpine, Ca",Grossmont College,25.0,8.333333333333334
+1461,Aofiaolela Faa'agi,Fr,6'0,"Murrieta, Ca",Grossmont College,25.0,8.333333333333334
+1462,Ashlee Goycoochea,Fr,5'8,"San Diego, Ca",Grossmont College,25.0,8.333333333333334
+1463,Ashley Whipple,Fr,6'2,"El Cajon, Ca",Grossmont College,25.0,8.333333333333334
+1464,Briana Ayon,So,6'0,"Chula Vista, Ca",Grossmont College,25.0,8.333333333333334
+1465,Carly Gonzalez,Fr,5'11,"Bonita, Ca",Grossmont College,25.0,8.333333333333334
+1466,Christina Barrameda,So,5'6,"Ramona, Ca",Grossmont College,25.0,8.333333333333334
+1467,Desiree Howard,So,6'0,"Riverside, Ca",Grossmont College,25.0,8.333333333333334
+1468,Desiree Elizondo,Fr,5'4,"Temecula, Ca",Grossmont College,25.0,8.333333333333334
+1469,Erin Roberts,Fr,5'8,"Chula Vista, Ca",Grossmont College,25.0,8.333333333333334
+1470,Felicia Marshall,So,5'9,"Clinton, Ut",Grossmont College,25.0,8.333333333333334
+1471,Jamie Sakasegawa,Fr,5'4,"San Diego, Ca",Grossmont College,25.0,8.333333333333334
+1472,Julia Holden,Fr,5'7,"Coronado, Ca",Grossmont College,25.0,8.333333333333334
+1473,Kayli Barrera,Fr,5'4,"San Diego, Ca",Grossmont College,25.0,8.333333333333334
+1474,Khalia Jordan,So,5'8,"Chula Vista, Ca",Grossmont College,25.0,8.333333333333334
+1475,Kiersten Kerch,So,6'2,"San Diego, Ca",Grossmont College,25.0,8.333333333333334
+1476,Kylee Snyder,Fr,5'7,"San Diego, Ca",Grossmont College,25.0,8.333333333333334
+1477,Laurie Orbita,Fr,5'2,"Chula Vista, Ca",Grossmont College,25.0,8.333333333333334
+1478,Maiya Lopez,Fr,5'6,"San Diego, Ca",Grossmont College,25.0,8.333333333333334
+1479,Makayla Tam,So,5'10,"Woodland, Ca",Grossmont College,25.0,8.333333333333334
+1480,Naomi Talisa Leilua,Fr,5'9,"Redondo Beach, Ca",Grossmont College,25.0,8.333333333333334
+1481,Nicole Donais,So,6'0,"Ramona, Ca",Grossmont College,25.0,8.333333333333334
+1482,Sheay Isbell,Fr,5'9,"Ramona, Ca",Grossmont College,25.0,8.333333333333334
+1483,Talia  Young,Fr,5'6,Waimea HS,Grossmont College,25.0,8.333333333333334
+1484,Alexcis Morris,Fr,6'4,"Menifee, Ca",Palomar College,25.0,8.333333333333334
+1485,Alexis Vanlandingham,Fr,6'0,"Alpine, Ca",Palomar College,25.0,8.333333333333334
+1486,Aofiaolela Faa'agi,Fr,6'0,"Murrieta, Ca",Palomar College,25.0,8.333333333333334
+1487,Ashlee Goycoochea,Fr,5'8,"San Diego, Ca",Palomar College,25.0,8.333333333333334
+1488,Ashley Whipple,Fr,6'2,"El Cajon, Ca",Palomar College,25.0,8.333333333333334
+1489,Briana Ayon,So,6'0,"Chula Vista, Ca",Palomar College,25.0,8.333333333333334
+1490,Carly Gonzalez,Fr,5'11,"Bonita, Ca",Palomar College,25.0,8.333333333333334
+1491,Christina Barrameda,So,5'6,"Ramona, Ca",Palomar College,25.0,8.333333333333334
+1492,Desiree Howard,So,6'0,"Riverside, Ca",Palomar College,25.0,8.333333333333334
+1493,Desiree Elizondo,Fr,5'4,"Temecula, Ca",Palomar College,25.0,8.333333333333334
+1494,Erin Roberts,Fr,5'8,"Chula Vista, Ca",Palomar College,25.0,8.333333333333334
+1495,Felicia Marshall,So,5'9,"Clinton, Ut",Palomar College,25.0,8.333333333333334
+1496,Jamie Sakasegawa,Fr,5'4,"San Diego, Ca",Palomar College,25.0,8.333333333333334
+1497,Julia Holden,Fr,5'7,"Coronado, Ca",Palomar College,25.0,8.333333333333334
+1498,Kayli Barrera,Fr,5'4,"San Diego, Ca",Palomar College,25.0,8.333333333333334
+1499,Khalia Jordan,So,5'8,"Chula Vista, Ca",Palomar College,25.0,8.333333333333334
+1500,Kiersten Kerch,So,6'2,"San Diego, Ca",Palomar College,25.0,8.333333333333334
+1501,Kylee Snyder,Fr,5'7,"San Diego, Ca",Palomar College,25.0,8.333333333333334
+1502,Laurie Orbita,Fr,5'2,"Chula Vista, Ca",Palomar College,25.0,8.333333333333334
+1503,Maiya Lopez,Fr,5'6,"San Diego, Ca",Palomar College,25.0,8.333333333333334
+1504,Makayla Tam,So,5'10,"Woodland, Ca",Palomar College,25.0,8.333333333333334
+1505,Naomi Talisa Leilua,Fr,5'9,"Redondo Beach, Ca",Palomar College,25.0,8.333333333333334
+1506,Nicole Donais,So,6'0,"Ramona, Ca",Palomar College,25.0,8.333333333333334
+1507,Sheay Isbell,Fr,5'9,"Ramona, Ca",Palomar College,25.0,8.333333333333334
+1508,Talia  Young,Fr,5'6,Waimea HS,Palomar College,25.0,8.333333333333334
+1509,Alina Snyder,Fr,5'4,Mission Bay HS,San Diego Mesa College,25.0,8.333333333333334
+1510,Devon Lee,Fr,5'3,High Tech High Intl,San Diego Mesa College,25.0,8.333333333333334
+1511,Jhenalyn Germono,So,5'7,Otay Ranch HS,San Diego Mesa College,25.0,8.333333333333334
+1512,Kylie Cassicippo,So,5'7,Temecula Valley HS,San Diego Mesa College,25.0,8.333333333333334
+1513,Lizette Moore-Teague,So,5'8,Grossmont HS,San Diego Mesa College,25.0,8.333333333333334
+1514,Melissa Pittelkau,Fr,5'10,Timberline HS,San Diego Mesa College,25.0,8.333333333333334
+1515,Milla Anderson,Fr,5'9,Venture Independent,San Diego Mesa College,25.0,8.333333333333334
+1516,Raven Casas,Fr,5'10,Hilltop HS,San Diego Mesa College,25.0,8.333333333333334
+1517,Robyn Brooks,Fr,5'7,Healdsburg HS,San Diego Mesa College,25.0,8.333333333333334
+1518,Sabrina Calcutt,So,5'11,Foothills Christian HS,San Diego Mesa College,25.0,8.333333333333334
+1519,Sarah Connell,So,5'7,Clairemont HS,San Diego Mesa College,25.0,8.333333333333334
+1520,Tiarah Tucker,So,5'1,Helix HS,San Diego Mesa College,25.0,8.333333333333334
+1521,Aiko Waters,So,5'9,Leuzinger HS,El Camino College,25.0,8.333333333333334
+1522,Athena Sio,Fr,5'6,Narbonne HS,El Camino College,25.0,8.333333333333334
+1523,Chantell Miranda,Fr,5'3,Warren HS,El Camino College,25.0,8.333333333333334
+1524,Gherlaine Biasca,Fr,5'1,Carson HS,El Camino College,25.0,8.333333333333334
+1525,Glorious Owens,So,5'11,Venice HS,El Camino College,25.0,8.333333333333334
+1526,Jaelin Reynaud,Fr,6'0,Washington Prep HS,El Camino College,25.0,8.333333333333334
+1527,Jasmine Ligons,Fr,,Centennial HS,El Camino College,25.0,8.333333333333334
+1528,Jaylin Motley,So,6'1,Torrance HS,El Camino College,25.0,8.333333333333334
+1529,Jenny Lias,Fr,5'8,San Gabriel Academy,El Camino College,25.0,8.333333333333334
+1530,Jessica Villasenor,Fr,,Narbonne HS,El Camino College,25.0,8.333333333333334
+1531,Jewel Yandall,So,,Narbonne HS,El Camino College,25.0,8.333333333333334
+1532,Jossie Tomita,Fr,5'3,Torrance HS,El Camino College,25.0,8.333333333333334
+1533,Keily Morimoto,Fr,5'8,North Torrance HS,El Camino College,25.0,8.333333333333334
+1534,Kiana Takahashi,So,5'4,Torrance HS,El Camino College,25.0,8.333333333333334
+1535,Melanie Gurwell,Fr,,Torrance HS,El Camino College,25.0,8.333333333333334
+1536,Melissa Euyoque,So,5'9,El Segundo HS,El Camino College,25.0,8.333333333333334
+1537,Mikayla Clark,Fr,,South Torrance HS,El Camino College,25.0,8.333333333333334
+1538,Natasha Dutko,Fr,,South Torrance HS,El Camino College,25.0,8.333333333333334
+1539,Phina Leilua,Fr,5'10,Mira Costa HS,El Camino College,25.0,8.333333333333334
+1540,Renee Brydon,So,5'11,South Torrance HS,El Camino College,25.0,8.333333333333334
+1541,Sarah  Dyer,Fr,5'7,Palos Verdes HS,El Camino College,25.0,8.333333333333334
+1542,Sophia Loiola,Fr,6'0,Redondo Union HS,El Camino College,25.0,8.333333333333334
+1543,Aiko Waters,So,5'9,Leuzinger HS,Long Beach City College,25.0,8.333333333333334
+1544,Athena Sio,Fr,5'6,Narbonne HS,Long Beach City College,25.0,8.333333333333334
+1545,Chantell Miranda,Fr,5'3,Warren HS,Long Beach City College,25.0,8.333333333333334
+1546,Gherlaine Biasca,Fr,5'1,Carson HS,Long Beach City College,25.0,8.333333333333334
+1547,Glorious Owens,So,5'11,Venice HS,Long Beach City College,25.0,8.333333333333334
+1548,Jaelin Reynaud,Fr,6'0,Washington Prep HS,Long Beach City College,25.0,8.333333333333334
+1549,Jasmine Ligons,Fr,,Centennial HS,Long Beach City College,25.0,8.333333333333334
+1550,Jaylin Motley,So,6'1,Torrance HS,Long Beach City College,25.0,8.333333333333334
+1551,Jenny Lias,Fr,5'8,San Gabriel Academy,Long Beach City College,25.0,8.333333333333334
+1552,Jessica Villasenor,Fr,,Narbonne HS,Long Beach City College,25.0,8.333333333333334
+1553,Jewel Yandall,So,,Narbonne HS,Long Beach City College,25.0,8.333333333333334
+1554,Jossie Tomita,Fr,5'3,Torrance HS,Long Beach City College,25.0,8.333333333333334
+1555,Keily Morimoto,Fr,5'8,North Torrance HS,Long Beach City College,25.0,8.333333333333334
+1556,Kiana Takahashi,So,5'4,Torrance HS,Long Beach City College,25.0,8.333333333333334
+1557,Melanie Gurwell,Fr,,Torrance HS,Long Beach City College,25.0,8.333333333333334
+1558,Melissa Euyoque,So,5'9,El Segundo HS,Long Beach City College,25.0,8.333333333333334
+1559,Mikayla Clark,Fr,,South Torrance HS,Long Beach City College,25.0,8.333333333333334
+1560,Natasha Dutko,Fr,,South Torrance HS,Long Beach City College,25.0,8.333333333333334
+1561,Phina Leilua,Fr,5'10,Mira Costa HS,Long Beach City College,25.0,8.333333333333334
+1562,Renee Brydon,So,5'11,South Torrance HS,Long Beach City College,25.0,8.333333333333334
+1563,Sarah  Dyer,Fr,5'7,Palos Verdes HS,Long Beach City College,25.0,8.333333333333334
+1564,Sophia Loiola,Fr,6'0,Redondo Union HS,Long Beach City College,25.0,8.333333333333334
+1565,Alysha Tullar,Fr,5'11,Los Osos HS,Mt San Antonio College,31.84965454827332,5.0884728472465515
+1566,Alyssa Bloomfield,Fr,5'6,Diamond Bar HS,Mt San Antonio College,25.0,8.333333333333334
+1567,Ashly Velazquez,Fr,5'8,Downey HS,Mt San Antonio College,25.0,8.333333333333334
+1568,Brianda Valdez,Fr,5'3,Le Salle HS,Mt San Antonio College,25.0,8.333333333333334
+1569,Jordon Wilson,Fr,6'1,Summit HS,Mt San Antonio College,25.0,8.333333333333334
+1570,Kierra Coatney,Fr,5'9,Apple Valley HS,Mt San Antonio College,25.0,8.333333333333334
+1571,Lauren Quinonez,So,5'9,Walnut HS,Mt San Antonio College,31.84965454827332,5.0884728472465515
+1572,Lindsey Lane,Fr,5'10,Bishop Amat HS,Mt San Antonio College,25.0,8.333333333333334
+1573,Malia Carr,Fr,5'6,Arcadia HS,Mt San Antonio College,25.0,8.333333333333334
+1574,Natalya Fajardo,Fr,5'3,Apple Valley HS,Mt San Antonio College,25.0,8.333333333333334
+1575,Saipeti Fuiava,Fr,5'7,Legacy HS,Mt San Antonio College,25.0,8.333333333333334
+1576,Shaianne Palos,Fr,5'10,Summit HS,Mt San Antonio College,25.0,8.333333333333334
+1577,Sierra Lujan,Fr,5'8,Claremont HS,Mt San Antonio College,25.0,8.333333333333334
+1578,Andrea  Velasco,Fr,5'8,Sonora HS,Rio Hondo College,25.0,8.333333333333334
+1579,Bree Newton,So,5'10,South Hills HS,Rio Hondo College,25.0,8.333333333333334
+1580,Denyse Perez,Fr,5'3,El Rancho HS,Rio Hondo College,25.0,8.333333333333334
+1581,Felipa Moreno,Fr,5'8,Pioneer HS,Rio Hondo College,25.0,8.333333333333334
+1582,Madelyn Gastelum,Fr,5'6,La Habra HS,Rio Hondo College,25.0,8.333333333333334
+1583,Madison Mader,Fr,5'6,California,Rio Hondo College,25.0,8.333333333333334
+1584,Mia  Ponce,Fr,5'5,Centennial HS,Rio Hondo College,25.0,8.333333333333334
+1585,Michell Chavez-Valdivia,Fr,5'8,Sierra Vista HS,Rio Hondo College,25.0,8.333333333333334
+1586,Michelle Hawkins,Fr,5'8,Brea Olinda HS,Rio Hondo College,25.0,8.333333333333334
+1587,Michelle Rosas,Fr,5'11,Los Altos HS,Rio Hondo College,25.0,8.333333333333334
+1588,Monica  Campos,Fr,6'0,Covina HS,Rio Hondo College,25.0,8.333333333333334
+1589,Natalie Magallon,So,5'4,Bell Gardens HS,Rio Hondo College,25.0,8.333333333333334
+1590,Sara  Harding,So,5'0,Covina HS,Rio Hondo College,25.0,8.333333333333334
+1591,Stephanie Garcia,Fr,5'5,El Monte HS,Rio Hondo College,25.0,8.333333333333334
+1592,Alexandra Misca,Jr,5'11,"Satu Mare, Romania",Tampa,24.575321301008938,4.198283208444447
+1593,Brooklyn Wilson,Fr,5'9,"San Bernardino, Ca",Tampa,25.0,8.333333333333334
+1594,Chally Korn,So,5'6,"Glenwood Springs, Co",Tampa,25.0,8.333333333333334
+1595,Claire Blumenthal,Jr,5'5,"Tampa, Fl",Tampa,26.831212859030035,5.677620099312075
+1596,Danielle Christian,Jr,5'10,"St Croix, U.S. Virgin Islands",Tampa,25.0,8.333333333333334
+1597,Gabbi Pacatte,Jr,5'9,"Buffalo, N.Y.",Tampa,40.423816955775386,4.602136767117366
+1598,Gen Beaumier,Jr,5'11,"Venice, Fl",Tampa,25.0,8.333333333333334
+1599,Katie McKiel,So,5'11,"Colorado Springs, Co",Tampa,26.643302547730322,4.833821803303274
+1600,Kenzie Erickson,So,5'6,"Wildwood, Mo",Tampa,25.0,8.333333333333334
+1601,Leigh Buttner,GS,5'11,"St Petersburg, Fl",Tampa,40.423816955775386,4.602136767117366
+1602,Marisa Beisner,Jr,5'4,"Port Charlotte, Fl",Tampa,26.83274326046341,4.198283208444447
+1603,Melissa Elias,Fr,5'11,"Lake Mary, Fl",Tampa,32.216782705465995,4.02201809758425
+1604,Melody Morales,Jr,5'8,"Manati, P.R.",Tampa,25.0,8.333333333333334
+1605,Nicole Dominguez,So,5'8,"Apopka, Fl",Tampa,26.643302547730322,4.833821803303274
+1606,Nylah Demps,Fr,6'0,"Tallahassee, Fl",Tampa,26.83274326046341,4.198283208444447
+1607,Sarah Moore,Jr,5'9,"Alexandria, Va",Tampa,24.575321301008938,4.198283208444447
+1608,Sorrel  Houghton,Fr,6'0,"Osteen, Fl",Tampa,32.216782705465995,4.02201809758425
+1609,Taylor George,Fr,5'7,"Jupiter, Fl",Tampa,34.28696516871918,5.368757712330199
+1610,Allie Geary,Sr,6'2,"Deland, Fl",Florida Southern,21.357535887318445,3.3334788684335366
+1611,Anna Tovo,Sr,5'11,"Aiken, SC",Florida Southern,36.72163725876005,4.02201809758425
+1612,Casey Slezak,Fr,5'1,"Naperville, Il",Florida Southern,23.069141813115518,3.0328362337631063
+1613,Courtney Charneco,So,5'10,"Pembroke Pines, Fl",Florida Southern,27.84853922649657,2.865363454668774
+1614,Emily Jones,Fr,5'9,"Auburndale, Fl",Florida Southern,23.069141813115518,3.0328362337631063
+1615,Gabbi Fresh,,,,Florida Southern,25.0,8.333333333333334
+1616,Katelin Umberhandt,Fr,5'9,"Hapeville, Ga",Florida Southern,36.25369763655011,2.7897340710092795
+1617,Katie Lowe,Jr,5'8,"Winter Park, Fl",Florida Southern,36.25369763655011,2.7897340710092795
+1618,Katie Bergeron,Fr,5'8,"Danvers,Il",Florida Southern,34.35421291713641,4.833821803303274
+1619,Kayla Dumon,Fr,5'3,"Lecanto, Fl",Florida Southern,28.330506873906693,6.809496968450191
+1620,Kayla Trefren,Fr,5'10,"Hotchkiss, Co",Florida Southern,27.848539226496573,2.865363454668774
+1621,Lauren Kenny,Sr,5'11,"Erie, Pa",Florida Southern,21.357535887318445,3.3334788684335366
+1622,Makena Wilson,So,5'7,"Chula Vista, Ca",Florida Southern,38.060533719063315,2.7897340710092795
+1623,Morgan Cleary,Fr,5'5,"Hernando, Fl",Florida Southern,34.35421291713641,4.833821803303274
+1624,Nicole Mattson,,,,Florida Southern,25.0,8.333333333333334
+1625,Sydney Marshall,Sr,6'1,"Norcross, Ga",Florida Southern,38.060533719063315,2.7897340710092795
+1626,Allie Daul,Fr,,"Grayslake, Ill",Saint Leo,19.027044588949156,7.268023290842246
+1627,Anna Garrett,Fr,,"Merritt Island, Fl",Saint Leo,36.40795704019181,2.9462227105393546
+1628,Annabella Arcari,Fr,,"Shelby Township, Mi",Saint Leo,19.027044588949153,7.268023290842246
+1629,Ashley Quero,Fr,,"Hialeah, Fl",Saint Leo,25.0,8.333333333333334
+1630,Avery Bradshaw,So,,"Tampa, Fl",Saint Leo,25.0,8.333333333333334
+1631,Britt Sederholm,Sr,,"Ogden, Ut",Saint Leo,33.86553379423221,2.865363454668774
+1632,Brooke Turner,Fr,,"Tampa, Fl",Saint Leo,26.3640710694153,2.9462227105393546
+1633,Dallas Jasper,So,,"Annapolis, Md",Saint Leo,25.0,8.333333333333334
+1634,Fabiola Rosado,Fr,,"Lakeland, Fl",Saint Leo,25.0,8.333333333333334
+1635,Jamee Townsend,GS,,"Plant City, Fl",Saint Leo,26.3640710694153,2.9462227105393546
+1636,Jenya Kruglova,Sr,,"Moscow, Russia",Saint Leo,36.40795704019181,2.9462227105393546
+1637,Maddy Powell,Sr,,"Tampa, Fl",Saint Leo,25.0,8.333333333333334
+1638,Nina Vattovaz,Fr,,"Trieste, Italy",Saint Leo,26.88063078919337,2.9462227105393546
+1639,Paloma Da Silva,Sr,,"Pocos De Caldas, Brazil",Saint Leo,33.86553379423221,2.865363454668774
+1640,Reggie Van Devender,So,,"Phoenix, Az",Saint Leo,26.88063078919337,2.9462227105393546
+1641,Victoria Omoregie,Fr,,"Tampa, Fl",Saint Leo,25.0,8.333333333333334
+1642,Amanda Chapa,So,5'5,"Pearland, Tx",Abilene Christian,25.0,8.333333333333334
+1643,Amy Weiss,Jr,5'9,"Midwest Creek, Ok",Abilene Christian,22.492812550691,2.2815094948893346
+1644,Brooke Riley,So,5'7,"Allen, Tx",Abilene Christian,35.94146724822709,1.9640069338548831
+1645,Courtney Miller,So,6'0,"San Antonio, Tx",Abilene Christian,40.99369891532718,2.055608074416635
+1646,Eighmy Dobbins,So,5'10,"San Antonio, Tx",Abilene Christian,38.518597952706955,3.2257585268563194
+1647,Jacey Smith,Jr,5'11,"Wimberley, Tx",Abilene Christian,40.27313131841856,1.8346432398114199
+1648,Katelyn Mueller,Fr,6'0,"Sugar Land, Tx",Abilene Christian,38.518597952706955,3.2257585268563194
+1649,Kendall Bosse,Jr,5'11,"Ingram, Tx",Abilene Christian,40.27313131841856,1.8346432398114199
+1650,Kennedy Shelstead,Jr,6'0,"Lewisville, Tx",Abilene Christian,22.492812550691,2.2815094948893346
+1651,Lauren Walker,Jr,5'10,"Round Rock, Tx",Abilene Christian,35.94146724822709,1.9640069338548831
+1652,Lexie Rawls,Fr,5'6,"Lubbock, Tx",Abilene Christian,36.222992756093895,5.677620099312075
+1653,Lillan Drever,Jr,5'3,"Copperas Cove, Tx",Abilene Christian,25.0,8.333333333333334
+1654,Lorin McNeil,Fr,5'11,"Rockwall, Tx",Abilene Christian,25.0,8.333333333333334
+1655,Makenzie Kesler,So,6'0,"Coppell, Tx",Abilene Christian,25.751960553137057,5.0884728472465515
+1656,Maybeth Sandercox,So,5'11,"Lubbock, Tx",Abilene Christian,18.703178020131357,2.1604329520970493
+1657,Mikai Brown,Jr,5'8,"Longview, Tx",Abilene Christian,25.0,8.333333333333334
+1658,Paris Cosley,Fr,5'11,"Round Rock, Tx",Abilene Christian,22.11386207576862,6.809496968450191
+1659,Peyton Boutwell,So,6'3,"Lake Oswego, Or",Abilene Christian,25.24368938708724,7.268023290842246
+1660,Sofia Resendiz,So,5'7,"San Antonio, Tx",Abilene Christian,22.11386207576862,6.809496968450191
+1661,Angel Carroll,Fr,5'4,"Roy, Wa",Vanguard,38.46356744998514,5.368757712330199
+1662,Bree Bolton,Fr,5'8,"Riverside, Ca",Vanguard,47.14486029801996,1.935993527955682
+1663,Charity Dennis,Jr,5'8,"Cypress, Ca",Vanguard,26.11736822954027,4.602136767117366
+1664,Dani Erdelatz,So,5'9,"Stockton, Ca",Vanguard,36.50029018035387,1.9640069338548831
+1665,Eliana Johnson,Fr,6'0,"Scottsdale, Az",Vanguard,26.11736822954027,4.602136767117366
+1666,Gabby Morrison,Fr,5'10,"Paso Robles, Ca",Vanguard,38.116312377169464,1.935993527955682
+1667,Hannah Holder,So,6'1,"Irvine, Ca",Vanguard,16.94697554414995,4.833821803303274
+1668,Karli Burk,Fr,5'6,"Yucaipa, Ca",Vanguard,44.73932652270162,3.2257585268563194
+1669,Karly Cantu,So,5'5,"Spokane, Wa",Vanguard,47.14486029801996,1.935993527955682
+1670,Kayla Tinker,Jr,5'9,"San Clemente, Ca",Vanguard,38.116312377169464,1.935993527955682
+1671,Kelli Dowell,Jr,5'8,"Redlands, Ca",Vanguard,36.50029018035387,1.9640069338548831
+1672,Mackenzie Mitchell,Fr,5'3,"Costa Mesa, Ca",Vanguard,44.73932652270162,3.2257585268563194
+1673,Adriana Skipper,Sr,5'5,"Grand Prairie, Tx",Ottawa,31.175351981135844,6.394304831481489
+1674,Alexandria Baker,Fr,5'7,"Westville, Ok",Ottawa,25.0,8.333333333333334
+1675,Ayona Tharps,Fr,5'10,"Collinsville, Ill",Ottawa,27.36434700765567,4.833821803303274
+1676,Breanna Vail,Fr,5'11,"Oswego, Ks",Ottawa,27.36434700765567,4.833821803303274
+1677,Brooke Fearka,So,5'6,"Arlington, Tx",Ottawa,21.891677600930958,7.77436345109384
+1678,Caitlyn Cox,Fr,5'10,"Norton, Ks",Ottawa,32.20085260423738,3.575667513246407
+1679,Courtney Wheeler,Fr,5'11,"Gardner, Ks",Ottawa,19.027044588949156,7.268023290842246
+1680,Destiny Crowder,Fr,5'7,"Ponca City, Ok",Ottawa,32.20085260423738,3.575667513246407
+1681,Heather Huesman,So,5'5,"Overland Park, Ks",Ottawa,31.175351981135844,6.394304831481489
+1682,Jamie Tonasket,Fr,5'9,"Raytown, Mo",Ottawa,25.0,8.333333333333334
+1683,Jordan Wood,Fr,5'3,"Warrensburg, Mo",Ottawa,25.0,8.333333333333334
+1684,Julianna Strode,Fr,5'10,"Bakersville, Ca",Ottawa,25.0,8.333333333333334
+1685,Kenna Hall,Jr,6'1,"Desoto, Ks",Ottawa,30.450481529366602,3.449798020573539
+1686,Liz Heit,Jr,5'5,"Augusta, Ks",Ottawa,30.450481529366606,3.449798020573539
+1687,Makayla Aspegren,So,5'11,"Omaha, Ne",Ottawa,21.891677600930958,7.77436345109384
+1688,Makayla Baker,Fr,5'7,"Westville, Ok",Ottawa,29.036769111061524,3.3334788684335366
+1689,Marissa Chalmers,Jr,5'9,"Lancaster, Tx",Ottawa,27.36434700765567,4.833821803303274
+1690,Mikayla Wheeler,Fr,5'5,"Platte City, Mo",Ottawa,27.36434700765567,4.833821803303274
+1691,Paige Krone,Fr,5'9,"Bonner Springs, Ks",Ottawa,19.027044588949153,7.268023290842246
+1692,Stefanie Mitchell,Jr,5'9,"Chappell, Ne",Ottawa,24.958707182997774,6.394304831481489
+1693,Yuleika Jimenez,So,6'0,"Caracas, Venezuela",Ottawa,26.850159585185125,3.449798020573539
+1694,Ada Nadzakova,So,5'11,Beverly Hills HS,Santa Monica College,25.0,8.333333333333334
+1695,Althea Roble,,,University HS,Santa Monica College,25.0,8.333333333333334
+1696,Anna Engel,,,Yula HS,Santa Monica College,25.0,8.333333333333334
+1697,Camyrne Sommaripa,Fr,6'1,La Quinta HS,Santa Monica College,25.0,8.333333333333334
+1698,Carissa Avina-Beltran,So,5'4,,Santa Monica College,25.0,8.333333333333334
+1699,Chelsea Bostwick,So,6'0,Malibu HS,Santa Monica College,25.0,8.333333333333334
+1700,Elena Eckardt,Fr,5'10,Palm Springs HS,Santa Monica College,25.0,8.333333333333334
+1701,Emmeline Clark,Fr,5'7,,Santa Monica College,25.0,8.333333333333334
+1702,Hannah Douglass,So,5'9,Highland HS,Santa Monica College,25.0,8.333333333333334
+1703,Kelsi Pich,So,5'6,Stevenson HS,Santa Monica College,25.0,8.333333333333334
+1704,Megan Yoon,So,5'3,Culver City HS,Santa Monica College,25.0,8.333333333333334
+1705,Morgan Tarpley,So,5'7,Culver City HS,Santa Monica College,25.0,8.333333333333334
+1706,Paula  Hicks,Fr,5'7,Palmdale HS,Santa Monica College,25.0,8.333333333333334
+1707,Taylor Burke,So,5'4,Culver City HS,Santa Monica College,25.0,8.333333333333334
+1708,Ada Nadzakova,So,5'11,Beverly Hills HS,Marin College,25.0,8.333333333333334
+1709,Althea Roble,,,University HS,Marin College,25.0,8.333333333333334
+1710,Anna Engel,,,Yula HS,Marin College,25.0,8.333333333333334
+1711,Camyrne Sommaripa,Fr,6'1,La Quinta HS,Marin College,25.0,8.333333333333334
+1712,Carissa Avina-Beltran,So,5'4,,Marin College,25.0,8.333333333333334
+1713,Chelsea Bostwick,So,6'0,Malibu HS,Marin College,25.0,8.333333333333334
+1714,Elena Eckardt,Fr,5'10,Palm Springs HS,Marin College,25.0,8.333333333333334
+1715,Emmeline Clark,Fr,5'7,,Marin College,25.0,8.333333333333334
+1716,Hannah Douglass,So,5'9,Highland HS,Marin College,25.0,8.333333333333334
+1717,Kelsi Pich,So,5'6,Stevenson HS,Marin College,25.0,8.333333333333334
+1718,Megan Yoon,So,5'3,Culver City HS,Marin College,25.0,8.333333333333334
+1719,Morgan Tarpley,So,5'7,Culver City HS,Marin College,25.0,8.333333333333334
+1720,Paula  Hicks,Fr,5'7,Palmdale HS,Marin College,25.0,8.333333333333334
+1721,Taylor Burke,So,5'4,Culver City HS,Marin College,25.0,8.333333333333334
+1722,Abigail Weaver,Fr,5'10,"Apopka, Fl",Southeastern,25.24368938708723,7.268023290842246
+1723,Courtney Krause,Fr,5'9,"Venice, Fl",Southeastern,27.886137924231367,6.809496968450191
+1724,Emily Boehlein,Fr,6'0,"Gainesville, Fl",Southeastern,28.3305068739067,6.809496968450191
+1725,Hannah Kinlaw,Jr,5'8,"Jacksonville, Fl",Southeastern,28.3305068739067,6.809496968450191
+1726,Hannah Kaszubowski,Fr,5'7,"Sebring, Fl",Southeastern,25.24368938708723,7.268023290842246
+1727,Isabella La Vassaur,Fr,,"Sarasota, Fl",Southeastern,25.0,8.333333333333334
+1728,Kaity Reed,Fr,,"Princeton, In",Southeastern,27.886137924231367,6.809496968450191
+1729,Kelsey Morton,Sr,6'0,"Plant City, Fl",Southeastern,28.330506873906714,6.809496968450191
+1730,Keniah Rivera Santiago,Jr,5'3,"Naguabo,P.R.",Southeastern,28.330506873906714,6.809496968450191
+1731,Kiana Sawtelle,R-Fr,5'8,"Stuart, Fl",Southeastern,28.330506873906693,6.809496968450191
+1732,Natalie Anderson,Jr,5'7,"Tualatin, Or",Southeastern,28.330506873906693,6.809496968450191
+1733,Abigail Weaver,Fr,5'10,"Apopka, Fl",San Mateo College,25.24368938708723,7.268023290842246
+1734,Courtney Krause,Fr,5'9,"Venice, Fl",San Mateo College,27.886137924231367,6.809496968450191
+1735,Emily Boehlein,Fr,6'0,"Gainesville, Fl",San Mateo College,28.3305068739067,6.809496968450191
+1736,Hannah Kinlaw,Jr,5'8,"Jacksonville, Fl",San Mateo College,28.3305068739067,6.809496968450191
+1737,Hannah Kaszubowski,Fr,5'7,"Sebring, Fl",San Mateo College,25.24368938708723,7.268023290842246
+1738,Isabella La Vassaur,Fr,,"Sarasota, Fl",San Mateo College,25.0,8.333333333333334
+1739,Kaity Reed,Fr,,"Princeton, In",San Mateo College,27.886137924231367,6.809496968450191
+1740,Kelsey Morton,Sr,6'0,"Plant City, Fl",San Mateo College,28.330506873906714,6.809496968450191
+1741,Keniah Rivera Santiago,Jr,5'3,"Naguabo,P.R.",San Mateo College,28.330506873906714,6.809496968450191
+1742,Kiana Sawtelle,R-Fr,5'8,"Stuart, Fl",San Mateo College,28.330506873906693,6.809496968450191
+1743,Natalie Anderson,Jr,5'7,"Tualatin, Or",San Mateo College,28.330506873906693,6.809496968450191
+1744,Alyssa Dincoff,Fr,5'7,"Home Schooled, Ca",San Diego City College,25.0,8.333333333333334
+1745,Bianca Hawlish,Fr,6'1,J Serra HS,San Diego City College,25.0,8.333333333333334
+1746,Bree Reid,Fr,5'5,Sweetwater HS,San Diego City College,25.0,8.333333333333334
+1747,Brielle McKinnon,Fr,5'10,Highland HS,San Diego City College,25.0,8.333333333333334
+1748,Elise Sanzeri,Fr,5'10,Bret Harte HS,San Diego City College,25.0,8.333333333333334
+1749,Isabella Rubio,Fr,5'5,Mar Vista HS,San Diego City College,25.0,8.333333333333334
+1750,Izzy DeNardi,Fr,5'8,Coronado HS,San Diego City College,25.0,8.333333333333334
+1751,Julia Ferraro,Fr,5'11,Mercy Burlingame HS,San Diego City College,25.0,8.333333333333334
+1752,Lyssette Serna,Fr,5'7,Montgomery HS,San Diego City College,25.0,8.333333333333334
+1753,Malea Weakland,Fr,5'7,Mt Miguel HS,San Diego City College,25.0,8.333333333333334
+1754,Mariah Wonders,,,,San Diego City College,25.0,8.333333333333334
+1755,Marissa Thomas,Fr,5'5,Oak Ridge HS,San Diego City College,25.0,8.333333333333334
+1756,Megan Seyer,R-So,5'8,Lyons Township HS,San Diego City College,25.0,8.333333333333334
+1757,Shatha Julima,Fr,5'10,Hoover HS,San Diego City College,25.0,8.333333333333334
