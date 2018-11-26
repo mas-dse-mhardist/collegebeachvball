@@ -1,101 +1,701 @@
-,rank,name,college,division,rating,primary position,date
-0,1,Abril Bustamante,USC,DI,92.4303500391538,1,2018-05-05
-1,2,Nicole McNamara,UCLA,DI,86.1135562147035,1,2018-05-06
-2,3,Megan McNamara,UCLA,DI,86.1135562147035,1,2018-05-06
-3,4,Tina Graudina,USC,DI,85.52833489294359,1,2018-05-05
-4,5,Victoria Paranagua,Florida State,DI,84.86993899988808,1,2018-05-05
-5,6,Ka'iwi Schucht,Hawaii,DI,84.23751527416164,1,2018-05-06
-6,7,Emily Maglio,Hawaii,DI,84.23751527416164,1,2018-05-06
-7,8,Kristen Nuss,LSU,DI,81.19130389005646,1,2018-05-04
-8,9,Claire Coppola,LSU,DI,81.19130389005646,1,2018-05-04
-9,10,Sasha Karelov,Long Beach State,DI,79.92898851148391,1,2018-04-28
-10,11,Vanessa Freire,Florida State,DI,77.78122536838717,1,2018-05-05
-11,12,Nele Barber,Long Beach State,DI,77.42271663171068,1,2018-04-28
-12,13,Kaylie Mchugh,Tulane,DI,77.35382247810593,1,2018-04-21
-13,14,Madeline Mertz,Tulane,DI,77.35382247810593,1,2018-04-21
-14,15,Sarah Sponcil,UCLA,DI,76.8066100133845,2,2018-05-06
-15,16,Corinne Quiggle,Pepperdine,DI,76.54549164430772,2,2018-05-05
-16,17,Sunny Villapando,Stanford,DI,76.49140793636484,1,2018-04-27
-17,18,Katie Smith,South Carolina,DI,76.296541124782,2,2018-05-04
-18,19,Lily Justine,UCLA,DI,74.80661001338449,2,2018-05-06
-19,20,Morgan Martin,Hawaii,DI,74.69453990845882,2,2018-05-06
-20,21,Deahna Kraft,Pepperdine,DI,74.54549164430763,2,2018-05-05
-21,22,Katie Horton,Florida State,DI,74.50166622863102,2,2018-05-05
-22,23,Rachel Nieto,Long Beach State,DI,73.64232858049635,2,2018-04-28
-23,24,Teegan Van Gunst,Georgia State,DI,73.62427063612556,1,2018-04-21
-24,25,Lea Monkhouse,Hawaii,DI,73.49306234902711,2,2018-05-06
-25,26,Sammy Slater,USC,DI,73.32221359107479,2,2018-05-05
-26,27,Hailey Luke,Florida State,DI,73.23522095837858,2,2018-05-05
-27,28,Federica Frasca,FIU,DI,73.18867624886937,1,2018-05-04
-28,29,Margherita Bianchin,FIU,DI,73.18867624886937,1,2018-05-04
-29,30,Mima Mirkovic,Cal,DI,72.61630147566557,1,2018-04-28
-30,31,Madalyn Roh,Pepperdine,DI,72.54550764576052,1,2018-05-05
-31,32,Annika Van Gunst,Georgia State,DI,72.47881432554969,1,2018-04-21
-32,33,Aeriel Horton,Houston Baptist,DI,72.29232420518505,1,2018-04-22
-33,34,Jessica Wooten,Houston Baptist,DI,72.29232420518505,1,2018-04-22
-34,35,Terese Cannon,USC,DI,71.36208943240604,2,2018-05-05
-35,36,Brook Bauer,Pepperdine,DI,70.54550764576047,1,2018-05-05
-36,37,Adore Anae,Utah,DI,70.49092447978734,1,2018-04-27
-37,38,Dani Barton,Utah,DI,70.49092447978734,1,2018-04-27
-38,39,Alexia Inman,Cal,DI,69.6715325910978,1,2018-04-28
-39,40,Torrey Van Winden,Cal Poly SLO,DI,69.58768288323243,1,2018-04-28
-40,41,Tia Miric,Cal Poly SLO,DI,69.58768288323243,1,2018-04-28
-41,42,Emily Sonny,Cal Poly SLO,DI,69.55877585218228,2,2018-04-28
-42,43,Ali Denney,South Carolina,DI,68.69760192967698,1,2018-05-04
-43,44,Shannon Williams,South Carolina,DI,68.69760192967698,1,2018-05-04
-44,45,Olivia Macdonald,Arizona,DI,68.12457246604,1,2018-04-27
-45,46,Natalie Anselmo,Arizona,DI,68.12457246603995,1,2018-04-27
-46,47,Payton Rund,Saint Mary's,DI,68.04029850962506,1,2018-04-21
-47,48,Carly Kan,Hawaii,DI,67.45321674494866,3,2018-05-06
-48,49,Kimmy Gardiner,Washington,DI,67.24756224141518,1,2018-04-28
-49,50,Jordan Anderson,Washington,DI,67.24756224141518,1,2018-04-28
-50,51,Sammee Thomas,Stetson,DI,66.65841147862814,1,2018-04-21
-51,52,Darby Dunn,Stetson,DI,66.65841147862814,1,2018-04-21
-52,53,Sam Manley,Cal Poly SLO,DI,66.39431837102529,2,2018-04-28
-53,54,Jessica Gaffney,Cal,DI,66.31432645354683,2,2018-04-28
-54,55,Laurel Weaver,Hawaii,DI,66.05063283058175,3,2018-05-06
-55,56,Morgan Hughes,Saint Mary's,DI,66.04029850962509,1,2018-04-21
-56,57,Savannah Slattery,LMU,DI,65.52604585851648,1,2018-04-21
-57,58,Cadie Bates,South Carolina,DI,65.47804086127739,2,2018-05-04
-58,59,Morgan Hentz,Stanford,DI,65.09141520123435,2,2018-04-27
-59,60,Amelia Smith,Stanford,DI,65.09141520123435,2,2018-04-27
-60,61,Haleigh Nelson,LSU,DI,64.891249094159,2,2018-05-04
-61,62,Megan Kruidhof,Long Beach State,DI,64.88177397818546,2,2018-04-28
-62,63,Courtney Schwan,Washington,DI,64.87364355726757,2,2018-04-28
-63,64,Destiny Julye,Washington,DI,64.52322012858274,2,2018-04-28
-64,65,Sara Putt,Florida State,DI,64.4778598631755,3,2018-05-05
-65,66,Nicole Lott,UNC Wilmington,DI,64.45942269739646,1,2018-04-21
-66,67,Maddy Kline,UNC Wilmington,DI,64.45942269739646,1,2018-04-21
-67,68,Tiffany Creamer,Georgia State,DI,64.26158258643508,2,2018-04-21
-68,69,McKayla Ferris,LMU,DI,64.04696157268724,1,2018-04-21
-69,70,Devon May,UAB,DI,63.99080361095125,1,2018-04-21
-70,71,Hannah Towne,Grand Canyon,DI,63.654175532655216,1,2018-04-19
-71,72,Brooke Weiner,Georgia State,DI,63.43076248748205,2,2018-04-21
-72,73,Courtney Bowen,Stanford,DI,63.36739584086014,3,2018-04-27
-73,74,Molly Turner,Grand Canyon,DI,63.30196506165988,1,2018-04-19
-74,75,Kenley Adams,UAB,DI,63.2936402479887,1,2018-04-21
-75,76,Iya Lindahl,Cal,DI,63.229312020717735,2,2018-04-28
-76,77,Cassie House,TCU,DI,63.097568232272764,1,2018-04-15
-77,78,Haven Hill,TCU,DI,63.097568232272764,1,2018-04-15
-78,79,Haley Hallgren,USC,DI,63.04921108123021,3,2018-05-05
-79,80,Macy Jerger,Florida State,DI,62.805703327459476,3,2018-05-05
-80,81,Lindsey Knudsen,Saint Mary's,DI,62.323854662591565,2,2018-04-21
-81,82,Sara Kovac,LMU,DI,62.06075497489773,2,2018-04-21
-82,83,Jessie Prichard,LMU,DI,61.941929170872505,2,2018-04-21
-83,84,Taylor Nelson,Cal Poly SLO,DI,61.790176299202884,3,2018-04-28
-84,85,Carly Perales,Stetson,DI,61.407238288197014,2,2018-04-21
-85,86,Sunniva Helland-Hansen,Stetson,DI,61.40723828819691,2,2018-04-21
-86,87,Savvy Simo,UCLA,DI,60.7831720607993,3,2018-05-06
-87,88,Emily Bible,Saint Mary's,DI,60.32385466259157,2,2018-04-21
-88,89,Amanda Silva,FAU,DI,60.28755320258038,1,2018-04-21
-89,90,Carly Scarborough,FAU,DI,59.95367029325593,1,2018-04-21
-90,91,Tarin Mergener,Tulane,DI,59.296611752229516,2,2018-04-21
-91,92,Hunter Domanski,LSU,DI,59.22384771378158,3,2018-05-04
-92,93,Lan Nguyen,Tulane,DI,58.993169820946676,2,2018-04-21
-93,94,Janell Walley,Boise State,DI,58.69650786935412,1,2018-04-21
-94,95,Sabryn Roberts,Boise State,DI,58.69650786935409,1,2018-04-21
-95,96,Jessalyn Kinlaw,FAU,DI,58.54095803828602,2,2018-04-21
-96,97,Carly Dehoog,Washington,DI,58.163121648609,3,2018-04-28
-97,98,Shayne Mcpherson,Washington,DI,58.163121648609,3,2018-04-28
-98,99,Hayley Tippett,Central Arkansas,DI,58.043331498527635,1,2018-04-22
-99,100,Megan Nash,Central Arkansas,DI,58.043331498527635,1,2018-04-22
+,division,rank,name,playerid,college,primary position,date
+0,DI,1,Abril Bustamante,28,USC,1,2018-05-05
+1,DI,2,Megan McNamara,1,UCLA,1,2018-05-06
+2,DI,3,Nicole McNamara,2,UCLA,1,2018-05-06
+3,DI,4,Tina Graudina,1056,USC,1,2018-05-05
+4,DI,5,Victoria Paranagua,16,Florida State,1,2018-05-05
+5,DI,6,Ka'iwi Schucht,754,Hawaii,1,2018-05-06
+6,DI,7,Emily Maglio,764,Hawaii,1,2018-05-06
+7,DI,8,Kristen Nuss,102,LSU,1,2018-05-05
+8,DI,9,Claire Coppola,103,LSU,1,2018-05-05
+9,DI,10,Sasha Karelov,71,Long Beach State,1,2018-04-28
+10,DI,11,Vanessa Freire,13,Florida State,1,2018-05-05
+11,DI,12,Sunny Villapando,1212,Stanford,1,2018-04-27
+12,DI,13,Nele Barber,65,Long Beach State,1,2018-04-28
+13,DI,14,Madeline Mertz,35,Tulane,1,2018-04-21
+14,DI,15,Kaylie Mchugh,33,Tulane,1,2018-04-21
+15,DI,16,Sarah Sponcil,247,UCLA,2,2018-05-06
+16,DI,17,Lily Justine,9,UCLA,2,2018-05-06
+17,DI,18,Katie Horton,17,Florida State,2,2018-05-06
+18,DI,19,Deahna Kraft,219,Pepperdine,2,2018-05-05
+19,DI,20,Corinne Quiggle,209,Pepperdine,2,2018-05-05
+20,DI,21,Hailey Luke,743,Florida State,2,2018-05-06
+21,DI,22,Sammy Slater,1053,USC,2,2018-05-05
+22,DI,23,Katie Smith,116,South Carolina,2,2018-05-04
+23,DI,24,Federica Frasca,293,FIU,1,2018-05-04
+24,DI,25,Margherita Bianchin,292,FIU,1,2018-05-04
+25,DI,26,Morgan Martin,763,Hawaii,2,2018-05-06
+26,DI,27,Jessica Wooten,393,Houston Baptist,1,2018-04-22
+27,DI,28,Aeriel Horton,392,Houston Baptist,1,2018-04-22
+28,DI,29,Lea Monkhouse,1071,Hawaii,2,2018-05-06
+29,DI,30,Madalyn Roh,213,Pepperdine,1,2018-05-05
+30,DI,31,Brook Bauer,968,Pepperdine,1,2018-05-05
+31,DI,32,Rachel Nieto,66,Long Beach State,2,2018-04-28
+32,DI,33,Mima Mirkovic,1085,Cal,1,2018-04-28
+33,DI,34,Terese Cannon,26,USC,2,2018-05-05
+34,DI,35,Teegan Van Gunst,1038,Georgia State,1,2018-04-21
+35,DI,36,Annika Van Gunst,1037,Georgia State,1,2018-04-21
+36,DI,37,Adore Anae,93,Utah,1,2018-04-27
+37,DI,38,Dani Barton,88,Utah,1,2018-04-27
+38,DI,39,Tia Miric,1198,Cal Poly SLO,1,2018-04-28
+39,DI,40,Torrey Van Winden,6,Cal Poly SLO,1,2018-04-28
+40,DI,41,Alexia Inman,1087,Cal,1,2018-04-28
+41,DI,42,Natalie Anselmo,136,Arizona,1,2018-04-27
+42,DI,43,Olivia Macdonald,127,Arizona,1,2018-04-27
+43,DI,44,Emily Sonny,279,Cal Poly SLO,2,2018-04-28
+44,DI,45,Sammee Thomas,945,Stetson,1,2018-04-21
+45,DI,46,Darby Dunn,403,Stetson,1,2018-04-21
+46,DI,47,Morgan Hughes,1351,Saint Mary's,1,2018-04-21
+47,DI,48,Payton Rund,187,Saint Mary's,1,2018-04-21
+48,DI,49,Jordan Anderson,7,Washington,1,2018-04-28
+49,DI,50,Kimmy Gardiner,1307,Washington,1,2018-04-28
+50,DI,51,Sam Manley,126,Cal Poly SLO,2,2018-04-28
+51,DI,52,Shannon Williams,121,South Carolina,1,2018-05-04
+52,DI,53,Ali Denney,115,South Carolina,1,2018-05-04
+53,DI,54,McKayla Ferris,1167,LMU,1,2018-04-21
+54,DI,55,Carly Kan,757,Hawaii,3,2018-05-06
+55,DI,56,Jessica Gaffney,86,Cal,2,2018-04-28
+56,DI,57,Savannah Slattery,244,LMU,1,2018-04-21
+57,DI,58,Laurel Weaver,760,Hawaii,3,2018-05-06
+58,DI,59,Morgan Hentz,53,Stanford,2,2018-04-27
+59,DI,60,Amelia Smith,1082,Stanford,2,2018-04-27
+60,DI,61,Sunniva Helland-Hansen,402,Stetson,2,2018-04-22
+61,DI,62,Carly Perales,401,Stetson,2,2018-04-22
+62,DI,63,Courtney Schwan,178,Washington,2,2018-04-28
+63,DI,64,Hannah Towne,157,Grand Canyon,1,2018-04-19
+64,DI,65,Destiny Julye,182,Washington,2,2018-04-28
+65,DI,66,Megan Kruidhof,69,Long Beach State,2,2018-04-28
+66,DI,67,Devon May,1375,UAB,1,2018-04-21
+67,DI,68,Cadie Bates,1210,South Carolina,2,2018-05-04
+68,DI,69,Courtney Bowen,47,Stanford,3,2018-04-27
+69,DI,70,Sara Putt,1012,Florida State,3,2018-05-06
+70,DI,71,Haven Hill,323,TCU,1,2018-04-15
+71,DI,72,Cassie House,335,TCU,1,2018-04-15
+72,DI,73,Maddy Kline,449,UNC Wilmington,1,2018-04-21
+73,DI,74,Nicole Lott,454,UNC Wilmington,1,2018-04-21
+74,DI,75,Molly Turner,152,Grand Canyon,1,2018-04-19
+75,DI,76,Haleigh Nelson,936,LSU,2,2018-05-05
+76,DI,77,Kenley Adams,497,UAB,1,2018-04-21
+77,DI,78,Macy Jerger,15,Florida State,3,2018-05-06
+78,DI,79,Tiffany Creamer,405,Georgia State,2,2018-04-21
+79,DI,80,Savvy Simo,745,UCLA,3,2018-05-06
+80,DI,81,Iya Lindahl,79,Cal,2,2018-04-28
+81,DI,82,Sara Kovac,250,LMU,2,2018-04-21
+82,DI,83,Zana Muno,1019,UCLA,3,2018-05-06
+83,DI,84,Brooke Weiner,467,Georgia State,2,2018-04-21
+84,DI,85,Jessie Prichard,252,LMU,2,2018-04-21
+85,DI,86,Taylor Nelson,276,Cal Poly SLO,3,2018-04-28
+86,DI,87,Amanda Silva,1043,FAU,1,2018-04-21
+87,DI,88,Haley Hallgren,1055,USC,3,2018-05-05
+88,DI,89,Emily Bible,186,Saint Mary's,2,2018-04-21
+89,DI,90,Lindsey Knudsen,190,Saint Mary's,2,2018-04-21
+90,DI,91,Courtney Miller,490,UNF,1,2018-04-22
+91,DI,92,Carina Hoff,1021,UNF,1,2018-04-22
+92,DI,93,Janell Walley,263,Boise State,1,2018-04-21
+93,DI,94,Sabryn Roberts,260,Boise State,1,2018-04-21
+94,DI,95,Carly Scarborough,797,FAU,1,2018-04-21
+95,DI,96,Megan Nash,353,Central Arkansas,1,2018-04-22
+96,DI,97,Hayley Tippett,352,Central Arkansas,1,2018-04-22
+97,DI,98,Tarin Mergener,34,Tulane,2,2018-04-21
+98,DI,99,Jessalyn Kinlaw,299,FAU,2,2018-04-21
+99,DI,100,Gabrielle Dischler,297,FAU,2,2018-04-21
+100,DI,101,Hunter Domanski,932,LSU,3,2018-05-05
+101,DI,102,Gigi Hernandez,212,Pepperdine,3,2018-05-05
+102,DI,103,Heidi Dyer,218,Pepperdine,3,2018-05-05
+103,DI,104,Taryn Griffey,482,UNF,2,2018-04-22
+104,DI,105,Chaney Howard,489,UNF,2,2018-04-22
+105,DI,106,Karissa Rhoades,501,FGCU,2,2018-04-22
+106,DI,107,Mandi Orellana,113,LSU,2,2018-05-05
+107,DI,108,Tori Hinojosa,387,Houston Baptist,2,2018-04-22
+108,DI,109,Kayla Armer,1007,Houston Baptist,2,2018-04-22
+109,DI,110,Lan Nguyen,37,Tulane,2,2018-04-21
+110,DI,111,Mackenzie Allen,510,FGCU,1,2018-04-22
+111,DI,112,Amanda Carroll,508,FGCU,1,2018-04-22
+112,DI,113,Carly Dehoog,183,Washington,3,2018-04-28
+113,DI,114,Shayne Mcpherson,177,Washington,3,2018-04-28
+114,DI,115,Katja Ehlers,440,College of Charleston,1,2018-04-21
+115,DI,116,Katie Sato,223,Cal State Northridge,1,2018-04-27
+116,DI,117,Aeryn Owens,222,Cal State Northridge,1,2018-04-27
+117,DI,118,Olivia Stasevich,468,Georgia State,3,2018-04-21
+118,DI,119,Erika Zembyla,496,FIU,2,2018-05-04
+119,DI,120,Ari Homayun,761,Hawaii,4,2018-05-06
+120,DI,121,Amy Ozee,755,Hawaii,4,2018-05-06
+121,DI,122,Lina Bernier,285,FIU,3,2018-05-04
+122,DI,123,Dorina Klinger,840,FIU,2,2018-05-04
+123,DI,124,Elise Zappia,5,UCLA,4,2018-05-06
+124,DI,125,Kate Formico,1073,Stanford,3,2018-04-27
+125,DI,126,Mia Rivera,151,ASU,1,2018-04-27
+126,DI,127,Georgia Johnson,460,Georgia State,3,2018-04-21
+127,DI,128,Hailey Harward,73,Long Beach State,3,2018-04-28
+128,DI,129,Desiree Sukhov,1455,Cal State Bakersfield,2,2018-04-28
+129,DI,130,Krissy Mummey,444,College of Charleston,1,2018-04-21
+130,DI,131,Adlee Van Winden,278,Cal Poly SLO,3,2018-04-28
+131,DI,132,Devon Rachel,441,College of Charleston,2,2018-04-21
+132,DI,133,Kacey Nady,929,Arizona,2,2018-04-27
+133,DI,134,Victoria Corcoran,526,New Orleans,2,2018-04-22
+134,DI,135,Carly Schneider,119,South Carolina,3,2018-05-04
+135,DI,136,Kristyna Adamcikova,1114,Long Beach State,3,2018-04-27
+136,DI,137,Alexis Filippone,970,Pepperdine,4,2018-05-05
+137,DI,138,Skylar Caputo,210,Pepperdine,4,2018-05-05
+138,DI,139,Kathryn Plummer,58,Stanford,1,2018-03-27
+139,DI,140,Jaelyn Greene,318,TCU,2,2018-04-15
+140,DI,141,Jillian Bergeson,952,TCU,2,2018-04-15
+141,DI,142,Kwyn Johnson,144,ASU,1,2018-04-27
+142,DI,143,Brooke Kuhlman,12,Florida State,4,2018-05-06
+143,DI,144,Rachel Kuhn,530,New Orleans,1,2018-04-22
+144,DI,145,Joy Dennis,29,USC,3,2018-05-05
+145,DI,146,Molly Scheel,796,TCU,3,2018-04-15
+146,DI,147,Skylar Wine,315,Pacific,1,2018-04-21
+147,DI,148,Roni Long,1313,Pacific,2,2018-04-21
+148,DI,149,Erica Brok,1040,FAU,3,2018-04-21
+149,DI,150,Mckala Rhodes,439,College of Charleston,2,2018-04-21
+150,DI,151,Rachel Noble,778,Stetson,3,2018-04-22
+151,DI,152,Katherine Puisis,503,FGCU,2,2018-04-22
+152,DI,153,Hailey Devlin,131,Arizona,3,2018-04-27
+153,DI,154,Molly McBain,18,Florida State,4,2018-05-06
+154,DI,155,Abigail Devido,1874,Texas A&M Corpus Christi,1,2018-04-20
+155,DI,156,Selina Marolf,1877,Texas A&M Corpus Christi,1,2018-04-20
+156,DI,157,Katie Krawczyk,470,Jacksonville,1,2018-04-21
+157,DI,158,Sydney Haynes,1969,Cal State Bakersfield,1,2018-04-28
+158,DI,159,Emily Hansen,1449,Cal State Bakersfield,1,2018-04-28
+159,DI,160,Morgan Dees,474,Jacksonville,1,2018-04-21
+160,DI,161,Francesca Goncalves,14,Florida State,5,2018-05-06
+161,DI,162,Stephany Purdue,928,Arizona,3,2018-04-27
+162,DI,163,Olivia Powers,104,LSU,3,2018-05-05
+163,DI,164,Maddie Irwin,1298,New Mexico,1,2018-04-21
+164,DI,165,Erin Martin,1300,New Mexico,1,2018-04-21
+165,DI,166,Melissa Powell,2111,Utah,2,2018-04-27
+166,DI,167,Ashley Glickert,509,FGCU,3,2018-04-22
+167,DI,168,Giovanna Borgiotti,505,FGCU,3,2018-04-22
+168,DI,169,Katie Friesen,818,FIU,3,2018-05-04
+169,DI,170,Avei Logoleo,495,UAB,2,2018-04-21
+170,DI,171,Ellyson Lundberg,149,ASU,3,2018-04-27
+171,DI,172,Kiley Lewis,1223,Boise State,2,2018-04-21
+172,DI,173,Julia Mannisto,118,South Carolina,3,2018-05-04
+173,DI,174,Veronica Corcoran,522,New Orleans,2,2018-04-22
+174,DI,175,Nandyala Gama,420,San Jose State University,1,2018-04-20
+175,DI,176,Cara Sander,529,New Orleans,1,2018-04-22
+176,DI,177,Leah Hardeman,789,Coastal Carolina,2,2018-04-14
+177,DI,178,Jessica Stansfield,160,Grand Canyon,2,2018-04-19
+178,DI,179,Olivia Hallaran,133,Arizona,2,2018-04-27
+179,DI,180,Emma Doud,249,LMU,3,2018-04-21
+180,DI,181,Anna Chin,41,Tulane,3,2018-04-21
+181,DI,182,Lyndi Scholl,427,San Jose State University,1,2018-04-20
+182,DI,183,Nicci Reinking,1110,Long Beach State,4,2018-04-28
+183,DI,184,Bryce Bark,80,Cal,3,2018-04-28
+184,DI,185,Madison Dueck,807,Cal,3,2018-04-28
+185,DI,186,Rachel Young,1871,Texas A&M Corpus Christi,2,2018-04-22
+186,DI,187,Madison Green,608,Texas A&M Corpus Christi,2,2018-04-22
+187,DI,188,Sarah Garrow,433,Cal State Bakersfield,2,2018-04-28
+188,DI,189,Katrin Gotterba,307,Pacific,3,2018-04-21
+189,DI,190,Alex Holt,313,Pacific,3,2018-04-21
+190,DI,191,Gracie Garanich,990,Mercer,3,2018-04-21
+191,DI,192,Jessica Martinez,1242,Central Arkansas,2,2018-04-22
+192,DI,193,Aleksandra Djuric,586,Coastal Carolina,2,2018-04-14
+193,DI,194,Raeann Greisen,284,Cal Poly SLO,4,2018-04-28
+194,DI,195,Zoi Konstantopoulou,64,Long Beach State,4,2018-04-28
+195,DI,196,Katelyn Carballo,143,ASU,3,2018-04-27
+196,DI,197,Mackenzie Morris,1044,FAU,3,2018-04-21
+197,DI,198,Tawnee Luafalemana,94,Utah,2,2018-04-27
+198,DI,199,Anabela Sataric,294,FIU,2,2018-05-04
+199,DI,200,Madi Yeomans,4,UCLA,3,2018-04-28
+200,DI,201,Emmy Allen,100,LSU,4,2018-05-04
+201,DI,202,Mac May,1017,UCLA,4,2018-05-06
+202,DI,203,Halle Hunt,452,UNC Wilmington,2,2018-04-21
+203,DI,204,Ashley Allmer,882,LSU,2,2018-04-08
+204,DI,205,Eastyn Baleto,329,New Mexico,2,2018-04-21
+205,DI,206,JM Lewandowski,1918,UNC Wilmington,2,2018-04-21
+206,DI,207,Macie Tendrich,120,South Carolina,4,2018-05-04
+207,DI,208,Leah Perri,996,South Carolina,4,2018-05-04
+208,DI,209,Anete Brinke,72,Long Beach State,2,2018-04-28
+209,DI,210,Annika Albrecht,242,Nebraska,2,2018-03-23
+210,DI,211,Jonny Baham,927,Arizona,4,2018-04-27
+211,DI,212,Kayla Gallant,1635,ULM,2,2018-04-14
+212,DI,213,Cammie Dorn,752,USC,3,2018-05-05
+213,DI,214,Megan Muret,1048,UCLA,5,2018-05-06
+214,DI,215,Izzy Carey,8,UCLA,5,2018-05-06
+215,DI,216,Maddie Ligon,107,LSU,5,2018-05-04
+216,DI,217,Grace Convey,604,ULM,1,2018-04-14
+217,DI,218,Eva Torruella,19,Florida State,5,2018-04-22
+218,DI,219,Lauren Orlich,964,Tulane,3,2018-04-21
+219,DI,220,Anna Crabtree,184,Washington,4,2018-04-28
+220,DI,221,Jenna Belton,30,USC,4,2018-05-05
+221,DI,222,Taylor Jarzombek,978,Grand Canyon,3,2018-04-17
+222,DI,223,Samantha Harris,404,Stetson,3,2018-04-22
+223,DI,224,Rebecca Brown,596,ULM,3,2018-04-14
+224,DI,225,Catherine Griffith,598,ULM,3,2018-04-14
+225,DI,226,Mackenzie Swan,473,Jacksonville,1,2018-04-22
+226,DI,227,Mary Hernandez,195,Saint Mary's,3,2018-04-21
+227,DI,228,Sarah Chase,193,Saint Mary's,3,2018-04-21
+228,DI,229,Jensyn Bledsoe,316,TCU,3,2018-04-15
+229,DI,230,Maile Sellers,1636,ULM,2,2018-04-14
+230,DI,231,Sarah Davis,628,"Cal State University, Sacramento",1,2018-04-27
+231,DI,232,Veronica Nederend,245,LMU,3,2018-04-21
+232,DI,233,Lauren Twitty,337,New Mexico,2,2018-04-21
+233,DI,234,Gabby Love,601,ULM,1,2018-04-14
+234,DI,235,Sophie Peel,341,Mercer,1,2018-04-21
+235,DI,236,Kacy Ogden,993,Mercer,1,2018-04-21
+236,DI,237,Julia Topor,1507,USF,1,2018-04-20
+237,DI,238,Anna Dalla Vecchia,1502,USF,1,2018-04-20
+238,DI,239,Caroline Schafer,1084,Cal,4,2018-04-28
+239,DI,240,Megan Davenport,108,LSU,4,2018-05-04
+240,DI,241,Katie Pyles,981,Grand Canyon,2,2018-04-19
+241,DI,242,Brindl Langley,1225,Boise State,2,2018-04-21
+242,DI,243,Lauren Stivrins,234,Nebraska,1,2018-03-23
+243,DI,244,Maddie Micheletti,1086,Cal,5,2018-04-28
+244,DI,245,Amber Gibson,345,Mercer,3,2018-04-21
+245,DI,246,Riana Brennan,438,College of Charleston,3,2018-04-21
+246,DI,247,Kennedy Madison,437,College of Charleston,3,2018-04-21
+247,DI,248,Brooke Burling,132,Arizona,4,2018-04-27
+248,DI,249,Catherine Raquel,59,Stanford,3,2018-04-27
+249,DI,250,Lauren Durham,398,Stetson,4,2018-04-22
+250,DI,251,Taija Thomas,288,FIU,5,2018-05-04
+251,DI,252,Andie Shelton,306,Pacific,1,2018-04-21
+252,DI,253,Hannah Zalopany,758,Hawaii,5,2018-05-06
+253,DI,254,Tani Stephens,273,Portland,1,2018-04-20
+254,DI,255,Cali Thompson,268,Portland,1,2018-04-20
+255,DI,256,Bella Baumann,975,Grand Canyon,3,2018-04-19
+256,DI,257,Veronica Snelling,1660,Missouri State,1,2018-04-14
+257,DI,258,Taylor Fricano,1654,Missouri State,1,2018-04-14
+258,DI,259,Kelly Hunter,232,Nebraska,1,2018-03-23
+259,DI,260,Chloe Crappell,800,New Mexico,3,2018-04-21
+260,DI,261,Grace Campbell,82,Cal,5,2018-04-28
+261,DI,262,Aly Brinkley,1238,Central Arkansas,2,2018-04-22
+262,DI,263,Kennedy Kurtz,627,"Cal State University, Sacramento",2,2018-04-27
+263,DI,264,Nikki Lyons,819,Pepperdine,5,2018-05-05
+264,DI,265,Mia Merino,78,Cal,4,2018-04-28
+265,DI,266,Mikaela Nocetti,1232,"Cal State University, Sacramento",1,2018-04-27
+266,DI,267,Katie McCullough,453,UNC Wilmington,3,2018-04-21
+267,DI,268,Brynn Montgomery,1922,UNC Wilmington,4,2018-04-21
+268,DI,269,Paige Dreeuws,1061,Hawaii,5,2018-05-06
+269,DI,270,Savannah Siegrist,1270,Jacksonville,1,2018-04-22
+270,DI,271,Kristey Markle,221,Cal State Northridge,2,2018-04-27
+271,DI,272,Nickeisha Williams,226,Cal State Northridge,2,2018-04-27
+272,DI,273,Makenna Martin,1523,Arizona,5,2018-04-27
+273,DI,274,Ginny Gerig,659,Austin Peay State,1,2018-04-20
+274,DI,275,Cecily Gable,657,Austin Peay State,1,2018-04-20
+275,DI,276,Brooke Sassin,951,TCU,5,2018-04-15
+276,DI,277,Colene Hamilton,1241,Central Arkansas,4,2018-04-22
+277,DI,278,Kristine Hjembo,354,Central Arkansas,4,2018-04-22
+278,DI,279,Allison Beckman,442,College of Charleston,4,2018-04-21
+279,DI,280,Lauren Freed,445,College of Charleston,4,2018-04-21
+280,DI,281,Erica Ronda,1506,USF,3,2018-04-20
+281,DI,282,Haley Howell,1503,USF,2,2018-04-20
+282,DI,283,Carly Lowry,410,USF,2,2018-04-20
+283,DI,284,Katie Sarber,984,Grand Canyon,4,2018-04-19
+284,DI,285,Amie Held,459,Georgia State,4,2018-04-21
+285,DI,286,Lindsey Calvin,768,Saint Mary's,4,2018-04-21
+286,DI,287,Nicole DeBolt,483,UNF,4,2018-04-22
+287,DI,288,Madilyn McCarty,1026,UNF,4,2018-04-22
+288,DI,289,Macy Gordon,1191,Cal Poly SLO,4,2018-04-28
+289,DI,290,Marisa Ramsey,1113,Long Beach State,5,2018-04-28
+290,DI,291,Hannah Matt,75,Long Beach State,5,2018-04-28
+291,DI,292,Ashley Delgado,965,Tulane,4,2018-04-21
+292,DI,293,Callie Workman,1029,UNF,3,2018-04-22
+293,DI,294,Madison Besterfield,1078,FIU,3,2018-03-31
+294,DI,295,Addison Hermstad,960,Tulane,4,2018-04-21
+295,DI,296,Payton Chang,48,Stanford,4,2018-04-27
+296,DI,297,Jessica Clark,156,Grand Canyon,5,2018-04-19
+297,DI,298,Emily Martinez,492,UAB,3,2018-04-21
+298,DI,299,Jensen Allen,255,Boise State,3,2018-04-21
+299,DI,300,Kellie Pernula,939,FGCU,5,2018-04-13
+300,DI,301,Katrina Kernochan,750,USC,5,2018-04-10
+301,DI,302,Julia Golbeck,421,San Jose State University,2,2018-04-20
+302,DI,303,Ciara Reistad,775,San Jose State University,2,2018-04-20
+303,DI,304,Kenzie Maloney,236,Nebraska,2,2018-03-23
+304,DI,305,Mariana Dal Pozzo,1246,FIU,5,2018-04-22
+305,DI,306,Kara Woodard,1202,ASU,2,2018-04-15
+306,DI,307,Hi'ilawe Huddleston,766,Hawaii,5,2018-04-15
+307,DI,308,Carla Cahill,585,Coastal Carolina,1,2018-04-14
+308,DI,309,Dora Lulic,583,Coastal Carolina,1,2018-04-14
+309,DI,310,Tressa Buckland,824,UAB,4,2018-04-21
+310,DI,311,Mariana De Paula Silva,816,FIU,5,2018-04-13
+311,DI,312,Jamie Walsh,839,Grand Canyon,5,2018-04-19
+312,DI,313,Hannah Hubbard,275,Cal Poly SLO,5,2018-04-28
+313,DI,314,Kelli Iverson,159,Grand Canyon,1,2018-03-31
+314,DI,315,Katie Will,520,Jacksonville State,1,2018-04-20
+315,DI,316,Briannah Mariner,1451,Cal State Bakersfield,3,2018-04-28
+316,DI,317,Frances Giedraitis,145,ASU,2,2018-04-27
+317,DI,318,Yasmin Tan,1296,New Mexico,3,2018-04-21
+318,DI,319,Lana Brown,625,"Cal State University, Sacramento",2,2018-04-27
+319,DI,320,Rio Frohoff,961,Tulane,4,2018-04-21
+320,DI,321,Maycie LaBass,314,Pacific,1,2018-04-21
+321,DI,322,Katya Silveira,1002,Houston Baptist,3,2018-04-22
+322,DI,323,Bailey Banks,391,Houston Baptist,3,2018-04-22
+323,DI,324,Sydney Palmer,146,ASU,2,2018-04-15
+324,DI,325,Estefanie Bethancourt,291,FIU,4,2018-05-04
+325,DI,326,Natalia Giron,290,FIU,4,2018-05-04
+326,DI,327,Brittany Pase,480,UNF,3,2018-04-22
+327,DI,328,Hanne De Schrijver,1311,Pacific,4,2018-04-21
+328,DI,329,Hannah Rogers,953,TCU,4,2018-04-15
+329,DI,330,Mia Mason,135,Arizona,3,2018-03-31
+330,DI,331,Jordan Westendorf,955,TCU,5,2018-04-15
+331,DI,332,Caitlin Keefe,55,Stanford,4,2018-04-27
+332,DI,333,Kate Novack,463,Georgia State,4,2018-04-21
+333,DI,334,Aleksandra Djordjevic,1970,Cal State Bakersfield,3,2018-04-28
+334,DI,335,Carey Williams,1320,Portland,3,2018-04-20
+335,DI,336,Julia Lewkowicz,301,FAU,5,2018-04-21
+336,DI,337,Meagan McCall,1034,Georgia State,3,2018-03-24
+337,DI,338,Lilly Kessler,101,LSU,5,2018-04-15
+338,DI,339,Claire Newlander,1112,Long Beach State,4,2018-04-28
+339,DI,340,Morgan Robinson,266,Portland,2,2018-04-20
+340,DI,341,Katie Barker,269,Portland,2,2018-04-20
+341,DI,342,Snowy Burnam,1243,FGCU,4,2018-04-22
+342,DI,343,Kayla Whetstone,940,FGCU,4,2018-04-22
+343,DI,344,Maddie Dilfer,969,Pepperdine,5,2018-05-05
+344,DI,345,Kaila Dorish,1046,FAU,4,2018-04-21
+345,DI,346,Madison Fitzpatrick,1014,Florida State,5,2018-05-06
+346,DI,347,Raquel Rooney,456,UNC Wilmington,4,2018-04-21
+347,DI,348,Stephanie Pollnow,355,Central Arkansas,3,2018-04-22
+348,DI,349,Natalie Robinson,1976,Washington,4,2018-04-28
+349,DI,350,Rebecca Ingram,948,Stetson,5,2018-04-22
+350,DI,351,Alexa Richardson,892,Stetson,4,2018-04-14
+351,DI,352,Kelsey Knudsen,1352,Saint Mary's,4,2018-04-21
+352,DI,353,Samantha Plaster,1207,ASU,5,2018-04-27
+353,DI,354,Maddie Leiphardt,229,LMU,4,2018-04-21
+354,DI,355,Lindsey Vander Weide,166,Oregon,1,2018-04-26
+355,DI,356,Kristen Mead,202,Santa Clara,1,2018-04-20
+356,DI,357,Mallory Mattingly,2072,Jacksonville,2,2018-04-22
+357,DI,358,Alaina Chacon,1011,Florida State,4,2018-04-15
+358,DI,359,Julie Varga,793,Stetson,4,2018-04-22
+359,DI,360,Elli Merchant,992,Mercer,4,2018-04-21
+360,DI,361,Erin Bognar,956,UAB,2,2018-04-21
+361,DI,362,Nicole Navarro,304,FAU,4,2018-04-21
+362,DI,363,Hailey Lindberg,208,Santa Clara,1,2018-04-20
+363,DI,364,Mattie Johnson,1033,Georgia State,3,2018-03-24
+364,DI,365,Candice Denny,1947,Arizona,3,2018-02-25
+365,DI,366,Lydia Dimke,1209,South Carolina,5,2018-05-04
+366,DI,367,Chandler Clark,683,Morehead State,2,2018-04-20
+367,DI,368,Taylor Poncetta,308,Pacific,5,2018-04-21
+368,DI,369,MC Rogers,359,Central Arkansas,4,2018-04-22
+369,DI,370,Morgan Kendrick,1354,Saint Mary's,5,2018-04-11
+370,DI,371,Kate Baldwin,1199,ASU,5,2018-04-27
+371,DI,372,Heather Pembroke,283,Cal Poly SLO,5,2018-04-28
+372,DI,373,Riley Young,112,LSU,5,2018-05-04
+373,DI,374,Maja Kaiser,1052,USC,5,2018-05-05
+374,DI,375,Logan Manusky,1470,College of Charleston,5,2018-04-21
+375,DI,376,Bailey Choy,95,Utah,4,2018-04-27
+376,DI,377,Alexandra Poletto,1482,USC,5,2018-05-05
+377,DI,378,Cierra Flood,1203,ASU,4,2018-04-27
+378,DI,379,Katie Cross,150,ASU,4,2018-04-27
+379,DI,380,Taylor Foley,443,College of Charleston,5,2018-04-21
+380,DI,381,Katinka Krahn,946,Stetson,4,2018-04-14
+381,DI,382,Quinci Birker,947,Stetson,5,2018-04-22
+382,DI,383,Kara Bajema,1304,Washington,5,2018-04-28
+383,DI,384,Tanner Gauthier,2076,Coastal Carolina,3,2018-04-14
+384,DI,385,Jamie Stivers,1226,Cal Poly SLO,4,2018-04-08
+385,DI,386,Natalie Braun,769,ASU,2,2018-04-27
+386,DI,387,Taylor Agost,164,Oregon,2,2018-04-26
+387,DI,388,Tatum Ballard,933,LSU,4,2018-03-31
+388,DI,389,Megan McGrath,1045,FAU,3,2018-03-25
+389,DI,390,Sadie Anderson,514,Jacksonville State,1,2018-04-20
+390,DI,391,Bozena Culo,1009,LMU,4,2018-04-21
+391,DI,392,Emily Reinking,158,Grand Canyon,5,2018-04-07
+392,DI,393,Kimberly Schnars,363,Central Arkansas,2,2018-04-22
+393,DI,394,Delaney Driver,599,Central Arkansas,4,2018-04-22
+394,DI,395,Alexis Patterson,1118,Long Beach State,5,2018-04-15
+395,DI,396,Gabbi Moreno,499,UAB,3,2018-04-21
+396,DI,397,Allyssah Fitterer,1060,Hawaii,5,2018-03-18
+397,DI,398,Natalie Honzovicova,977,Grand Canyon,4,2018-04-19
+398,DI,399,Blake Sharp,1075,Stanford,5,2018-04-27
+399,DI,400,Brennan Miller,1003,Houston Baptist,4,2018-04-22
+400,DI,401,Chloe Reinig,1164,LMU,4,2018-04-20
+401,DI,402,Haley Jared,500,UAB,2,2018-04-06
+402,DI,403,Jo Kremer,31,USC,4,2018-04-17
+403,DI,404,Ali Eager,740,Florida State,3,2018-04-14
+404,DI,405,Elli Gibson,988,Mercer,2,2018-04-21
+405,DI,406,Brianna Vega,532,New Orleans,4,2018-04-22
+406,DI,407,Kyla Augustine,1923,UNC Wilmington,5,2018-03-25
+407,DI,408,Jaymee-Lee Bulda,256,Boise State,3,2018-04-21
+408,DI,409,Cierra Simpson,1163,LMU,5,2018-04-21
+409,DI,410,Kristen Castellanos,254,LMU,5,2018-04-21
+410,DI,411,Hannah Edelman,125,South Carolina,5,2018-03-17
+411,DI,412,Hannah Kirk,512,Jacksonville State,2,2018-04-20
+412,DI,413,Sallianne Napolitano,958,UAB,5,2018-04-21
+413,DI,414,Jordan Schumacher,1640,New Orleans,3,2018-04-22
+414,DI,415,Kaitlyn Grice,1991,New Orleans,3,2018-04-22
+415,DI,416,Caroline Skaff,124,South Carolina,5,2018-04-22
+416,DI,417,Kristy Wieser,954,TCU,5,2018-04-15
+417,DI,418,Lauren McMurray,1229,Cal State Northridge,3,2018-04-27
+418,DI,419,Jenna Panning,654,Austin Peay State,2,2018-04-20
+419,DI,420,Laura Parts,2044,San Jose State University,4,2018-04-20
+420,DI,421,Avery Arellano,322,TCU,4,2018-04-15
+421,DI,422,Autumn Russell,228,Cal State Northridge,3,2018-04-27
+422,DI,423,Camille Araujo,415,USF,3,2018-04-20
+423,DI,424,Erin Byrne,1077,FIU,5,2018-03-23
+424,DI,425,Carolyn Cain,1022,UNF,5,2018-04-06
+425,DI,426,Mallory Waggoner,1020,UNF,5,2018-04-22
+426,DI,427,Sienna Young,196,Saint Mary's,5,2018-04-21
+427,DI,428,Aubrey Ezell,1208,South Carolina,2,2018-04-14
+428,DI,429,Allie Elson,462,Georgia State,5,2018-04-21
+429,DI,430,Luiza Andrade,417,San Jose State University,3,2018-04-20
+430,DI,431,Kali Fluke,1005,Houston Baptist,5,2018-04-22
+431,DI,432,Kelsey Larsen,2116,Missouri State,3,2018-04-14
+432,DI,433,Eden Hawes,1032,Georgia State,5,2018-04-06
+433,DI,434,Kaylie Milton,1275,Jacksonville State,2,2018-04-15
+434,DI,435,Caroline Cordes,930,Arizona,5,2018-04-27
+435,DI,436,Ryann Thomison,2112,San Jose State University,5,2018-04-20
+436,DI,437,Jessica Johnson,346,Mercer,2,2018-04-21
+437,DI,438,Madi Fitzsimmons,617,Texas A&M Corpus Christi,3,2018-04-20
+438,DI,439,August Raskie,802,Oregon,1,2018-04-26
+439,DI,440,Shayla Schmidt,516,Jacksonville State,3,2018-04-20
+440,DI,441,Madi Wilkerson,188,Saint Mary's,5,2018-04-21
+441,DI,442,Mattison Degarmo,771,Cal State Bakersfield,3,2018-04-28
+442,DI,443,Emily Lopes,436,Cal State Bakersfield,3,2018-04-28
+443,DI,444,Kendall Bosse,1410,Abilene Christian,1,2018-04-22
+444,DI,445,Jacey Smith,1409,Abilene Christian,1,2018-04-22
+445,DI,446,Marina Chavez,348,Mercer,5,2018-04-21
+446,DI,447,Blessings Dunn,2002,New Orleans,4,2018-04-22
+447,DI,448,Katie Gavin,973,Pepperdine,5,2018-03-03
+448,DI,449,Ashley Bauchert,1035,Georgia State,5,2018-03-31
+449,DI,450,Taylor Bradley,110,LSU,3,2018-03-24
+450,DI,451,Emily Hardesty,937,LSU,5,2018-03-24
+451,DI,452,Kaylee McClure,957,UAB,4,2018-04-21
+452,DI,453,Nikki Esposito,20,Florida State,2,2018-04-15
+453,DI,454,Eighmy Dobbins,1406,Abilene Christian,1,2018-04-22
+454,DI,455,Kinga Windisch,2075,Coastal Carolina,3,2018-04-14
+455,DI,456,Chloe Luyties,1059,Hawaii,3,2018-03-20
+456,DI,457,Brayden Gruenewald,280,Cal Poly SLO,4,2018-04-08
+457,DI,458,Gabriella Becerra,966,Tulane,4,2018-04-21
+458,DI,459,Sarah Kelly,450,UNC Wilmington,3,2018-04-21
+459,DI,460,Rachel Evans,498,UAB,5,2018-03-02
+460,DI,461,Cristina Finan,477,Jacksonville,4,2018-04-22
+461,DI,462,Macey Hayden,1234,"Cal State University, Sacramento",4,2018-04-27
+462,DI,463,Sjea Anderson,1195,Cal Poly SLO,5,2018-03-10
+463,DI,464,Olivia Lee,1193,Cal Poly SLO,5,2018-03-10
+464,DI,465,Sara Boothe,2109,Coastal Carolina,5,2018-04-11
+465,DI,466,Kahlee York,931,LSU,5,2018-03-31
+466,DI,467,Summer Avery,418,San Jose State University,5,2018-04-20
+467,DI,468,Lauren Petersen,1267,Jacksonville,2,2018-04-22
+468,DI,469,Berkeley Oblad,91,Utah,4,2018-04-27
+469,DI,470,Nicole Decker,934,LSU,3,2018-03-03
+470,DI,471,Josie Cole,1444,Oregon,2,2018-04-26
+471,DI,472,Katelyn Theiss,1157,Austin Peay State,4,2018-04-20
+472,DI,473,Emma Kirst,1111,Long Beach State,5,2018-04-14
+473,DI,474,Jaime Thomas,1925,UNC Wilmington,5,2018-04-21
+474,DI,475,Allison Kantor,200,Santa Clara,4,2018-03-03
+475,DI,476,Thaliana Grajeda,422,San Jose State University,4,2018-04-07
+476,DI,477,Tessie Powers,1915,Santa Clara,3,2018-04-20
+477,DI,478,Jamie McQuarrie,925,UCLA,5,2018-03-17
+478,DI,479,Kenzie Koerber,1132,Utah,3,2018-04-27
+479,DI,480,Brooke Moore,1152,Austin Peay State,2,2018-04-20
+480,DI,481,Sarah Savoca,271,Portland,3,2018-04-20
+481,DI,482,Lauren Conati,1230,Cal State Northridge,5,2018-04-27
+482,DI,483,Nicolette Pinkney,225,Cal State Northridge,5,2018-04-27
+483,DI,484,Laura Gauta,1133,Utah,5,2018-04-27
+484,DI,485,Chanti Holroyd,10,UCLA,5,2018-03-17
+485,DI,486,Sami Slaughter,1289,Nebraska,3,2018-03-23
+486,DI,487,Emma Calle,1306,Washington,5,2018-04-20
+487,DI,488,Haley Turner,1156,Austin Peay State,3,2018-04-20
+488,DI,489,Nicole Grant,303,FAU,3,2018-03-30
+489,DI,490,Paige Swinney,915,"Cal State University, Sacramento",5,2018-04-27
+490,DI,491,Taylor Meyer,1632,ULM,4,2018-04-14
+491,DI,492,Avery Davis,1001,South Carolina,5,2018-03-31
+492,DI,493,Anna Unnasch,163,Grand Canyon,2,2018-03-10
+493,DI,494,Katelyn Mueller,1396,Abilene Christian,3,2018-04-22
+494,DI,495,Charis Ludtke,519,Jacksonville State,1,2018-04-20
+495,DI,496,Kekai Whitford,246,LMU,4,2018-04-07
+496,DI,497,Breann Robinson,425,San Jose State University,3,2018-04-20
+497,DI,498,Abby Waldburger,889,Cal,4,2018-04-14
+498,DI,499,Mackenzie Walker,817,FIU,5,2018-03-23
+499,DI,500,Olivia Lohmeier,1419,Morehead State,2,2018-04-20
+500,DI,501,Danielle Wheeler,395,Houston Baptist,5,2018-04-22
+501,DI,502,Skyler Takeda,623,"Cal State University, Sacramento",4,2018-04-27
+502,DI,503,Hailey Hughes,517,Jacksonville State,3,2018-04-20
+503,DI,504,Julia Hanson,1655,Missouri State,2,2018-04-14
+504,DI,505,Brittany Pellitteri,298,FAU,5,2018-04-21
+505,DI,506,Brittany Velez,1468,College of Charleston,5,2018-04-14
+506,DI,507,Jamie Hirai,423,San Jose State University,3,2018-04-20
+507,DI,508,Jazz Sweat,1292,Nebraska,3,2018-03-23
+508,DI,509,Brianna Sizemore,1057,USC,3,2018-04-10
+509,DI,510,Ashley McGinn,461,Georgia State,5,2018-04-21
+510,DI,511,Nina Korfhage,1158,Austin Peay State,2,2018-04-20
+511,DI,512,Shannon Richardson,61,Stanford,5,2018-04-27
+512,DI,513,Blaire Register,1966,UNF,3,2018-03-04
+513,DI,514,Kendall Murr,1265,Jacksonville,2,2018-04-21
+514,DI,515,Demi McInnis,1872,Texas A&M Corpus Christi,3,2018-04-20
+515,DI,516,Gina Tillis,1159,LSU,5,2018-03-18
+516,DI,517,Jessica Manley,888,Cal Poly SLO,2,2018-04-14
+517,DI,518,Jennifer Laird,1353,Saint Mary's,5,2018-04-11
+518,DI,519,Maya Daukas,1879,Texas A&M Corpus Christi,4,2018-04-22
+519,DI,520,Franky Harrison,122,South Carolina,5,2018-05-04
+520,DI,521,Claire Darland,1155,Austin Peay State,2,2018-04-20
+521,DI,522,Madi Relaz,983,Grand Canyon,4,2018-04-19
+522,DI,523,Ashley Slay,661,Austin Peay State,4,2018-04-20
+523,DI,524,Christina Mcafee,42,Tulane,5,2018-04-08
+524,DI,525,Sam Brinkmann,1649,Missouri State,3,2018-04-14
+525,DI,526,Mikaela Mosquera,1657,Missouri State,3,2018-04-14
+526,DI,527,Sierra Ellett,1200,ASU,2,2018-03-10
+527,DI,528,Gretchen Reinert,1916,Santa Clara,2,2018-04-20
+528,DI,529,Shawnee De Oliveira,1227,Cal State Northridge,5,2018-04-21
+529,DI,530,Cianna Andrews,1231,"Cal State University, Sacramento",5,2018-04-14
+530,DI,531,Jordyn Miller,1004,Houston Baptist,4,2018-04-14
+531,DI,532,Ngozi Nwabuzoh,197,Santa Clara,3,2018-04-20
+532,DI,533,Dora Beilin,779,Cal Poly SLO,5,2018-03-10
+533,DI,534,Hayley Sturgeon,1967,San Jose State University,3,2018-04-07
+534,DI,535,Lauren Sproule,99,Utah,5,2018-04-27
+535,DI,536,Casey Justice,1025,UNF,5,2018-04-22
+536,DI,537,Michelle Gajdka,204,Santa Clara,5,2018-04-20
+537,DI,538,Lainy Thomas,749,USC,5,2018-03-24
+538,DI,539,Lauren Page,167,Oregon,3,2018-04-26
+539,DI,540,Willow Johnson,168,Oregon,3,2018-04-26
+540,DI,541,Nora Buvarp Lavik,408,USF,3,2018-04-20
+541,DI,542,Daniella Molinari,908,Cal State Northridge,4,2018-04-27
+542,DI,543,Kylie Keeling,991,Mercer,4,2018-04-21
+543,DI,544,Gabriella Johnston,1880,Texas A&M Corpus Christi,5,2018-04-14
+544,DI,545,Anezka Szabo,1290,Nebraska,4,2018-02-25
+545,DI,546,Chloe Newton,1308,Washington,5,2018-03-30
+546,DI,547,Courtney Mullinax,898,UNC Wilmington,5,2018-04-21
+547,DI,548,Erin Reineking,201,Santa Clara,5,2018-04-20
+548,DI,549,Mikayla Vivens,2041,Houston Baptist,5,2018-04-22
+549,DI,550,Emily Baptista,311,Pacific,4,2018-04-21
+550,DI,551,Kim Krutsinger,2119,Jacksonville State,5,2018-04-15
+551,DI,552,Maxine Walsh,1639,New Orleans,5,2018-04-22
+552,DI,553,Maya Watkins,1215,Boise State,4,2018-04-21
+553,DI,554,Meagan Carter,1006,Houston Baptist,5,2018-04-14
+554,DI,555,Taylor Odom,1914,Santa Clara,3,2018-04-20
+555,DI,556,Naomi Overstreet,609,Texas A&M Corpus Christi,5,2018-04-22
+556,DI,557,Erin Indermill,227,Cal State Northridge,4,2018-04-27
+557,DI,558,Holland Ponthieux,602,ULM,5,2018-04-14
+558,DI,559,Shaylee Befus,1263,Jacksonville,4,2018-04-22
+559,DI,560,Rhyan Rand,2003,New Orleans,5,2018-03-25
+560,DI,561,Sabrina Blackwell,1499,USF,4,2018-04-20
+561,DI,562,Ashtin Olin,1233,"Cal State University, Sacramento",3,2018-04-27
+562,DI,563,Phoebe Grace,1136,Utah,5,2018-04-15
+563,DI,564,Abbey Wilson,1303,New Mexico,5,2018-04-21
+564,DI,565,Kylee Johnson,1220,Boise State,3,2018-04-21
+565,DI,566,Kaitlyn Lines,1312,Pacific,5,2018-04-14
+566,DI,567,Fernanda Vido,1968,San Jose State University,1,2018-02-25
+567,DI,568,Rebekah Brodbeck,1036,Georgia State,4,2018-03-24
+568,DI,569,Anna McCreadie,1913,Santa Clara,2,2018-04-20
+569,DI,570,Cassidy Rosso,907,Cal State Northridge,4,2018-04-27
+570,DI,571,Kendyl Brennan,963,Tulane,5,2018-03-30
+571,DI,572,Jessie Wachtman,679,Morehead State,1,2018-04-20
+572,DI,573,Liz Allen,676,Morehead State,1,2018-04-20
+573,DI,574,Madison Miller,851,New Orleans,3,2018-04-08
+574,DI,575,Kat Anderson,46,Stanford,5,2018-04-26
+575,DI,576,Ally Carr,1638,New Orleans,5,2018-04-22
+576,DI,577,Tatiana San Juan,198,Santa Clara,4,2018-04-11
+577,DI,578,Samantha Drechsel,2107,Washington,5,2018-04-28
+578,DI,579,Caroline Finnell,1653,Missouri State,4,2018-04-14
+579,DI,580,Lexi Ham,944,Stetson,4,2018-03-24
+580,DI,581,Maddie Gordon,458,Georgia State,5,2018-04-15
+581,DI,582,Aubrey Cheffey,1650,Missouri State,2,2018-03-17
+582,DI,583,Kaitlynn Zdroik,428,San Jose State University,4,2018-04-07
+583,DI,584,Sara Watanabe,2110,Arizona,5,2018-04-14
+584,DI,585,Carly Beddingfield,332,New Mexico,4,2018-04-21
+585,DI,586,Brie Gathright,626,"Cal State University, Sacramento",1,2018-03-10
+586,DI,587,Emilee Wissmach,1288,Mercer,5,2018-04-07
+587,DI,588,Kyra Hanawahine,1445,Oregon,5,2018-04-26
+588,DI,589,Marine Hall-Poirier,170,Oregon,5,2018-04-26
+589,DI,590,Mackenzie Dear,360,Central Arkansas,5,2018-04-22
+590,DI,591,Shelby Holmes,1240,Central Arkansas,5,2018-04-22
+591,DI,592,Hannah Sorensen,997,South Carolina,5,2018-02-23
+592,DI,593,Alex Kells,1374,UAB,4,2018-03-24
+593,DI,594,Jess Vastine,1211,South Carolina,5,2018-04-22
+594,DI,595,Kaylee Taff,656,Austin Peay State,5,2018-04-20
+595,DI,596,Lela Mcintosh,351,Mercer,4,2018-04-21
+596,DI,597,Allie Kemp,1634,ULM,4,2018-04-14
+597,DI,598,Emily Nenninger,1297,New Mexico,5,2018-04-20
+598,DI,599,Shelby Ladewig,821,Coastal Carolina,3,2018-04-14
+599,DI,600,Halle Parker,1205,ASU,2,2018-04-06
+600,DI,601,Jordan Ferrari,974,Pepperdine,5,2018-03-11
+601,DI,602,Marissa Rogers,1028,UNF,5,2018-03-03
+602,DI,603,Annie Pringle,1376,UAB,5,2018-04-21
+603,DI,604,Forfeit 2,2114,Jacksonville,5,2018-04-07
+604,DI,605,Forfeit 1,2113,Jacksonville,5,2018-04-07
+605,DI,606,Maggie Scott,175,Oregon,4,2018-04-26
+606,DI,607,Ronika Stone,803,Oregon,4,2018-04-26
+607,DI,608,Kyla Manning,2077,Coastal Carolina,4,2018-04-14
+608,DI,609,Cassedi Simon,261,Boise State,5,2018-03-10
+609,DI,610,Drew Hanneman,1219,Boise State,5,2018-03-10
+610,DI,611,Lynsey Wright,1661,Missouri State,5,2018-04-14
+611,DI,612,Ivy Reynolds,1659,Missouri State,5,2018-04-14
+612,DI,613,Liz Reich,1317,Portland,5,2018-04-20
+613,DI,614,Alexa Van Komen,1134,Utah,5,2018-04-19
+614,DI,615,Olivia Rook,1875,Texas A&M Corpus Christi,4,2018-04-20
+615,DI,616,Kaity Bailey,214,Pepperdine,5,2018-02-28
+616,DI,617,Courtney VanLiew,1245,FGCU,5,2018-04-22
+617,DI,618,Bethany Randall,1276,Jacksonville State,4,2018-04-15
+618,DI,619,Sam Gott,798,FAU,4,2018-03-17
+619,DI,620,Alyssa Cecil,677,Morehead State,3,2018-04-20
+620,DI,621,Karlee Reynolds,682,Morehead State,3,2018-04-20
+621,DI,622,Ashlan Cunningham,296,FAU,5,2018-03-30
+622,DI,623,Helene Thelle,289,FIU,3,2018-03-16
+623,DI,624,Alanya Ryan,1244,FGCU,5,2018-04-14
+624,DI,625,Brittany Gillingham,1911,Santa Clara,5,2018-03-18
+625,DI,626,Jenna Krenek,1878,Texas A&M Corpus Christi,5,2018-04-22
+626,DI,627,Ashley Clingan,787,Jacksonville State,5,2018-04-20
+627,DI,628,Peyton Boutwell,1404,Abilene Christian,5,2018-02-24
+628,DI,629,Ashlyn Fleming,312,Pacific,5,2018-04-21
+629,DI,630,Reagan Evans,1921,UNC Wilmington,5,2018-03-24
+630,DI,631,Caroline Waite,1153,Austin Peay State,3,2018-03-17
+631,DI,632,Kassidy Naone,1319,Portland,4,2018-04-20
+632,DI,633,Peri Green,1054,USC,5,2018-03-18
+633,DI,634,Kennedy Shelstead,1407,Abilene Christian,3,2018-04-22
+634,DI,635,Jordan Terral,324,TCU,5,2018-04-14
+635,DI,636,Hannah Meadows,782,"Cal State University, Sacramento",3,2018-04-27
+636,DI,637,Shelby Babowicz,475,Jacksonville,4,2018-04-22
+637,DI,638,Brianna Doehrmann,98,Utah,3,2018-04-27
+638,DI,639,Mercedes Pacheco,2046,New Mexico,4,2018-04-21
+639,DI,640,Kayla Walker,1876,Texas A&M Corpus Christi,4,2018-04-22
+640,DI,641,Olivia Petnicki,305,Pacific,5,2018-03-03
+641,DI,642,Sarah Stewart,1287,Mercer,5,2018-03-17
+642,DI,643,Chloe Simon,1873,Texas A&M Corpus Christi,4,2018-04-20
+643,DI,644,Bethany Salapek,1269,Jacksonville,5,2018-04-22
+644,DI,645,Chloe Stitt,1154,Austin Peay State,5,2018-04-20
+645,DI,646,Maddie Beck,1648,Missouri State,3,2018-03-02
+646,DI,647,Briana Correa,32,Tulane,5,2018-04-08
+647,DI,648,Jasmine Schmidt,1948,Nebraska,5,2018-03-23
+648,DI,649,Morgan Esters,962,Tulane,5,2018-03-24
+649,DI,650,Skye Southwick,886,Boise State,5,2018-04-21
+650,DI,651,Lauren Walker,1411,Abilene Christian,2,2018-04-22
+651,DI,652,Brooke Riley,1394,Abilene Christian,2,2018-04-22
+652,DI,653,Kenna Hanses,885,Boise State,5,2018-04-21
+653,DI,654,Allie Havers,1293,Nebraska,5,2018-03-23
+654,DI,655,Laura Leap,1505,USF,4,2018-03-03
+655,DI,656,Kayla Long,1302,New Mexico,5,2018-04-21
+656,DI,657,Amy Weiss,1397,Abilene Christian,4,2018-04-22
+657,DI,658,Sam Bogdan,1271,Jacksonville State,3,2018-03-06
+658,DI,659,Autumn Otto,580,Coastal Carolina,5,2018-04-14
+659,DI,660,Kaitlan Krivdo,504,FGCU,5,2018-04-22
+660,DI,661,Chesney McClellan,1291,Nebraska,4,2018-03-23
+661,DI,662,Haylie Beck,2082,Coastal Carolina,5,2018-04-14
+662,DI,663,McKenna Webster,1633,ULM,5,2018-03-16
+663,DI,664,Jessica Hall,680,Morehead State,2,2018-04-20
+664,DI,665,Mackenzie Rombach,786,Jacksonville State,5,2018-03-24
+665,DI,666,Kayla Frear,1273,Jacksonville State,5,2018-04-20
+666,DI,667,Forfeit 2,2122,Santa Clara,5,2018-04-20
+667,DI,668,Forfeit 1,2121,Santa Clara,5,2018-04-20
+668,DI,669,Bailey Smith,606,ULM,4,2018-04-14
+669,DI,670,Sarah Demmer,1651,Missouri State,4,2018-04-14
+670,DI,671,Claire Doyle,317,TCU,4,2018-03-30
+671,DI,672,Trish Koutsoukos,413,USF,5,2018-03-10
+672,DI,673,Maybeth Sandercox,1402,Abilene Christian,5,2018-04-22
+673,DI,674,Hayley Densberger,1294,Nebraska,4,2018-03-23
+674,DI,675,Hannah Manzanares,429,Cal State Bakersfield,5,2018-03-24
+675,DI,676,Kellie Hughes,1318,Portland,5,2018-03-12
+676,DI,677,Grace Jarnagin,1274,Jacksonville State,4,2018-04-20
+677,DI,678,Lexie Rawls,1400,Abilene Christian,3,2018-03-10
+678,DI,679,Brigitte Murdock,620,"Cal State University, Sacramento",5,2018-04-27
+679,DI,680,Makenzie Kesler,1399,Abilene Christian,4,2018-03-10
+680,DI,681,Pi'ikea Clemens,1501,USF,5,2018-04-20
+681,DI,682,Lauren Rokey,1421,Morehead State,4,2018-04-02
+682,DI,683,Brooke Boiseau,1448,Cal State Bakersfield,4,2018-04-21
+683,DI,684,Krista Hernandez,1450,Cal State Bakersfield,5,2018-04-14
+684,DI,685,Maddie Fella,684,Morehead State,5,2018-04-20
+685,DI,686,Danielle McCarson,675,Morehead State,5,2018-04-20
+686,DI,687,Hannah Marchand,1264,Jacksonville,5,2018-03-28
+687,DI,688,Sydney Wicks,893,Cal State Bakersfield,5,2018-04-28
+688,DI,689,Ally Barber,774,Cal State Bakersfield,5,2018-04-28
+689,DI,690,Lauren Naatz,274,Portland,4,2018-04-20
+690,DI,691,McKenzie Schwan,1315,Portland,5,2018-04-20
+691,DI,692,Aristea Tontai,2079,Coastal Carolina,4,2018-04-13
+692,DI,693,Kalin Eske,2078,Coastal Carolina,4,2018-04-13
+693,DI,694,Sarah Falk,1236,"Cal State University, Sacramento",4,2018-03-16
+694,DI,695,Jordan Jones,674,Morehead State,4,2018-04-20
+695,DI,696,Shannon Levinson,407,USF,5,2018-04-20
+696,DI,697,Tori Reiser,471,Jacksonville,5,2018-04-14
+697,DI,698,Paris Cosley,1398,Abilene Christian,5,2018-04-22
+698,DI,699,Sofia Resendiz,1405,Abilene Christian,5,2018-04-22
+699,DI,700,Maddie Cloutier,511,Jacksonville State,5,2018-04-20
